@@ -1,0 +1,48 @@
+marker:      ref
+parent:      null
+stereotype:  null
+charset:     Unicode (UTF-8)
+exclude:     false
+participant: false
+marker:      spk
+parent:      ref
+stereotype:  Symbolic Association
+charset:     Unicode (UTF-8)
+exclude:     false
+participant: true
+marker:      tx
+parent:      ref
+stereotype:  Symbolic Association
+charset:     Unicode (UTF-8)
+exclude:     false
+participant: false
+marker:      mot
+parent:      tx
+stereotype:  Symbolic Subdivision
+charset:     Unicode (UTF-8)
+exclude:     false
+participant: false
+marker:      mb
+parent:      mot
+stereotype:  Symbolic Subdivision
+charset:     Unicode (UTF-8)
+exclude:     false
+participant: false
+marker:      ge
+parent:      mb
+stereotype:  Symbolic Association
+charset:     Unicode (UTF-8)
+exclude:     false
+participant: false
+marker:      ps
+parent:      mb
+stereotype:  Symbolic Association
+charset:     Unicode (UTF-8)
+exclude:     false
+participant: false
+marker:      ft
+parent:      ref
+stereotype:  Symbolic Association
+charset:     Unicode (UTF-8)
+exclude:     false
+participant: false
