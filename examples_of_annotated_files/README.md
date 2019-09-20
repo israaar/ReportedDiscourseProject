@@ -1,5 +1,5 @@
 press Alt for selecting several annotations
 
-rp: prosodic units
-qt: syntactic unit, so ***order of elements doesn’t matter***
-typ: type of Discourse Report
+- rp: prosodic units
+- qt: syntactic unit, so ***order of elements doesn’t matter***
+- typ: type of Discourse Report
