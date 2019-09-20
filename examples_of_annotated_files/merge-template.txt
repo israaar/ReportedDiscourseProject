@@ -1,0 +1,44 @@
+1)	Open the file that is to be merged with the template
+2)	Got to Type > Import types
+3)	Change the file extension to .etf, navigate to and select SR_Template.etf
+4)	Click close (it will appear as if nothing has happened)
+5)	Go to Tier > Add new tier (ref@SP1 with type ref)
+6)	Go to Tier > Change parent of tier 
+7)	Select transcription tier, click next
+8)	Select ref@SP1, click next
+9)	Select tx as the type
+10)	 Click finish
+11)	 A copied set of tiers will now appear under ref@SP1
+12)	 Change transcription tier to tx@SP1 with tx as the type
+13)	 Change translation tier to ft@SP1 with ft as the type
+14)	 Change word tier to mot@SP1 with mot as the type
+15)	 Change pos tier to ps@SP1 with rx as the type
+16)	 Change any other tiers to match those in SR_Template
+17)	 Go to tier > Copy annotations from tier to tier
+18)	 Select the transcription tier 
+19)	 Click next
+20)	 Select ref@SP1
+21)	 Click finish
+22)	 ref@SP1 will now have all the annotations from the transcription tier
+23)	 Save and close
+24)	 Go to file > new 
+25)	 Select template and navigate to SR_Template.etf
+26)	 go to File > Merge transcriptions 
+27)	 on the first box click Use current transcription
+28)	 Under second source, browse for your file
+29)	 Click Append Annotations
+30)	Select the option “after last annotation” in the first source file
+
+It doesn’t matter if you tick Add linked media and secondary files as you can always add them to the ELAN files afterwards.
+31)	Destination: Call it FILENAME_merged.eaf
+32)	Save
+33)	Click Next
+34)	Under Select Tiers from the second source, select all original tiers
+35)	Click the box next to “Allow existing annotations to be overwritten”
+36)	 Click Finish
+37)	 Open in ELAN
+38)	Edit > linked files > Add… > Search mp4 and wav > Apply > Save
+39)	 Go to Tier > Label and Number annotations
+40)	 Select ref@SP1
+41)	 Ok
+42)	 Finished!
