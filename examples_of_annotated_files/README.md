@@ -1,4 +1,5 @@
 THE LAST VERSION OF TEMPLATE: SR-Template.etf
+
 press Alt for selecting several annotations
 
 - rp: prosodic units
