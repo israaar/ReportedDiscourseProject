@@ -1,1 +1,1 @@
-Here I will store my files abbotated in ELAN.
+Here I will store my files annotated in ELAN.
