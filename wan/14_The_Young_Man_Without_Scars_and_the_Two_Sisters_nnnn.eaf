@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-25T13:15:29+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-26T21:47:35+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9719831b-b6cf-4c20-9bef-09fe023359f6</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2672</PROPERTY>
@@ -7564,12 +7564,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1361" ANNOTATION_REF="a758">
-                <ANNOTATION_VALUE>unmarried.malittle</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>unmarried.maid</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1362" ANNOTATION_REF="a759">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>little</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

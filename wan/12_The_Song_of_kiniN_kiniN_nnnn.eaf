@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2018-11-01T19:47:35+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-26T21:47:14+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:15065b94-362c-4cce-ae5f-2257e0e160fc</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2555</PROPERTY>
@@ -618,7 +618,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2522" CVE_REF="cveid5" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts178">
-                <ANNOTATION_VALUE>Discourse Report </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Discourse Report</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7135,12 +7135,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1273" ANNOTATION_REF="a697">
-                <ANNOTATION_VALUE>+poss.father</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>+poss.aln</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1274" ANNOTATION_REF="a698">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>father</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7435,12 +7435,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1333" ANNOTATION_REF="a758">
-                <ANNOTATION_VALUE>that.on+3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that.one</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1334" ANNOTATION_REF="a759">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>+3sg</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8600,12 +8600,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1566" ANNOTATION_REF="a993">
-                <ANNOTATION_VALUE>that.on+3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that.one</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1567" ANNOTATION_REF="a994">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>+3sg</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

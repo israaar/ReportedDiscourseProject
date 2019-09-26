@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2018-12-27T22:25:29+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-26T21:50:23+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bf28d932-e909-41ee-ae8a-1e30f28cff46</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">3111</PROPERTY>

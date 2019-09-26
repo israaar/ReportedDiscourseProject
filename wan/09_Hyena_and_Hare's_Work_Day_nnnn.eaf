@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-25T13:13:26+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-26T21:45:54+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:acd49972-e209-4716-8c42-c68a6a453c1f</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">4832</PROPERTY>
@@ -14516,12 +14516,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2514" ANNOTATION_REF="a1455">
-                <ANNOTATION_VALUE>go:pa3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>go:past</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2515" ANNOTATION_REF="a1456">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>3sg</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14891,37 +14891,37 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2589" ANNOTATION_REF="a1530">
-                <ANNOTATION_VALUE>hare</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>take</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2590" ANNOTATION_REF="a1531">
-                <ANNOTATION_VALUE>little</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>hare</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2591" ANNOTATION_REF="a1532">
-                <ANNOTATION_VALUE>arm</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>little</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2592" ANNOTATION_REF="a1533">
-                <ANNOTATION_VALUE>move</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>arm</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2593" ANNOTATION_REF="a1534">
-                <ANNOTATION_VALUE>song</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>move</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2594" ANNOTATION_REF="a1535">
-                <ANNOTATION_VALUE>def</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>song</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2595" ANNOTATION_REF="a1536">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>def</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18381,12 +18381,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3286" ANNOTATION_REF="a2234">
-                <ANNOTATION_VALUE>peoplepl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>people</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3287" ANNOTATION_REF="a2235">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
