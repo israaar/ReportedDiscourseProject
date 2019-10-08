@@ -25,14 +25,14 @@
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
-        <String>Tier</String>
-        <String>Initials</String>
-        <String>Comment</String>
         <String>Thread</String>
-        <String>Sender</String>
-        <String>Recipient</String>
-        <String>Creation Date</String>
-        <String>Modification Date</String>
+        <String>Acteur</String>
+        <String>Initiales</String>
+        <String>Commentaire</String>
+        <String>Expéditeur</String>
+        <String>Destinataire</String>
+        <String>Date de création</String>
+        <String>Date de modification</String>
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>1</Int>
@@ -44,7 +44,7 @@
         <Float>280.0</Float>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>6</Int>
+        <Int>1</Int>
     </pref>
     <pref key="Annotate.Tier.Pos">
         <String>rx</String>
@@ -63,10 +63,7 @@
             <Object class="java.awt.Color">0,160,160</Object>
         </pref>
     </prefGroup>
-    <prefList key="CommentViewer.Columns.Hidden">
-        <String>Sender</String>
-        <String>Recipient</String>
-    </prefList>
+    <prefList key="CommentViewer.Columns.Hidden"/>
     <pref key="Annotate.Tier.Gloss">
         <String>ge</String>
     </pref>
@@ -74,7 +71,7 @@
         <Object class="java.awt.Point">0,4</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>152600</Long>
+        <Long>40690</Long>
     </pref>
     <pref key="Interlinear.Tier.Parse">
         <String>mb</String>
@@ -83,7 +80,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>152600</Long>
+        <Long>40690</Long>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
@@ -111,26 +108,23 @@
             <String>///C:/Users/806251/Documents/bashkir/2017/160819_mfsB_Mashina_nochju_1.wav</String>
         </pref>
     </prefGroup>
-    <pref key="ActiveRecognizerName">
-        <String>AAM-LR Phone level audio segmentation</String>
-    </pref>
     <prefGroup key="CommentViewer.Columns">
-        <pref key="Modification Date">
+        <pref key="Commentaire">
             <Int>75</Int>
         </pref>
-        <pref key="Sender">
-            <Int>0</Int>
-        </pref>
-        <pref key="Tier">
+        <pref key="Initiales">
             <Int>75</Int>
         </pref>
-        <pref key="Creation Date">
+        <pref key="Date de création">
             <Int>75</Int>
         </pref>
-        <pref key="Initials">
+        <pref key="Destinataire">
             <Int>75</Int>
         </pref>
-        <pref key="Comment">
+        <pref key="Expéditeur">
+            <Int>75</Int>
+        </pref>
+        <pref key="Date de modification">
             <Int>75</Int>
         </pref>
         <pref key="End Time">
@@ -139,24 +133,30 @@
         <pref key="Start Time">
             <Int>75</Int>
         </pref>
-        <pref key="Recipient">
-            <Int>0</Int>
+        <pref key="Acteur">
+            <Int>75</Int>
         </pref>
         <pref key="Thread">
             <Int>75</Int>
         </pref>
     </prefGroup>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>ref@SP1</String>
+        <String>ge@SP1</String>
+    </pref>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="Interlinear.Tier.Gloss">
         <String>ge</String>
     </pref>
+    <pref key="TextViewer.TierName">
+        <String>ge@SP1</String>
+    </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>146685</Long>
+        <Long>174875</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>157800</Long>
+        <Long>43222</Long>
     </pref>
 </preferences>

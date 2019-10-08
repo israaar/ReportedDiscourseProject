@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-26T16:37:28+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-10-08T17:40:33+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/BASHKIR_TEXTS/Audio/TextsAnnotatedGlossed/110720_zdn_Lenivye_synovja.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4df9ac1d-78fe-414a-a296-6bd1e5094622</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">1517</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1518</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="7910"/>
@@ -37,27 +37,29 @@
         <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="89870"/>
         <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="94504"/>
         <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="94504"/>
-        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="96352"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="94504"/>
         <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="96352"/>
-        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="100058"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="96352"/>
         <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="100058"/>
-        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="100529"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="100058"/>
         <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="100529"/>
-        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="100530"/>
-        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="100670"/>
-        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="107160"/>
-        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="107160"/>
-        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="112000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="112050"/>
-        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="112050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="100529"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="100529"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="100530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="100670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="107160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="107160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="112000"/>
         <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="112050"/>
         <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="112050"/>
-        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="114112"/>
-        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="114112"/>
-        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="122362"/>
-        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="122362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="112050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="112050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="114112"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="114112"/>
         <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="122362"/>
         <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="122362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="122362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="122362"/>
     </TIME_ORDER>
     <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ref" PARTICIPANT="SP1" TIER_ID="ref@SP1">
         <ANNOTATION>
@@ -131,22 +133,22 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann990" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts38">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann990" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts40">
                 <ANNOTATION_VALUE>110720_zdn_Lenivye_synovja.015</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1176" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1176" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
                 <ANNOTATION_VALUE>110720_zdn_Lenivye_synovja.016</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1271" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1271" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
                 <ANNOTATION_VALUE>110720_zdn_Lenivye_synovja.017</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1377" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts49">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1377" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts51">
                 <ANNOTATION_VALUE>110720_zdn_Lenivye_synovja.018</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -7602,46 +7604,51 @@
     </TIER>
     <TIER ANNOTATOR="08" DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="rp" PARTICIPANT="SP1" TIER_ID="rp@SP1">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1508" CVE_REF="cveid0" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1508" CVE_REF="cveid0" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
                 <ANNOTATION_VALUE>Discourse Reporting Event</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1509" CVE_REF="cveid5" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1509" CVE_REF="cveid5" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
                 <ANNOTATION_VALUE>Discourse Report</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1510" CVE_REF="cveid1" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1510" CVE_REF="cveid1" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts37">
                 <ANNOTATION_VALUE>Quotative</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1511" CVE_REF="cveid0" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1511" CVE_REF="cveid0" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
                 <ANNOTATION_VALUE>Discourse Reporting Event</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1512" CVE_REF="cveid5" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts50">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1512" CVE_REF="cveid5" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
                 <ANNOTATION_VALUE>Discourse Report</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER DEFAULT_LOCALE="fr" LANG_REF="eng" LINGUISTIC_TYPE_REF="ref" TIER_ID="comm">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1513" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts52">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1518" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>ti QUOTE tej</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1513" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts54">
                 <ANNOTATION_VALUE>no tip</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="10" DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="qt" PARTICIPANT="SP1" TIER_ID="qt@SP1">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1514" CVE_REF="cveid4" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts37">
-                <ANNOTATION_VALUE>DR Event + Quote + Quotative</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1514" CVE_REF="cveid0" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Other</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1515" CVE_REF="cveid1" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts51">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1515" CVE_REF="cveid1" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts53">
                 <ANNOTATION_VALUE>DR Event + Quote</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -7690,6 +7697,45 @@
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="par">
+        <DESCRIPTION LANG_REF="eng">participant mentioned in reported speech event</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="reported listener" LANG_REF="eng">RL</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="reported speaker" LANG_REF="eng">RS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="other" LANG_REF="eng">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="current speaker" LANG_REF="eng">CS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="current listener" LANG_REF="eng">CL</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="vocatives, terms of address" LANG_REF="eng">Address</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="rp">
+        <DESCRIPTION LANG_REF="eng">the reported phrase</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="&quot;she said&quot;, &quot;they told her&quot; etc." LANG_REF="eng">Discourse Reporting Event</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="Quotative Particle" LANG_REF="eng">Quotative</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="speech or thoughts that are being reported" LANG_REF="eng">Discourse Report</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="like, this, etc" LANG_REF="eng">Demonstrative</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="eng">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="pn">
         <DESCRIPTION LANG_REF="eng">pronoun</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid0">
@@ -7765,24 +7811,6 @@
             <CVE_VALUE DESCRIPTION="she said he said" LANG_REF="eng">Embedded</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="rp">
-        <DESCRIPTION LANG_REF="eng">the reported phrase</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid0">
-            <CVE_VALUE DESCRIPTION="&quot;she said&quot;, &quot;they told her&quot; etc." LANG_REF="eng">Discourse Reporting Event</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid1">
-            <CVE_VALUE DESCRIPTION="Quotative Particle" LANG_REF="eng">Quotative</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid5">
-            <CVE_VALUE DESCRIPTION="speech or thoughts that are being reported" LANG_REF="eng">Discourse Report</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid6">
-            <CVE_VALUE DESCRIPTION="like, this, etc" LANG_REF="eng">Demonstrative</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid2">
-            <CVE_VALUE LANG_REF="eng">Other</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="qt">
         <DESCRIPTION LANG_REF="eng">morphosyntactic type of discourse reporting construction</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid1">
@@ -7799,27 +7827,6 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid5">
             <CVE_VALUE DESCRIPTION="I am here QUOT" LANG_REF="eng">Quotative + Quote</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="par">
-        <DESCRIPTION LANG_REF="eng">participant mentioned in reported speech event</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid0">
-            <CVE_VALUE DESCRIPTION="reported listener" LANG_REF="eng">RL</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid1">
-            <CVE_VALUE DESCRIPTION="reported speaker" LANG_REF="eng">RS</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid2">
-            <CVE_VALUE DESCRIPTION="other" LANG_REF="eng">Other</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid3">
-            <CVE_VALUE DESCRIPTION="current speaker" LANG_REF="eng">CS</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid4">
-            <CVE_VALUE DESCRIPTION="current listener" LANG_REF="eng">CL</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid5">
-            <CVE_VALUE DESCRIPTION="vocatives, terms of address" LANG_REF="eng">Address</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </ANNOTATION_DOCUMENT>

@@ -24,14 +24,14 @@
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
-        <String>Tier</String>
-        <String>Initials</String>
-        <String>Comment</String>
         <String>Thread</String>
-        <String>Sender</String>
-        <String>Recipient</String>
-        <String>Creation Date</String>
-        <String>Modification Date</String>
+        <String>Acteur</String>
+        <String>Initiales</String>
+        <String>Commentaire</String>
+        <String>Expéditeur</String>
+        <String>Destinataire</String>
+        <String>Date de création</String>
+        <String>Date de modification</String>
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>1</Int>
@@ -40,7 +40,7 @@
         <String>_</String>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>181.0</Float>
+        <Float>388.00003</Float>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>6</Int>
@@ -62,10 +62,7 @@
             <Object class="java.awt.Color">90,160,160</Object>
         </pref>
     </prefGroup>
-    <prefList key="CommentViewer.Columns.Hidden">
-        <String>Sender</String>
-        <String>Recipient</String>
-    </prefList>
+    <prefList key="CommentViewer.Columns.Hidden"/>
     <pref key="Annotate.Tier.Gloss">
         <String>ge</String>
     </pref>
@@ -73,7 +70,7 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>113121</Long>
+        <Long>103823</Long>
     </pref>
     <pref key="Interlinear.Tier.Parse">
         <String>mb</String>
@@ -82,7 +79,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>113530</Long>
+        <Long>103823</Long>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
@@ -114,22 +111,22 @@
         <String>ref@SP1</String>
     </pref>
     <prefGroup key="CommentViewer.Columns">
-        <pref key="Modification Date">
+        <pref key="Commentaire">
             <Int>75</Int>
         </pref>
-        <pref key="Sender">
-            <Int>0</Int>
-        </pref>
-        <pref key="Tier">
+        <pref key="Initiales">
             <Int>75</Int>
         </pref>
-        <pref key="Creation Date">
+        <pref key="Date de création">
             <Int>75</Int>
         </pref>
-        <pref key="Initials">
+        <pref key="Destinataire">
             <Int>75</Int>
         </pref>
-        <pref key="Comment">
+        <pref key="Expéditeur">
+            <Int>75</Int>
+        </pref>
+        <pref key="Date de modification">
             <Int>75</Int>
         </pref>
         <pref key="End Time">
@@ -138,8 +135,8 @@
         <pref key="Start Time">
             <Int>75</Int>
         </pref>
-        <pref key="Recipient">
-            <Int>0</Int>
+        <pref key="Acteur">
+            <Int>75</Int>
         </pref>
         <pref key="Thread">
             <Int>75</Int>
@@ -149,10 +146,10 @@
         <String>ge</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>117162</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>116227</Long>
+        <Long>108380</Long>
     </pref>
 </preferences>

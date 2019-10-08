@@ -73,7 +73,7 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>75420</Long>
+        <Long>59990</Long>
     </pref>
     <pref key="Interlinear.Tier.Parse">
         <String>mb</String>
@@ -82,7 +82,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>75619</Long>
+        <Long>59990</Long>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
@@ -149,10 +149,10 @@
         <String>ge</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>81801</Long>
+        <Long>82908</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>84270</Long>
+        <Long>62900</Long>
     </pref>
 </preferences>

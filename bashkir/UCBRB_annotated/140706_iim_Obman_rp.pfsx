@@ -24,10 +24,10 @@
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
+        <String>Thread</String>
         <String>Acteur</String>
         <String>Initiales</String>
         <String>Commentaire</String>
-        <String>Thread</String>
         <String>Expéditeur</String>
         <String>Destinataire</String>
         <String>Date de création</String>
@@ -52,20 +52,17 @@
         <pref key="comm">
             <Object class="java.awt.Color">0,0,160</Object>
         </pref>
-        <pref key="rp@SP1">
-            <Object class="java.awt.Color">160,90,90</Object>
-        </pref>
         <pref key="ref@SP1">
             <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="rp@SP1">
+            <Object class="java.awt.Color">160,90,90</Object>
         </pref>
         <pref key="qt@SP1">
             <Object class="java.awt.Color">90,160,0</Object>
         </pref>
     </prefGroup>
-    <prefList key="CommentViewer.Columns.Hidden">
-        <String>Destinataire</String>
-        <String>Expéditeur</String>
-    </prefList>
+    <prefList key="CommentViewer.Columns.Hidden"/>
     <pref key="Annotate.Tier.Gloss">
         <String>ge</String>
     </pref>
@@ -124,10 +121,10 @@
             <Int>75</Int>
         </pref>
         <pref key="Destinataire">
-            <Int>0</Int>
+            <Int>75</Int>
         </pref>
         <pref key="Expéditeur">
-            <Int>0</Int>
+            <Int>75</Int>
         </pref>
         <pref key="Date de modification">
             <Int>75</Int>

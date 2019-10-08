@@ -24,10 +24,10 @@
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
+        <String>Thread</String>
         <String>Acteur</String>
         <String>Initiales</String>
         <String>Commentaire</String>
-        <String>Thread</String>
         <String>Expéditeur</String>
         <String>Destinataire</String>
         <String>Date de création</String>
@@ -43,7 +43,7 @@
         <Float>244.0</Float>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>6</Int>
+        <Int>4</Int>
     </pref>
     <pref key="Annotate.Tier.Pos">
         <String>rx</String>
@@ -52,20 +52,17 @@
         <pref key="comm">
             <Object class="java.awt.Color">90,0,90</Object>
         </pref>
-        <pref key="rp@SP1">
-            <Object class="java.awt.Color">90,0,0</Object>
-        </pref>
         <pref key="ref@SP1">
             <Object class="java.awt.Color">0,90,160</Object>
+        </pref>
+        <pref key="rp@SP1">
+            <Object class="java.awt.Color">90,0,0</Object>
         </pref>
         <pref key="qt@SP1">
             <Object class="java.awt.Color">0,90,0</Object>
         </pref>
     </prefGroup>
-    <prefList key="CommentViewer.Columns.Hidden">
-        <String>Destinataire</String>
-        <String>Expéditeur</String>
-    </prefList>
+    <prefList key="CommentViewer.Columns.Hidden"/>
     <pref key="Annotate.Tier.Gloss">
         <String>ge</String>
     </pref>
@@ -82,7 +79,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>208049</Long>
+        <Long>194530</Long>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
@@ -124,10 +121,10 @@
             <Int>75</Int>
         </pref>
         <pref key="Destinataire">
-            <Int>0</Int>
+            <Int>75</Int>
         </pref>
         <pref key="Expéditeur">
-            <Int>0</Int>
+            <Int>75</Int>
         </pref>
         <pref key="Date de modification">
             <Int>75</Int>
@@ -153,6 +150,6 @@
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>208873</Long>
+        <Long>202600</Long>
     </pref>
 </preferences>
