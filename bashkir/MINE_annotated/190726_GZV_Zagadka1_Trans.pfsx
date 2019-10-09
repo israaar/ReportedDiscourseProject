@@ -7,9 +7,17 @@
         <String>mot@SP1</String>
         <String>mb@SP1</String>
         <String>ge@SP1</String>
+        <String>par@SP1</String>
         <String>ps@SP1</String>
-        <String>gr@SP1</String>
+        <String>ft_rus@SP1</String>
+        <String>tx@SP-cp</String>
         <String>ft@SP1</String>
+        <String>lit@SP1</String>
+        <String>not@SP1</String>
+        <String>comm</String>
+        <String>rp@SP1</String>
+        <String>typ@SP1</String>
+        <String>qt@SP1</String>
     </prefList>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -17,10 +25,10 @@
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
-        <String>Thread</String>
         <String>Tier</String>
         <String>Initials</String>
         <String>Comment</String>
+        <String>Thread</String>
         <String>Sender</String>
         <String>Recipient</String>
         <String>Creation Date</String>
@@ -32,71 +40,98 @@
     <pref key="MorphemeBreakCharacter.Stem">
         <String>_</String>
     </pref>
-    <pref key="LayoutManager.SelectedTabIndex">
-        <Int>6</Int>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>307.0</Float>
     </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>4</Int>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="comm">
+            <Object class="java.awt.Color">160,90,90</Object>
+        </pref>
+        <pref key="rp@SP1">
+            <Object class="java.awt.Color">0,90,160</Object>
+        </pref>
+        <pref key="ref@SP1">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="qt@SP1">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+    </prefGroup>
     <pref key="Annotate.Tier.Pos">
         <String>rx</String>
     </pref>
-    <prefGroup key="TierColors">
-        <pref key="ref@SP1">
-            <Object class="java.awt.Color">160,160,0</Object>
-        </pref>
-    </prefGroup>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
     <pref key="Annotate.Tier.Gloss">
         <String>ge</String>
     </pref>
-    <prefList key="CommentViewer.Columns.Hidden"/>
     <pref key="FrameLocation">
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>105255</Long>
+        <Long>155120</Long>
     </pref>
     <pref key="Interlinear.Tier.Parse">
-        <String>mb</String>
+        <String>mb@SP1</String>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
+    <pref key="LexiconFileDir">
+        <String>C:\Users\GestionERC\Desktop\ReportedDiscourseProject\bashkir</String>
+    </pref>
     <pref key="MediaTime">
-        <Long>105255</Long>
+        <Long>155275</Long>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
     </pref>
+    <pref key="MultiTierViewer.ShowNumberOfAnnotations">
+        <Boolean>false</Boolean>
+    </pref>
     <pref key="Interlinear.Tier.Word">
-        <String>mot</String>
+        <String>mot@SP1</String>
+    </pref>
+    <pref key="MultiTierViewer.TierSortingMode">
+        <Int>1</Int>
     </pref>
     <pref key="Interlinear.Tier.Pos">
-        <String>rx</String>
+        <String>ps@SP1</String>
     </pref>
     <pref key="MorphemeBreakCharacter.Suffix">
         <String>-=</String>
     </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>307.0</Float>
+    </pref>
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1920,1040</Object>
+    </pref>
+    <pref key="MorphemeBreakCharacter.Transmit">
+        <Int>0</Int>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>130715_gaj_Novaja_shkola.wav</String>
+            <String>///Users/katyaaplonova/Desktop/bashkir_tales/190726/190726_GZV_Zagadka1.wav</String>
         </pref>
     </prefGroup>
     <pref key="ActiveRecognizerName">
         <String>AAM-LR Phone level audio segmentation</String>
-    </pref>
-    <pref key="MultiTierViewer.ActiveTierName">
-        <String>ref@SP1</String>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Modification Date">
             <Int>75</Int>
         </pref>
         <pref key="Sender">
-            <Int>75</Int>
+            <Int>0</Int>
         </pref>
         <pref key="Tier">
             <Int>75</Int>
@@ -117,20 +152,26 @@
             <Int>75</Int>
         </pref>
         <pref key="Recipient">
-            <Int>75</Int>
+            <Int>0</Int>
         </pref>
         <pref key="Thread">
             <Int>75</Int>
         </pref>
     </prefGroup>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>comm</String>
+    </pref>
     <pref key="Interlinear.Tier.Gloss">
-        <String>ge</String>
+        <String>ge@SP1</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>98895</Long>
+        <Long>58967</Long>
+    </pref>
+    <pref key="Interlinear.LexiconSource">
+        <String>C:\Users\GestionERC\Desktop\ReportedDiscourseProject\bashkir\190911_bashkir_dic_elan.eafl</String>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>110125</Long>
+        <Long>162090</Long>
     </pref>
 </preferences>

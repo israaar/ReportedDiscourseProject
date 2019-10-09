@@ -7,9 +7,17 @@
         <String>mot@SP1</String>
         <String>mb@SP1</String>
         <String>ge@SP1</String>
+        <String>par@SP1</String>
         <String>ps@SP1</String>
         <String>gr@SP1</String>
         <String>ft@SP1</String>
+        <String>lit@SP1</String>
+        <String>not@SP1</String>
+        <String>ft@SP1-cp</String>
+        <String>rp@SP1</String>
+        <String>typ@SP1</String>
+        <String>comm</String>
+        <String>qt@SP1</String>
     </prefList>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -17,10 +25,10 @@
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
-        <String>Thread</String>
         <String>Tier</String>
         <String>Initials</String>
         <String>Comment</String>
+        <String>Thread</String>
         <String>Sender</String>
         <String>Recipient</String>
         <String>Creation Date</String>
@@ -39,19 +47,31 @@
         <String>rx</String>
     </pref>
     <prefGroup key="TierColors">
+        <pref key="comm">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
         <pref key="ref@SP1">
-            <Object class="java.awt.Color">160,160,0</Object>
+            <Object class="java.awt.Color">90,160,160</Object>
+        </pref>
+        <pref key="rp@SP1">
+            <Object class="java.awt.Color">0,0,90</Object>
+        </pref>
+        <pref key="qt@SP1">
+            <Object class="java.awt.Color">160,90,0</Object>
         </pref>
     </prefGroup>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
     <pref key="Annotate.Tier.Gloss">
         <String>ge</String>
     </pref>
-    <prefList key="CommentViewer.Columns.Hidden"/>
     <pref key="FrameLocation">
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>105255</Long>
+        <Long>116037</Long>
     </pref>
     <pref key="Interlinear.Tier.Parse">
         <String>mb</String>
@@ -60,13 +80,16 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>105255</Long>
+        <Long>116037</Long>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
     </pref>
     <pref key="Interlinear.Tier.Word">
         <String>mot</String>
+    </pref>
+    <pref key="MultiTierViewer.TierSortingMode">
+        <Int>1</Int>
     </pref>
     <pref key="Interlinear.Tier.Pos">
         <String>rx</String>
@@ -82,21 +105,21 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>130715_gaj_Novaja_shkola.wav</String>
+            <String>130700_lsm_Dva_brata.wav</String>
         </pref>
     </prefGroup>
     <pref key="ActiveRecognizerName">
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>ref@SP1</String>
+        <String>ft@SP1</String>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Modification Date">
             <Int>75</Int>
         </pref>
         <pref key="Sender">
-            <Int>75</Int>
+            <Int>0</Int>
         </pref>
         <pref key="Tier">
             <Int>75</Int>
@@ -117,7 +140,7 @@
             <Int>75</Int>
         </pref>
         <pref key="Recipient">
-            <Int>75</Int>
+            <Int>0</Int>
         </pref>
         <pref key="Thread">
             <Int>75</Int>
@@ -127,10 +150,10 @@
         <String>ge</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>98895</Long>
+        <Long>104897</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>110125</Long>
+        <Long>122327</Long>
     </pref>
 </preferences>

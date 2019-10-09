@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-26T16:17:37+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-10-09T17:38:37+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="110716_bbm_Ajsar-mulla.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8033ecd2-50cf-4da3-a6ba-cdaaf599a234</PROPERTY>
@@ -27,7 +27,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="74780"/>
         <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="76997"/>
     </TIME_ORDER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ref" PARTICIPANT="bbm" TIER_ID="ref@bbm">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ref" PARTICIPANT="bbm" TIER_ID="ref@SP1">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann0" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>110716_bbm_Ajsar-mulla.001</ANNOTATION_VALUE>
@@ -79,7 +79,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@bbm" PARTICIPANT="bbm" TIER_ID="tx@bbm">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@SP1" PARTICIPANT="bbm" TIER_ID="tx@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann1" ANNOTATION_REF="ann0">
                 <ANNOTATION_VALUE>Kürše    awəlda              Ajsar      mulla... tigän                   mulla      jäšägän,     Ösköl awələnda.</ANNOTATION_VALUE>
@@ -131,7 +131,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="mot" PARENT_REF="tx@bbm" PARTICIPANT="bbm" TIER_ID="mot@bbm">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="mot" PARENT_REF="tx@SP1" PARTICIPANT="bbm" TIER_ID="mot@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann2" ANNOTATION_REF="ann1">
                 <ANNOTATION_VALUE>Kürše</ANNOTATION_VALUE>
@@ -563,7 +563,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="mb" PARENT_REF="mot@bbm" PARTICIPANT="bbm" TIER_ID="mb@bbm">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="mb" PARENT_REF="mot@SP1" PARTICIPANT="bbm" TIER_ID="mb@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann3" ANNOTATION_REF="ann2">
                 <ANNOTATION_VALUE>kürše</ANNOTATION_VALUE>
@@ -1280,7 +1280,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@bbm" PARTICIPANT="bbm" TIER_ID="ge@bbm">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@SP1" PARTICIPANT="bbm" TIER_ID="ge@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann4" ANNOTATION_REF="ann3">
                 <ANNOTATION_VALUE>neighbour</ANNOTATION_VALUE>
@@ -1997,7 +1997,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@bbm" PARTICIPANT="bbm" TIER_ID="ps@bbm">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@SP1" PARTICIPANT="bbm" TIER_ID="ps@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann5" ANNOTATION_REF="ann3">
                 <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
@@ -2714,7 +2714,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="gr" PARENT_REF="mb@bbm" PARTICIPANT="bbm" TIER_ID="gr@bbm">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="gr" PARENT_REF="mb@SP1" PARTICIPANT="bbm" TIER_ID="gr@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann6" ANNOTATION_REF="ann3">
                 <ANNOTATION_VALUE>сосед</ANNOTATION_VALUE>
@@ -3431,7 +3431,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@bbm" PARTICIPANT="bbm" TIER_ID="ft@bbm">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@SP1" PARTICIPANT="bbm" TIER_ID="ft@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann67" ANNOTATION_REF="ann0">
                 <ANNOTATION_VALUE>В соседней деревне жил мулла, мулла по имени Айсар, в деревне Аслаево.</ANNOTATION_VALUE>
@@ -3493,7 +3493,7 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="src" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="com" TIME_ALIGNABLE="false"/>
-    <LOCALE COUNTRY_CODE="EN" LANGUAGE_CODE="us"/>
+    <LOCALE COUNTRY_CODE="FR" LANGUAGE_CODE="fr"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>

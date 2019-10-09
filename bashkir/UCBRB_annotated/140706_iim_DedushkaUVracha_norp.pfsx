@@ -17,10 +17,10 @@
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
-        <String>Thread</String>
         <String>Tier</String>
         <String>Initials</String>
         <String>Comment</String>
+        <String>Thread</String>
         <String>Sender</String>
         <String>Recipient</String>
         <String>Creation Date</String>
@@ -40,18 +40,21 @@
     </pref>
     <prefGroup key="TierColors">
         <pref key="ref@SP1">
-            <Object class="java.awt.Color">160,160,0</Object>
+            <Object class="java.awt.Color">0,0,90</Object>
         </pref>
     </prefGroup>
     <pref key="Annotate.Tier.Gloss">
         <String>ge</String>
     </pref>
-    <prefList key="CommentViewer.Columns.Hidden"/>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
     <pref key="FrameLocation">
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>105255</Long>
+        <Long>0</Long>
     </pref>
     <pref key="Interlinear.Tier.Parse">
         <String>mb</String>
@@ -60,7 +63,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>105255</Long>
+        <Long>0</Long>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
@@ -82,7 +85,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>130715_gaj_Novaja_shkola.wav</String>
+            <String>140706_iim_Dedushka_u_vracha.wav</String>
         </pref>
     </prefGroup>
     <pref key="ActiveRecognizerName">
@@ -96,7 +99,7 @@
             <Int>75</Int>
         </pref>
         <pref key="Sender">
-            <Int>75</Int>
+            <Int>0</Int>
         </pref>
         <pref key="Tier">
             <Int>75</Int>
@@ -117,7 +120,7 @@
             <Int>75</Int>
         </pref>
         <pref key="Recipient">
-            <Int>75</Int>
+            <Int>0</Int>
         </pref>
         <pref key="Thread">
             <Int>75</Int>
@@ -127,10 +130,10 @@
         <String>ge</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>98895</Long>
+        <Long>160</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>110125</Long>
+        <Long>0</Long>
     </pref>
 </preferences>

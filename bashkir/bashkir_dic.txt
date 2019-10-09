@@ -1,0 +1,11094 @@
+\_sh v3.0  400  MDF 4.0
+
+\lx a
+\ps word
+\ge ah
+\gr а
+\dt 23/Jul/2011
+
+\lx -a
+\a -ä
+\u -ä
+\a -j
+\u -j
+\ps vsuf
+\ge PRS
+\gr PRS
+\dt 05/Jul/2011
+
+\lx -a
+\a -ä
+\u -ä
+\a -j
+\u -j
+\ps vsuf
+\ge CV.IPFV
+\gr CV.IPFV
+\dt 07/Jul/2011
+
+\lx aðan
+\ps n
+\ge azan
+\gr азан
+\dt 19/Aug/2016
+
+\lx aðaq
+\ps n
+\ge end
+\gr конец
+\dt 16/Jul/2011
+
+\lx aðaq
+\ps adv
+\ge then
+\gr потом
+\dt 20/Jul/2011
+
+\lx aðbar
+\ps n
+\ge fence
+\gr забор
+\dt 12/Jul/2011
+
+\lx aðəm
+\ps n
+\ge step
+\gr шаг
+\dt 03/Dec/2013
+
+\lx aðəq
+\ps n
+\ge food
+\gr еда
+\dt 18/Oct/2011
+
+\lx aðəq-tülek
+\ps n
+\ge victual
+\gr продовольствие
+\dt 16/Jul/2011
+
+\lx aðəraq
+\ps adj
+\ge few
+\gr немногий
+\dt 12/Jul/2017
+
+\lx aðna
+\ps n
+\ge week
+\gr неделя
+\dt 18/Jul/2011
+
+\lx aeroport
+\ps n
+\ge airport
+\gr аэропорт
+\dt 16/Jul/2017
+
+\lx Afrika
+\ps n
+\ge Africa
+\gr Африка
+\dt 14/Jul/2011
+
+\lx aɣ
+\ps v
+\ge flow
+\gr течь
+\dt 21/Jul/2012
+
+\lx aɣaj
+\ps n
+\ge elder.brother
+\gr старший.брат
+\dt 13/Jul/2011
+
+\lx aɣar
+\ps v
+\ge whiten
+\gr белеть
+\dt 18/Jul/2012
+
+\lx aɣas
+\ps n
+\ge tree
+\gr дерево
+\dt 07/Jul/2011
+
+\lx aɣəš
+\ps n
+\ge stream
+\gr течение
+\dt 07/Jul/2011
+
+\lx aɣəwla
+\ps v
+\ge poison
+\gr отравлять
+\dt 17/Jul/2011
+
+\lx agrarnyj
+\ps adj
+\ge agricultural
+\gr аграрный
+\dt 13/Jul/2012
+
+\lx -ahə
+\ps vsuf
+\ge PTCP.FUT
+\gr PTCP.FUT
+\dt 05/Jul/2011
+
+\lx aj
+\ps n
+\ge moon
+\gr луна
+\dt 07/Jul/2011
+
+\lx -aj
+\a -äj
+\u -äj
+\a -j
+\ps vsuf
+\ge HORT
+\gr HORT
+\dt 12/Jul/2017
+
+\lx ajaq
+\a ajaɣ
+\u ajaɣ
+\ps n
+\ge foot
+\gr нога
+\dt 14/Jul/2011
+
+\lx ajat
+\ps n
+\ge prayer
+\gr молитва
+\dt 13/Jul/2017
+
+\lx ajər
+\ps v
+\ge separate
+\gr отделять
+\dt 17/Jul/2017
+
+\lx ajərəm
+\ps adj
+\ge separate
+\gr отдельный
+\dt 15/Jul/2017
+
+\lx ajəw
+\ps n
+\ge bear
+\gr медведь
+\dt 12/Jul/2011
+
+\lx Ajmara
+\ps n
+\ge Ajmara
+\gr Аймара
+\dt 23/Jul/2011
+
+\lx ajnə
+\a ajnəɣə
+\u ajnəɣə
+\ps v
+\ge sober
+\gr трезветь
+\dt 14/Jul/2017
+
+\lx Ajsar
+\ps n
+\ge Ajsar
+\gr Айсар
+\dt 19/Jul/2011
+
+\lx al
+\ps v
+\ge take
+\gr брать
+\dt 06/Jul/2011
+
+\lx al
+\a ald
+\u ald
+\ps n
+\ge front
+\gr передняя.часть
+\dt 07/Jul/2013
+
+\lx aləθ
+\ps adj
+\ge far
+\gr далекий
+\dt 13/Jul/2011
+
+\lx Alhəw
+\a Alsəw
+\u Alsəw
+\ps n
+\ge Alsu
+\gr Алсу
+\dt 10/Jul/2012
+
+\lx alla
+\ps n
+\ge god
+\gr бог
+\dt 30/Nov/2013
+
+\lx alleja
+\ps n
+\ge alley
+\gr аллея
+\dt 15/Jul/2017
+
+\lx alma
+\ps n
+\ge apple
+\gr яблоко
+\dt 09/Jul/2011
+
+\lx alsaq
+\ps adj
+\ge affable
+\gr приветливый
+\dt 24/Jul/2011
+
+\lx altə
+\ps num
+\ge six
+\gr шесть
+\dt 18/Jul/2011
+
+\lx altəraq
+\ps n
+\ge white
+\gr белый
+\dt 14/Jul/2014
+
+\lx altməš
+\ps num
+\ge sixty
+\gr шестьдесят
+\dt 13/Jul/2012
+
+\lx ana
+\ps word
+\ge there
+\gr вот
+\dt 18/Jul/2011
+
+\lx anaw
+\ps word
+\ge that
+\gr тот
+\dt 18/Jul/2011
+
+\lx anda
+\ps adv
+\ge there
+\gr там
+\dt 21/Dec/2011
+
+\lx anəhə
+\ps pron
+\ge that.P.3
+\gr тот.P.3
+\dt 13/Jul/2012
+
+\lx aŋla
+\ps v
+\ge understand
+\gr понимать
+\dt 13/Jul/2011
+
+\lx apa
+\ps n
+\ge uncle
+\gr дядя
+\dt 23/Dec/2011
+
+\lx apaj
+\ps n
+\ge elder.sister
+\gr старшая.сестра
+\dt 18/Jul/2011
+
+\lx aprel
+\ps n
+\ge april
+\gr апрель
+\dt 18/Jul/2017
+
+\lx aptəra
+\ps v
+\ge be.puzzled
+\gr озадачиваться
+\dt 19/Jul/2011
+
+\lx aq
+\ps adj
+\ge white
+\gr белый
+\dt 17/Jul/2011
+
+\lx aqəl
+\ps n
+\ge intellect
+\gr ум
+\dt 26/Jan/2012
+
+\lx aqqoš
+\ps n
+\ge swan
+\gr лебедь
+\dt 05/Dec/2013
+
+\lx aqsa
+\ps n
+\ge money
+\gr деньги
+\dt 12/Jul/2011
+
+\lx -ar
+\a -šar
+\u -šar
+\a -šär
+\u -šär
+\a -är
+\u -är
+\ps suf
+\ge DISTR
+\gr DISTR
+\dt 13/Jun/2012
+
+\lx ara
+\ps n
+\ge interval
+\gr промежуток
+\dt 06/Sep/2011
+
+\lx araqə
+\ps n
+\ge liquor
+\gr вино
+\dt 17/Jul/2013
+
+\lx arba
+\ps n
+\ge cart
+\gr телега
+\dt 11/Jul/2011
+
+\lx arə
+\ps word
+\ge farther
+\gr дальше
+\dt 18/Jul/2017
+
+\lx arə
+\ps v
+\ge get.tired
+\gr уставать
+\dt 17/Jul/2017
+
+\lx arəš
+\ps n
+\ge rye
+\gr рожь
+\dt 06/Jul/2011
+
+\lx arəw
+\ps adj
+\ge not.bad
+\gr неплохой
+\dt 19/Jul/2011
+
+\lx arjaq
+\a arjaɣ
+\u arjaɣ
+\ps n
+\ge reverse
+\gr обратная.сторона
+\dt 06/Jul/2013
+
+\lx armija
+\ps n
+\ge army
+\gr армия
+\dt 12/Jul/2011
+
+\lx arna
+\ps v
+\ge dedicate
+\gr посвящать
+\dt 22/Jul/2011
+
+\lx arqa
+\ps n
+\ge back
+\gr спина
+\dt 19/Jul/2012
+
+\lx arqan
+\ps n
+\ge lariat
+\gr аркан
+\dt 16/Jul/2017
+
+\lx Arslan
+\ps n
+\ge Arslan
+\gr Арслан
+\dt 13/Jul/2012
+
+\lx art
+\ps n
+\ge back
+\gr зад
+\dt 14/Jul/2011
+
+\lx art
+\ps v
+\ge increase
+\gr увеличиваться
+\dt 09/Jul/2012
+
+\lx artaban
+\ps word
+\ge later.on
+\gr в.дальнейшем
+\dt 16/Jul/2017
+
+\lx artəq
+\ps adj
+\ge excess
+\gr лишний
+\dt 06/Sep/2011
+
+\lx artist
+\ps n
+\ge artist
+\gr артист
+\dt 31/Aug/2011
+
+\lx Artur
+\ps n
+\ge Artur
+\gr Артур
+\dt 12/Jul/2011
+
+\lx as
+\ps v
+\ge open
+\gr открывать
+\dt 07/Jul/2011
+
+\lx as
+\ps adj
+\ge hungry
+\gr голодный
+\dt 11/Jul/2011
+
+\lx -asaq
+\a -äsäk
+\u -äsäk
+\a -jasaq
+\u -jasaq
+\a -jäsäk
+\u -jäsäk
+\a -asaɣ
+\u -asaɣ
+\a -äsäg
+\u -äsäg
+\a -jasaɣ
+\u -jasaɣ
+\a -jäsäg
+\u -jäsäg
+\ps vsuf
+\ge FUT
+\gr FUT
+\dt 15/Jul/2013
+
+\lx asəɣ
+\a asəq
+\u asəq
+\ps v
+\ge be.hungry
+\gr голодать
+\dt 18/Jul/2011
+
+\lx asəq
+\ps adj
+\ge open
+\gr открытый
+\dt 17/Jul/2017
+
+\lx asəw
+\ps n
+\ge anger
+\gr гнев
+\dt 19/Jul/2011
+
+\lx asəwlan
+\ps v
+\ge get.angry
+\gr сердиться
+\dt 19/Jul/2011
+
+\lx asqəs
+\ps n
+\ge key
+\gr ключ
+\dt 19/Jul/2011
+
+\lx aš
+\ps n
+\ge food
+\gr еда
+\dt 10/Jul/2011
+
+\lx aša
+\ps v
+\ge eat
+\gr есть
+\dt 06/Jul/2011
+
+\lx aša
+\ps post
+\ge through
+\gr через
+\dt 18/Jul/2011
+
+\lx ašəɣ
+\a ašəq
+\u ašəq
+\ps v
+\ge hurry
+\gr торопиться
+\dt 26/Aug/2011
+
+\lx ašqaðan
+\ps n
+\ge stomach
+\gr желудок
+\dt 11/Jul/2011
+
+\lx ašxana
+\ps n
+\ge canteen
+\gr столовая
+\dt 12/Jul/2011
+
+\lx at
+\ps n
+\ge horse
+\gr лошадь
+\dt 10/Jul/2011
+
+\lx at
+\ps v
+\ge shoot
+\gr стрелять
+\dt 13/Jul/2011
+
+\lx aθ
+\ps v
+\ge hang
+\gr вешать
+\dt 18/Jul/2011
+
+\lx ata
+\ps n
+\ge father
+\gr отец
+\dt 09/Jul/2011
+
+\lx ata
+\ps v
+\ge call
+\gr называть
+\dt 20/Jul/2011
+
+\lx ataj
+\ps n
+\ge father
+\gr отец
+\dt 06/Jul/2011
+
+\lx atestat
+\ps n
+\ge certificate
+\gr аттестат
+\dt 30/Jul/2011
+
+\lx atəw
+\ps word
+\ge rather
+\gr а.то
+\dt 23/Jul/2011
+
+\lx Atilla
+\ps n
+\ge Atilla
+\gr Атилла
+\dt 15/Jul/2017
+
+\lx atla
+\ps v
+\ge step
+\gr шагать
+\dt 13/Jul/2011
+
+\lx aθt
+\a aθ
+\u aθ
+\ps n
+\ge bottom
+\gr низ
+\dt 26/Jan/2012
+
+\lx avarija
+\ps n
+\ge accident
+\gr авария
+\dt 08/Jul/2015
+
+\lx avtobus
+\ps n
+\ge bus
+\gr автобус
+\dt 12/Jul/2011
+
+\lx avtovokzal
+\ps n
+\ge bus.station
+\gr автовокзал
+\dt 11/Jun/2015
+
+\lx -aw
+\a -äw
+\u -äw
+\a -w
+\u -w
+\ps nsuf
+\ge NUM.SUBST
+\gr NUM.SUBST
+\dt 22/Jul/2011
+
+\lx awəð
+\ps n
+\ge mouth
+\gr рот
+\dt 03/Dec/2013
+
+\lx awəl
+\ps n
+\ge village
+\gr деревня
+\dt 07/Jul/2011
+
+\lx awər
+\ps adj
+\ge heavy
+\gr тяжелый
+\dt 06/Sep/2011
+
+\lx awərə
+\ps v
+\ge be.ill
+\gr болеть
+\dt 11/Jul/2011
+
+\lx awərt
+\ps v
+\ge ache
+\gr болеть
+\dt 11/Jul/2011
+
+\lx Azamat
+\ps n
+\ge Azamat
+\gr Азамат
+\dt 01/Aug/2011
+
+\lx Azat
+\ps n
+\ge Azat
+\gr Азат
+\dt 14/Jul/2011
+
+\lx aždaha
+\ps n
+\ge dragon
+\gr дракон
+\dt 16/Jul/2017
+
+\lx ä
+\ps word
+\ge and
+\gr а
+\dt 19/Jul/2011
+
+\lx äbej
+\ps n
+\ge old.woman
+\gr бабка
+\dt 23/Jul/2011
+
+\lx Äbjälil
+\ps n
+\ge Abzelil
+\gr Абзелил
+\dt 16/Jul/2017
+
+\lx Äbjälil
+\ps adj
+\ge Abzelilovskiy
+\gr Абзелиловский
+\dt 17/Jul/2017
+
+\lx äbräkäj
+\ps n
+\ge toilet
+\gr уборная
+\dt 06/Nov/2013
+
+\lx äð
+\a að
+\u að
+\ps adv
+\ge little
+\gr мало
+\dt 07/Jul/2011
+
+\lx äðäm
+\ps n
+\ge man
+\gr человек
+\dt 18/Oct/2011
+
+\lx äðer
+\ps adj
+\ge ready
+\gr готовый
+\dt 09/Jul/2011
+
+\lx äðerlä
+\ps v
+\ge prepare
+\gr готовить
+\dt 24/Jul/2011
+
+\lx äðlä
+\ps v
+\ge look.for
+\gr искать
+\dt 12/Jul/2011
+
+\lx äflisun
+\ps n
+\ge orange
+\gr апельсин
+\dt 20/Jul/2014
+
+\lx äɣä
+\ps word
+\ge yep
+\gr ага
+\dt 12/Jul/2017
+
+\lx ägär
+\ps conj
+\ge if
+\gr если
+\dt 12/Jul/2011
+
+\lx ägürsä
+\ps n
+\ge cucumber
+\gr огурец
+\dt 17/Jul/2011
+
+\lx ähirät
+\ps n
+\ge friend.girl
+\gr подруга
+\dt 14/Jul/2014
+
+\lx äj
+\ps word
+\ge oh
+\gr ой
+\dt 18/Jul/2011
+
+\lx äjber
+\ps n
+\ge thing
+\gr вещь
+\dt 12/Jul/2011
+
+\lx äjðä
+\ps word
+\ge come.on
+\gr айда
+\dt 19/Jul/2011
+
+\lx äje
+\ps word
+\ge yes
+\gr да
+\dt 13/Jul/2014
+
+\lx äjlän
+\ps v
+\ge turn
+\gr оборачиваться
+\dt 23/Jul/2011
+
+\lx äjt
+\ps v
+\ge say
+\gr говорить
+\dt 12/Jul/2011
+
+\lx äkiät
+\ps n
+\ge tale
+\gr сказка
+\dt 09/Jul/2011
+
+\lx älbittä
+\ps word
+\ge of.course
+\gr конечно
+\dt 17/Jul/2017
+
+\lx äle
+\ps adv
+\ge now
+\gr теперь
+\dt 19/Jul/2012
+
+\lx Älijä
+\ps n
+\ge Aliya
+\gr Алия
+\dt 13/Jul/2011
+
+\lx ällä
+\ps word
+\ge or
+\gr или
+\dt 22/Jul/2011
+
+\lx ällä
+\ps word
+\ge unknown
+\gr неизвестно
+\dt 21/Dec/2011
+
+\lx ämmä
+\ps conj
+\ge but
+\gr но
+\dt 07/Jul/2011
+
+\lx äräm
+\ps word
+\ge pity
+\gr жаль
+\dt 18/Jul/2011
+
+\lx ärlä
+\ps v
+\ge swear
+\gr ругать
+\dt 18/Jul/2017
+
+\lx äsä
+\ps n
+\ge mother
+\gr мать
+\dt 06/Jul/2011
+
+\lx äsäj
+\ps n
+\ge mother
+\gr мать
+\dt 06/Jul/2011
+
+\lx äse
+\ps adj
+\ge sharp
+\gr острый
+\dt 08/Jul/2015
+
+\lx äse
+\ps v
+\ge become.sour
+\gr киснуть
+\dt 10/Jul/2017
+
+\lx äsen
+\ps v
+\ge sadden
+\gr печалиться
+\dt 19/Jul/2011
+
+\lx äsetke
+\ps n
+\ge barm
+\gr закваска
+\dt 13/Jul/2017
+
+\lx Äsläm
+\ps n
+\ge Asljam
+\gr Аслям
+\dt 09/Jul/2011
+
+\lx äxirät
+\ps n
+\ge close.friend
+\gr задушевный.друг
+\dt 09/Jul/2011
+
+\lx babaj
+\ps n
+\ge old.man
+\gr старик
+\dt 07/Jul/2011
+
+\lx bað
+\ps n
+\ge pit
+\gr яма
+\dt 10/Jul/2011
+
+\lx bað
+\ps n
+\ge cave
+\gr погреб
+\dt 05/Jul/2015
+
+\lx baðar
+\ps n
+\ge market
+\gr рынок
+\dt 21/Jul/2011
+
+\lx baɣəšla
+\ps v
+\ge dedicate
+\gr посвящать
+\dt 17/Aug/2016
+
+\lx Baim
+\ps n
+\ge Baimovo
+\gr Баимово
+\dt 23/Jul/2015
+
+\lx baj
+\ps adj
+\ge rich
+\gr богатый
+\dt 18/Oct/2011
+
+\lx bajə
+\ps v
+\ge set
+\gr заходить
+\dt 27/Jan/2012
+
+\lx Bajəm
+\ps n
+\ge Baimovo
+\gr Баимово
+\dt 12/Jul/2017
+
+\lx Bajguža
+\ps n
+\ge Bajgugea
+\gr Байгужа
+\dt 06/Sep/2011
+
+\lx Bajmaq
+\ps n
+\ge Bajmak
+\gr Баймак
+\dt 20/Jul/2011
+
+\lx bajram
+\ps n
+\ge holiday
+\gr праздник
+\dt 10/Jul/2011
+
+\lx bajtaq
+\ps adv
+\ge considerably
+\gr значительно
+\dt 30/Nov/2013
+
+\lx bak
+\ps n
+\ge tank
+\gr бак
+\dt 31/Aug/2011
+
+\lx bal
+\ps n
+\ge point
+\gr балл
+\dt 30/Jul/2011
+
+\lx bal
+\ps n
+\ge honey
+\gr мёд
+\dt 14/Jul/2011
+
+\lx bala
+\a bal
+\u bal
+\ps n
+\ge child
+\gr ребенок
+\dt 20/Jul/2011
+
+\lx Balapan
+\ps n
+\ge Balapanovo
+\gr Балапаново
+\dt 18/Jul/2011
+
+\lx bala=saɣa
+\ps n
+\ge child.COLL
+\gr ребенок.COLL
+\dt 21/Dec/2011
+
+\lx baldaq
+\ps n
+\ge ring
+\gr кольцо
+\dt 19/Jul/2017
+
+\lx baləq
+\ps n
+\ge fish
+\gr рыба
+\dt 27/Jan/2012
+
+\lx balqə
+\ps n
+\ge shine
+\gr сиять
+\dt 07/Nov/2013
+
+\lx banka
+\ps n
+\ge can
+\gr банка
+\dt 12/Jul/2011
+
+\lx baqsa
+\ps n
+\ge garden
+\gr сад
+\dt 30/Aug/2011
+
+\lx bar
+\ps v
+\ge go
+\gr идти
+\dt 08/Jul/2011
+
+\lx bar
+\ps v
+\ge there.is
+\gr имеется
+\dt 10/Jul/2011
+
+\lx baraban
+\ps n
+\ge drum
+\gr барабан
+\dt 16/Jul/2017
+
+\lx barəber
+\ps word
+\ge all.the.same
+\gr все.равно
+\dt 18/Jul/2011
+
+\lx barəš
+\ps n
+\ge progress
+\gr ход
+\dt 20/Nov/2013
+
+\lx barmaq
+\a barmaɣ
+\u barmaɣ
+\ps n
+\ge finger
+\gr палец
+\dt 14/Jul/2011
+
+\lx bassein
+\ps n
+\ge swimming.pool
+\gr бассейн
+\dt 15/Jul/2017
+
+\lx baš
+\ps n
+\ge head
+\gr голова
+\dt 08/Jul/2011
+
+\lx Baškirija
+\ps n
+\ge Bashkiria
+\gr Башкирия
+\dt 30/Jul/2011
+
+\lx baškirskij
+\ps adj
+\ge Bashkir
+\gr башкирский
+\dt 18/Jul/2011
+
+\lx bašla
+\ps v
+\ge begin
+\gr начинать
+\dt 09/Jul/2011
+
+\lx bašlanɣəs
+\ps adj
+\ge primary
+\gr начальный
+\dt 12/Jul/2011
+
+\lx bašləq
+\ps n
+\ge head
+\gr начальник
+\dt 16/Aug/2017
+
+\lx bašqa
+\ps word
+\ge other
+\gr другой
+\dt 23/Jul/2011
+
+\lx bašqort
+\ps n
+\ge Bashkir
+\gr башкир
+\dt 12/Jul/2011
+
+\lx Bašqortostan
+\ps n
+\ge Bashkortostan
+\gr Башкортостан
+\dt 17/Jul/2011
+
+\lx bat
+\ps v
+\ge sink
+\gr тонуть
+\dt 15/Jul/2011
+
+\lx baθ
+\ps v
+\ge stand
+\gr стоять
+\dt 05/Sep/2011
+
+\lx batər
+\ps n
+\ge hero
+\gr герой
+\dt 15/Jul/2011
+
+\lx baθəw
+\ps n
+\ge field
+\gr поле
+\dt 16/Jul/2011
+
+\lx batqaq
+\ps n
+\ge mud
+\gr грязь
+\dt 15/Jul/2011
+
+\lx baθqəs
+\ps n
+\ge staircase
+\gr лестница
+\dt 31/Aug/2011
+
+\lx batša
+\ps n
+\ge tsar
+\gr царь
+\dt 07/May/2014
+
+\lx baw
+\ps n
+\ge rope
+\gr веревка
+\dt 22/Jul/2011
+
+\lx Baxtijar
+\ps n
+\ge Bakhtijar
+\gr Бахтияр
+\dt 12/Jul/2011
+
+\lx Baxtinur
+\ps n
+\ge Bakhtinur
+\gr Бахтинур
+\dt 11/Jul/2011
+
+\lx bäjlä
+\ps v
+\ge bind
+\gr связывать
+\dt 11/Jul/2011
+
+\lx bäläkäj
+\a bäläkäs
+\u bäläkäs
+\ps adj
+\ge small
+\gr маленький
+\dt 19/Jul/2011
+
+\lx bäleš
+\ps n
+\ge cake
+\gr пирог
+\dt 21/Jul/2014
+
+\lx bäpämbä
+\ps n
+\ge yellow.flower
+\gr одуванчи
+\dt 26/Jul/2014
+
+\lx bäpes
+\ps n
+\ge baby
+\gr малыш
+\dt 19/Jul/2011
+
+\lx bär
+\ps v
+\ge strike
+\gr ударить
+\dt 17/Jul/2011
+
+\lx bäräŋge
+\ps n
+\ge potato
+\gr картофель
+\dt 14/Jul/2011
+
+\lx bäšmäk
+\ps n
+\ge mushroom
+\gr гриб
+\dt 07/Jul/2014
+
+\lx bäwet
+\ps v
+\ge rock
+\gr качать
+\dt 24/Jul/2011
+
+\lx beð
+\ps pron
+\ge we
+\gr мы
+\dt 07/Jul/2011
+
+\lx -bəð
+\a -beð
+\u -beð
+\a -boð
+\u -boð
+\a -böð
+\u -böð
+\a -əbəð
+\u -əbəð
+\a -ebeð
+\u -ebeð
+\a -oboð
+\u -oboð
+\a -öböð
+\u -öböð
+\ps nsuf
+\ge P.1PL
+\gr P.1PL
+\dt 05/Jul/2011
+
+\lx -bəð
+\a -beð
+\u -beð
+\a -boð
+\u -boð
+\a -böð
+\u -böð
+\ps vsuf
+\ge 1PL
+\gr 1PL
+\dt 07/Jul/2011
+
+\lx bəðaw
+\ps n
+\ge calf
+\gr теленок
+\dt 18/Oct/2011
+
+\lx bəðawla
+\ps v
+\ge calve
+\gr телиться
+\dt 08/Jul/2012
+
+\lx bəɣa
+\ps pron
+\ge this.DAT
+\gr этот.DAT
+\dt 30/Jul/2011
+
+\lx bejäläj
+\ps n
+\ge mitten
+\gr варежка
+\dt 17/Jul/2013
+
+\lx beje
+\ps v
+\ge dance
+\gr танцевать
+\dt 13/Jul/2013
+
+\lx bejek
+\ps adj
+\ge high
+\gr высокий
+\dt 22/Jul/2011
+
+\lx bəjəl
+\ps adv
+\ge this.year
+\gr в.этом.году
+\dt 23/Jul/2011
+
+\lx bejlä
+\ps v
+\ge fasten
+\gr связывать
+\dt 17/Aug/2016
+
+\lx bel
+\ps v
+\ge know
+\gr знать
+\dt 10/Jul/2011
+
+\lx bəl
+\ps pron
+\ge this
+\gr этот
+\dt 07/Jul/2011
+
+\lx bəlaj
+\ps adv
+\ge so
+\gr так
+\dt 13/Jul/2012
+
+\lx bəlar
+\ps pron
+\ge this.PL
+\gr этот.PL
+\dt 19/Jul/2011
+
+\lx Beläret
+\ps n
+\ge Belortzk
+\gr Белорецк
+\dt 19/Jul/2017
+
+\lx belem
+\ps n
+\ge knowledge
+\gr знание
+\dt 12/Jul/2011
+
+\lx bələm
+\ps adv
+\ge today
+\gr сегодня
+\dt 27/Jan/2012
+\nt В словаре нет; дала ngg.
+
+\lx Beloret
+\ps n
+\ge Beloretsk
+\gr Белорецк
+\dt 19/Jul/2011
+
+\lx belorus
+\ps n
+\ge Byelorussian
+\gr белорус
+\dt 18/Jul/2011
+
+\lx bəltər
+\ps adv
+\ge last.year
+\gr в.прошлом.году
+\dt 30/Jul/2011
+
+\lx bəna
+\a bən
+\u bən
+\a məna
+\ps word
+\ge there
+\gr вот
+\dt 12/Jul/2017
+
+\lx bənan
+\ps pron
+\ge that.ABL
+\gr этот.ABL
+\dt 21/Dec/2011
+
+\lx bənaw
+\ps pron
+\ge this
+\gr этот
+\dt 07/Jul/2012
+
+\lx bənda
+\ps pron
+\ge this.LOC
+\gr этот.LOC
+\dt 21/Dec/2011
+
+\lx bənə
+\ps pron
+\ge this.ACC
+\gr этот.ACC
+\dt 21/Dec/2011
+
+\lx bənəhə
+\ps pron
+\ge this.P.3
+\gr этот.P.3
+\dt 20/Jul/2011
+
+\lx bənəŋ
+\ps pron
+\ge this.GEN
+\gr этот.GEN
+\dt 11/Jul/2012
+
+\lx benzin
+\ps n
+\ge petrol
+\gr бензин
+\dt 12/Jul/2011
+
+\lx ber
+\ps num
+\ge one
+\gr один
+\dt 07/Jul/2011
+
+\lx beräj
+\ps pron
+\ge some
+\gr какой-нибудь
+\dt 18/Oct/2011
+
+\lx berðän
+\ps adj
+\ge sole
+\gr единственный
+\dt 02/Aug/2011
+
+\lx berehe
+\ps num
+\ge one.of
+\gr один.из
+\dt 31/Jul/2011
+
+\lx bergä
+\ps adv
+\ge together
+\gr вместе
+\dt 16/Jul/2011
+
+\lx bertök
+\ps n
+\ge bag
+\gr мешок
+\dt 25/Jul/2014
+
+\lx bəsaq
+\ps n
+\ge knife
+\gr нож
+\dt 13/Jul/2011
+
+\lx besäj
+\ps n
+\ge cat
+\gr кошка
+\dt 20/Jul/2011
+
+\lx besän
+\ps n
+\ge hay
+\gr сено
+\dt 07/Jul/2011
+
+\lx bəsra
+\ps v
+\ge become.dirty
+\gr запачкаться
+\dt 13/Jul/2012
+
+\lx bəsraq
+\ps adj
+\ge dirty
+\gr грязный
+\dt 14/Jul/2011
+
+\lx beš
+\ps v
+\ge boil
+\gr вариться
+\dt 13/Mar/2012
+
+\lx bəwən
+\ps n
+\ge joint
+\gr сустав
+\dt 06/Sep/2011
+
+\lx BGU
+\ps n
+\ge Bashkir State University
+\gr БГУ
+\dt 13/Jul/2012
+
+\lx biðä
+\ps v
+\ge decorate
+\gr украшать
+\dt 14/Jul/2013
+
+\lx biðrä
+\ps n
+\ge bucket
+\gr ведро
+\dt 29/Jul/2011
+
+\lx bigeräk
+\ps adv
+\ge too
+\gr слишком
+\dt 13/Jul/2012
+
+\lx bik
+\ps adv
+\ge very
+\gr очень
+\dt 14/Jul/2011
+
+\lx bikäs
+\ps n
+\ge sister-in-law
+\gr золовка
+\dt 19/Jul/2017
+
+\lx biklä
+\ps v
+\ge lock
+\gr запирать
+\dt 18/Jul/2011
+
+\lx bilbaw
+\ps n
+\ge girdle
+\gr кушак
+\dt 13/Jul/2011
+
+\lx bildä
+\ps n
+\ge sign
+\gr знак
+\dt 22/Jul/2011
+
+\lx bilet
+\ps n
+\ge card
+\gr билет
+\dt 22/Jul/2011
+
+\lx biologija
+\ps n
+\ge biology
+\gr биология
+\dt 13/Jul/2012
+
+\lx bir
+\ps v
+\ge give
+\gr давать
+\dt 06/Jul/2011
+
+\lx birle
+\ps post
+\ge since
+\gr с
+\dt 30/Jul/2011
+
+\lx bisä
+\ps n
+\ge wife
+\gr жена
+\dt 18/Jul/2011
+
+\lx biš
+\ps num
+\ge five
+\gr пять
+\dt 12/Jul/2011
+
+\lx bišek
+\ps n
+\ge craddle
+\gr колыбель
+\dt 31/Aug/2011
+
+\lx bit
+\ps word
+\ge indeed
+\gr ведь
+\dt 22/Jul/2011
+
+\lx bit
+\ps n
+\ge face
+\gr лицо
+\dt 06/Aug/2011
+
+\lx bitläw
+\ps n
+\ge slope
+\gr склон
+\dt 05/Jul/2015
+
+\lx blok
+\ps n
+\ge block
+\gr блок
+\dt 12/Jul/2011
+
+\lx boð
+\ps n
+\ge ice
+\gr лед
+\dt 13/Jul/2013
+
+\lx boðo
+\ps v
+\ge spoil
+\gr портить
+\dt 13/Jul/2017
+
+\lx Boɣaðaqqaj
+\ps n
+\ge Bogazaqqay
+\gr Богазаккай
+\dt 16/Aug/2017
+
+\lx bolan
+\ps n
+\ge deer
+\gr олень
+\dt 13/Jul/2011
+
+\lx Bolat
+\ps n
+\ge Bulat
+\gr Булат
+\dt 20/Jul/2011
+
+\lx bolɣa
+\ps v
+\ge wave
+\gr махать
+\dt 13/Jul/2011
+
+\lx bolnica
+\ps n
+\ge hospital
+\gr больница
+\dt 23/Jul/2015
+
+\lx bolon
+\ps n
+\ge meadow
+\gr луг
+\dt 12/Jul/2011
+
+\lx bolot
+\ps n
+\ge cloud
+\gr облако
+\dt 14/Jul/2011
+
+\lx bomba
+\ps n
+\ge bomb
+\gr бомба
+\dt 18/Jul/2011
+
+\lx Bond
+\ps n
+\ge Bond
+\gr Бонд
+\dt 23/Jul/2011
+
+\lx bor
+\ps v
+\ge turn
+\gr поворачивать
+\dt 20/Jul/2011
+
+\lx boron
+\ps adv
+\ge long.ago
+\gr давно
+\dt 20/Jul/2011
+
+\lx boros
+\ps n
+\ge bell.pepper
+\gr перец
+\dt 08/Jul/2014
+
+\lx botaq
+\a botaɣ
+\u botaɣ
+\ps n
+\ge branch
+\gr ветка
+\dt 15/Jul/2011
+
+\lx bögön
+\ps adv
+\ge today
+\gr сегодня
+\dt 07/Jul/2011
+
+\lx böjök
+\ps adj
+\ge great
+\gr великий
+\dt 18/Aug/2016
+
+\lx börköt
+\ps n
+\ge golden.eagle
+\gr беркут
+\dt 17/Jul/2017
+
+\lx böt
+\ps v
+\ge end
+\gr закончиться
+\dt 18/Jul/2011
+
+\lx bötä
+\ps pron
+\ge all
+\gr все
+\dt 09/Jul/2011
+
+\lx bötä
+\ps pron
+\ge all
+\gr весь
+\dt 12/Jul/2011
+
+\lx bötäj
+\ps v
+\ge improve
+\gr исправляться
+\dt 18/Oct/2011
+
+\lx bötön
+\ps adj
+\ge whole
+\gr целый
+\dt 09/Oct/2011
+
+\lx bötönläj
+\ps adv
+\ge totally
+\gr совсем
+\dt 27/Jan/2012
+
+\lx böxtä
+\ps adj
+\ge neat
+\gr опрятный
+\dt 23/Jul/2011
+
+\lx braslet
+\ps n
+\ge bracelet
+\gr браслет
+\dt 15/Jul/2017
+
+\lx britva
+\ps n
+\ge razor
+\gr бритва
+\dt 13/Jul/2011
+
+\lx buɣa
+\ps n
+\ge bull
+\gr бык
+\dt 20/Jul/2011
+
+\lx buj
+\ps n
+\ge length
+\gr длина
+\dt 18/Jul/2011
+
+\lx buja
+\ps v
+\ge paint
+\gr красить
+\dt 11/Jul/2011
+
+\lx bujðaq
+\ps n
+\ge bachelor
+\gr холостяк
+\dt 18/Jul/2011
+
+\lx bujðar
+\ps n
+\ge mountain.range
+\gr горный.хребет
+\dt 20/Jul/2011
+
+\lx bujla
+\ps v
+\ge pass
+\gr проходить
+\dt 07/Jul/2011
+
+\lx bul
+\ps v
+\ge be
+\gr быть
+\dt 11/Jul/2011
+
+\lx Bulat
+\ps n
+\ge Bulat
+\gr Булат
+\dt 18/Jul/2012
+
+\lx bur
+\ps n
+\ge thief
+\gr вор
+\dt 12/Jul/2011
+
+\lx buš
+\ps adj
+\ge empty
+\gr пустой
+\dt 22/Jul/2011
+
+\lx buta
+\ps v
+\ge mix
+\gr перемешивать
+\dt 14/Jul/2011
+
+\lx butqa
+\ps n
+\ge poridge
+\gr каша
+\dt 15/Jul/2015
+
+\lx büdžetnyj
+\ps adj
+\ge state-financed
+\gr бюджетный
+\dt 14/Jul/2012
+
+\lx büläk
+\a büläg
+\u büläg
+\ps n
+\ge gift
+\gr подарок
+\dt 12/Jul/2011
+
+\lx büleg
+\ps n
+\ge department
+\gr отделение
+\dt 19/Jul/2011
+
+\lx bülmä
+\ps n
+\ge room
+\gr комната
+\dt 09/Jul/2011
+
+\lx büränä
+\ps n
+\ge log
+\gr бревно
+\dt 19/Jul/2011
+
+\lx büre
+\ps n
+\ge wolf
+\gr волк
+\dt 14/Jul/2011
+
+\lx bütän
+\ps adj
+\ge other
+\gr другой
+\dt 09/Jul/2011
+
+\lx CVdupp~
+\a [cons][vowel]p~
+\ps intens
+\ge INTENS
+\gr INTENS
+\dt 10/Jul/2011
+
+\lx čaška
+\ps n
+\ge cup
+\gr чашка
+\dt 12/Jul/2011
+
+\lx Čeläbe
+\ps n
+\ge Chelyabinsk
+\gr Челябинск
+\dt 30/Jul/2011
+
+\lx Čeläbinskij
+\ps adj
+\ge of.Chelyabinsk
+\gr челябинский
+\dt 13/Jul/2012
+
+\lx ČelGu
+\ps n
+\ge ChelGu
+\gr ЧелГУ
+\dt 13/Jul/2012
+
+\lx čeljabinskaja
+\ps adj
+\ge čeljabinskaja
+\gr Челябинская
+\dt 18/Jul/2011
+
+\lx dala
+\ps n
+\ge steppe
+\gr степь
+\dt 05/Jul/2015
+
+\lx darəw
+\ps n
+\ge medicine
+\gr лекарство
+\dt 05/Aug/2011
+
+\lx däftär
+\ps n
+\ge notebook
+\gr тетрадь
+\dt 14/Jul/2011
+
+\lx däres
+\ps n
+\ge lesson
+\gr класс
+\dt 12/Jul/2011
+
+\lx däwulät
+\ps n
+\ge state
+\gr государство
+\dt 19/Jul/2011
+
+\lx dəm
+\ps n
+\ge damp
+\gr влага
+\dt 16/Jul/2013
+
+\lx dialekt
+\ps n
+\ge dialect
+\gr диалект
+\dt 13/Jul/2017
+
+\lx diktant
+\ps n
+\ge dictation
+\gr диктант
+\dt 15/Jul/2011
+
+\lx Dilara
+\ps n
+\ge Diljara
+\gr Диляра
+\dt 10/Jul/2012
+
+\lx dimlä
+\ps v
+\ge persuade
+\gr уговаривать
+\dt 18/Jul/2017
+
+\lx din
+\ps n
+\ge religion
+\gr религия
+\dt 12/Jul/2011
+
+\lx director
+\ps n
+\ge chief
+\gr директор
+\dt 19/Jul/2015
+
+\lx direktor
+\ps n
+\ge headmaster
+\gr директор
+\dt 30/Jul/2011
+
+\lx divan
+\ps n
+\ge sofa
+\gr диван
+\dt 13/Jul/2011
+
+\lx dižur
+\ps n
+\ge man.on.duty
+\gr дежурный
+\dt 18/Jul/2011
+
+\lx doklad
+\ps n
+\ge report
+\gr доклад
+\dt 15/Jul/2017
+
+\lx dokument
+\ps n
+\ge document
+\gr документ
+\dt 30/Jul/2011
+
+\lx donja
+\ps n
+\ge world
+\gr мир
+\dt 23/Jul/2011
+
+\lx droži
+\ps n
+\ge yeast
+\gr дрожжи
+\dt 13/Jul/2017
+
+\lx dubinka
+\ps n
+\ge truncheon
+\gr дубинка
+\dt 17/Jul/2017
+
+\lx Dunaj
+\ps n
+\ge Danube
+\gr Дунай
+\dt 15/Jul/2017
+
+\lx ður
+\ps adj
+\ge big
+\gr большой
+\dt 19/Jul/2011
+
+\lx ðuraj
+\ps v
+\ge increase
+\gr увеличиваться
+\dt 21/Jul/2011
+
+\lx duθ
+\ps n
+\ge friend
+\gr друг
+\dt 07/Jul/2011
+
+\lx duθlaš
+\ps v
+\ge make.friends
+\gr подружиться
+\dt 27/Jan/2012
+
+\lx dürt
+\ps num
+\ge four
+\gr четыре
+\dt 18/Jul/2011
+
+\lx dvojurnyj
+\ps adj
+\ge cousin
+\gr двоюродный
+\dt 18/Jul/2011
+
+\lx eð
+\ps n
+\ge footprint
+\gr след
+\dt 11/Jul/2013
+
+\lx eðärlä
+\ps v
+\ge pursue
+\gr преследовать
+\dt 31/Aug/2011
+
+\lx əðɣəš
+\ps adj
+\ge quarrelsome
+\gr сварливый
+\dt 23/Sep/2013
+
+\lx eðlä
+\ps v
+\ge search
+\gr искать
+\dt 20/Jul/2011
+
+\lx eee
+\ps word
+\ge ah
+\gr ааа
+\dt 18/Jul/2011
+
+\lx ej
+\ps v
+\ge bend
+\gr гнуть
+\dt 11/Jul/2011
+
+\lx ejär
+\ps n
+\ge saddle
+\gr седло
+\dt 07/Jul/2012
+
+\lx ejär
+\ps v
+\ge follow
+\gr следовать
+\dt 14/Jul/2013
+
+\lx ekzamen
+\ps n
+\ge exam
+\gr экзамен
+\dt 15/Jul/2013
+
+\lx el
+\ps n
+\ge wind
+\gr ветер
+\dt 14/Jul/2011
+
+\lx el
+\ps v
+\ge hang
+\gr вешать
+\dt 18/Jul/2011
+
+\lx elek
+\ps adv
+\ge formerly
+\gr раньше
+\dt 06/Sep/2011
+
+\lx eŋel
+\ps adj
+\ge easy
+\gr легкий
+\dt 15/Aug/2017
+
+\lx eŋellek
+\ps n
+\ge relief
+\gr облегчение
+\dt 17/Aug/2016
+
+\lx əŋɣaj
+\ps n
+\ge direction
+\gr направление
+\dt 19/Jul/2011
+
+\lx eremsek
+\ps n
+\ge cottage.cheese
+\gr творог
+\dt 14/Jul/2014
+
+\lx ergä
+\ps n
+\ge side
+\gr бок
+\dt 07/Jul/2011
+
+\lx ərɣə
+\ps v
+\ge jump
+\gr прыгать
+\dt 16/Jul/2017
+
+\lx es
+\ps v
+\ge drink
+\gr пить
+\dt 06/Jul/2011
+
+\lx es
+\ps n
+\ge inside
+\gr нутро
+\dt 18/Oct/2011
+
+\lx əsən
+\ps adj
+\ge true
+\gr правильный
+\dt 22/Jul/2011
+
+\lx əsənlap
+\ps adv
+\ge in.earnest
+\gr всерьёз
+\dt 16/Aug/2017
+
+\lx eš
+\ps n
+\ge work
+\gr работа
+\dt 18/Jul/2011
+
+\lx əšan
+\ps v
+\ge believe
+\gr верить
+\dt 09/Oct/2011
+
+\lx əšanəs
+\ps n
+\ge trust
+\gr доверие
+\dt 18/Jul/2011
+
+\lx əšəq
+\ps adj
+\ge covered
+\gr укрытый
+\dt 14/Jul/2013
+
+\lx əšəqlan
+\ps v
+\ge hide
+\gr спрятаться
+\dt 03/Dec/2013
+
+\lx ešlä
+\ps v
+\ge work
+\gr работать
+\dt 06/Jul/2011
+
+\lx əštan
+\ps n
+\ge jeans
+\gr штаны
+\dt 14/Jul/2014
+
+\lx et
+\ps n
+\ge dog
+\gr собака
+\dt 20/Jul/2011
+
+\lx eθe
+\ps adj
+\ge hot
+\gr жаркий
+\dt 09/Jul/2011
+
+\lx etkän
+\ps n
+\ge girl
+\gr девушка
+\dt 14/Jul/2011
+
+\lx ew
+\ps word
+\ge what
+\gr что
+\dt 23/Jul/2011
+
+\lx fabrika
+\ps n
+\ge factory
+\gr фабрика
+\dt 20/Jul/2011
+
+\lx fajða
+\ps n
+\ge benefit
+\gr польза
+\dt 18/Oct/2011
+
+\lx faqultet
+\ps n
+\ge department
+\gr факультет
+\dt 13/Jul/2012
+
+\lx Fatima
+\ps n
+\ge Fatima
+\gr Фатима
+\dt 16/Aug/2017
+
+\lx Fäjez
+\ps n
+\ge Fejez
+\gr Феез
+\dt 22/Jul/2015
+
+\lx fän
+\ps n
+\ge subject
+\gr дисциплина
+\dt 13/Jul/2012
+
+\lx fänni
+\ps adj
+\ge scientific
+\gr научный
+\dt 15/Jul/2017
+
+\lx Fänzil
+\ps n
+\ge Fenzil
+\gr Фензиь
+\dt 22/Jul/2015
+
+\lx fäqät
+\ps part
+\ge only
+\gr только
+\dt 09/Jul/2011
+
+\lx ferma
+\ps n
+\ge farm
+\gr ферма
+\dt 05/Jul/2014
+
+\lx fermer
+\ps n
+\ge farmer
+\gr фермер
+\dt 18/Jul/2011
+
+\lx film
+\ps n
+\ge film
+\gr фильм
+\dt 17/Jul/2011
+
+\lx flak
+\ps n
+\ge flag
+\gr флаг
+\dt 15/Jul/2017
+
+\lx foto
+\ps n
+\ge photo
+\gr фотография
+\dt 30/Jul/2011
+
+\lx francuz
+\ps n
+\ge Frenchman
+\gr француз
+\dt 13/Jul/2011
+
+\lx futbol
+\ps n
+\ge footbal
+\gr футбол
+\dt 18/Jul/2014
+
+\lx -ɣa
+\a -gä
+\u -gä
+\a -qa
+\u -qa
+\a -kä
+\u -kä
+\a -a
+\u -a
+\a -ä
+\u -ä
+\a -na
+\u -na
+\a -nä
+\u -nä
+\ps nsuf
+\ge DAT
+\gr DAT
+\dt 05/Jul/2011
+
+\lx ɣailä
+\ps n
+\ge family
+\gr семья
+\dt 09/Jul/2011
+
+\lx gaišnik
+\ps n
+\ge policeman
+\gr гаишник
+\dt 17/Nov/2013
+
+\lx -ɣajnə
+\a -gäjne
+\u -gäjne
+\a -qajnə
+\u -qajnə
+\a -käjne
+\u -käjne
+\ps vsuf
+\ge PLPF
+\gr PLPF
+\dt 07/Jul/2011
+
+\lx -ɣan
+\a -gän
+\u -gän
+\a -qan
+\u -qan
+\a -kän
+\u -kän
+\ps vsuf
+\ge PC.PST
+\gr PC.PST
+\dt 07/Jul/2011
+
+\lx -ɣansə
+\a -gänse
+\u -gänse
+\a -qansə
+\u -qansə
+\a -känse
+\u -känse
+\ps vsuf
+\ge CV.TERM
+\gr CV.TERM
+\dt 21/Dec/2011
+
+\lx -ɣas
+\a -gäs
+\u -gäs
+\a -käs
+\u -käs
+\a -qas
+\u -qas
+\ps vsuf
+\ge CV.ANT
+\gr CV.ANT
+\dt 19/Jul/2011
+
+\lx ɣašiq
+\ps adj
+\ge enamoured
+\gr влюбленный
+\dt 20/Jul/2011
+
+\lx ɣawɣasəl
+\ps adj
+\ge quarrelsome
+\gr скандальный
+\dt 17/Jul/2013
+
+\lx gazel
+\ps n
+\ge gazel
+\gr газель
+\dt 11/Jun/2015
+
+\lx ɣäfü
+\ps n
+\ge forgiveness
+\gr прощение
+\dt 06/Sep/2011
+
+\lx Gäjnetdin
+\ps n
+\ge Gainetdin
+\gr Гайнетдин
+\dt 05/Sep/2011
+
+\lx ɣäräp
+\ps n
+\ge Arab
+\gr араб
+\dt 29/Jul/2011
+
+\lx ɣärlek
+\ps n
+\ge shame
+\gr стыд
+\dt 23/Jul/2015
+
+\lx gäzit
+\ps n
+\ge newspaper
+\gr газета
+\dt 22/Sep/2013
+
+\lx -ɣə
+\a -ge
+\u -ge
+\a -ɣo
+\u -ɣo
+\a -gö
+\u -gö
+\a -qə
+\u -qə
+\a -ke
+\u -ke
+\a -qo
+\u -qo
+\a -kö
+\u -kö
+\ps suf
+\ge ADJ
+\gr ADJ
+\dt 26/Jan/2012
+
+\lx -ɣə
+\a -ge
+\u -ge
+\ps suf
+\ge NMLZ
+\gr NMLZ
+\dt 15/Aug/2017
+
+\lx -ɣəð
+\a -geð
+\u -geð
+\a -ɣoð
+\u -ɣoð
+\a -göð
+\u -göð
+\a -əɣəð
+\u -əɣəð
+\a -egeð
+\u -egeð
+\a -oɣoð
+\u -oɣoð
+\a -ögöð
+\u -ögöð
+\ps nsuf
+\ge P.2PL
+\gr P.2PL
+\dt 07/Jul/2011
+
+\lx -ɣəð
+\a -geð
+\u -geð
+\a -ɣoð
+\u -ɣoð
+\a -göð
+\u -göð
+\a -əɣəð
+\u -əɣəð
+\a -egeð
+\u -egeð
+\a -oɣoð
+\u -oɣoð
+\a -ögöð
+\u -ögöð
+\ps vsuf
+\ge 2PL
+\gr 2PL
+\dt 07/Jul/2011
+
+\lx gel
+\ps adv
+\ge always
+\gr всегда
+\dt 12/Jul/2011
+
+\lx -ɣəla
+\a -gelä
+\u -gelä
+\a -qəla
+\u -qəla
+\a -kelä
+\u -kelä
+\ps vsuf
+\ge PLR
+\gr PLR
+\dt 21/Dec/2011
+
+\lx =ɣəna
+\a =genä
+\u =genä
+\a =qəna
+\u =qəna
+\a =kenä
+\u =kenä
+\ps part
+\ge just
+\gr только
+\dt 08/Jul/2011
+
+\lx ger
+\ps n
+\ge weight
+\gr гиря
+\dt 15/Jul/2017
+
+\lx geroj
+\ps n
+\ge hero
+\gr герой
+\dt 15/Jul/2017
+
+\lx gimnazija
+\ps n
+\ge gymnasium
+\gr гимназия
+\dt 12/Jul/2011
+
+\lx gitara
+\ps n
+\ge guitar
+\gr гитара
+\dt 11/Jul/2011
+
+\lx gorat
+\ps n
+\ge town
+\gr город
+\dt 20/Jul/2011
+
+\lx göl
+\ps n
+\ge fower
+\gr цветок
+\dt 15/Jul/2015
+
+\lx Göldär
+\ps n
+\ge Guldar
+\gr Гульдар
+\dt 23/Jul/2011
+
+\lx Gölnaz
+\a Gulnaz
+\u Gulnaz
+\a Gölnäz
+\u Gölnäz
+\ps n
+\ge Gulnaz
+\gr Гульназ
+\dt 11/Jul/2011
+
+\lx Gölnisa
+\ps n
+\ge Gulnisa
+\gr Гульниса
+\dt 23/Sep/2013
+
+\lx ɣömümän
+\ps word
+\ge generally
+\gr в.общем
+\dt 17/Jul/2017
+
+\lx görle
+\ps v
+\ge make.noize
+\gr шуметь
+\dt 19/Jul/2017
+
+\lx ɣöröf-ɣäðät
+\ps n
+\ge custom
+\gr обычай
+\dt 15/Jul/2017
+
+\lx grafik
+\ps n
+\ge schedule
+\gr график
+\dt 20/Nov/2013
+
+\lx gripp
+\ps n
+\ge flu
+\gr грипп
+\dt 10/Jul/2011
+
+\lx gruzovik
+\ps n
+\ge camion
+\gr грузовик
+\dt 13/Jul/2015
+
+\lx ɣümer
+\ps n
+\ge life
+\gr жизнь
+\dt 18/Jul/2011
+
+\lx Güzäl
+\ps n
+\ge Guzel
+\gr Гузель
+\dt 01/Aug/2011
+
+\lx -ha
+\a -hä
+\u -hä
+\ps vsuf
+\ge COND
+\gr COND
+\dt 07/Jul/2011
+
+\lx habantuj
+\ps n
+\ge Sabantuy
+\gr сабантуй
+\dt 20/Nov/2013
+
+\lx haɣən
+\ps v
+\ge miss
+\gr скучать
+\dt 22/Jul/2011
+
+\lx haɣəš
+\ps n
+\ge grief
+\gr грусть
+\dt 15/Jul/2013
+
+\lx hajən
+\ps word
+\ge every
+\gr каждый
+\dt 18/Jul/2011
+
+\lx hajla
+\ps v
+\ge choose
+\gr выбирать
+\dt 22/Jul/2011
+
+\lx hal
+\ps v
+\ge put
+\gr класть
+\dt 06/Sep/2011
+
+\lx halam
+\ps n
+\ge straw
+\gr солома
+\dt 15/Jul/2017
+
+\lx haldat
+\ps n
+\ge soldier
+\gr солдат
+\dt 13/Jul/2011
+
+\lx halma
+\ps n
+\ge noodles
+\gr лапша
+\dt 05/Jul/2014
+
+\lx halqən
+\ps n
+\ge cold
+\gr холод
+\dt 09/Jul/2011
+
+\lx haman
+\ps adv
+\ge still
+\gr все.еще
+\dt 18/Oct/2011
+
+\lx han
+\ps n
+\ge number
+\gr число
+\dt 06/Sep/2011
+
+\lx hana
+\ps v
+\ge count
+\gr считать
+\dt 10/Jul/2011
+
+\lx hap
+\ps n
+\ge handle
+\gr рукоятка
+\dt 20/Jul/2011
+
+\lx haq
+\ps adj
+\ge cautious
+\gr осторожный
+\dt 07/Aug/2011
+
+\lx haqal
+\ps n
+\ge beard
+\gr борода
+\dt 19/Jul/2011
+
+\lx haqla
+\ps v
+\ge store
+\gr хранить
+\dt 18/Oct/2011
+
+\lx haraj
+\ps n
+\ge shed
+\gr сарай
+\dt 29/Jul/2011
+
+\lx harə
+\ps adj
+\ge yellow
+\gr жёлтый
+\dt 11/Jul/2011
+
+\lx harəq
+\ps n
+\ge sheep
+\gr овца
+\dt 07/Jul/2011
+
+\lx harɣaj
+\ps v
+\ge get.yellow
+\gr желтеть
+\dt 16/Jul/2011
+
+\lx harmaq
+\ps n
+\ge crank
+\gr чудак
+\dt 20/Jul/2011
+
+\lx harqə
+\ps v
+\ge decant
+\gr сцеживать
+\dt 10/Jul/2017
+
+\lx hat
+\ps v
+\ge sell
+\gr продавать
+\dt 09/Jul/2011
+
+\lx hatləq
+\ps adj
+\ge venal
+\gr продажный
+\dt 20/Jul/2011
+
+\lx hauəu
+\ps v
+\ge milk
+\gr доить
+\dt 12/May/2014
+
+\lx haw
+\ps v
+\ge milk
+\gr доить
+\dt 12/Jul/2011
+
+\lx haw
+\ps adj
+\ge sane
+\gr здоровый
+\dt 23/Jul/2011
+
+\lx hawa
+\ps n
+\ge air
+\gr воздух
+\dt 07/Jul/2011
+
+\lx hawət
+\ps n
+\ge crockery
+\gr посуда
+\dt 10/Jul/2017
+
+\lx hawmə
+\ps word
+\ge hello
+\gr здравствуй
+\dt 29/Jul/2011
+
+\lx häjbät
+\ps adj
+\ge good
+\gr хороший
+\dt 18/Jul/2011
+
+\lx häjbätlä
+\ps v
+\ge improve
+\gr улучшаться
+\dt 21/Aug/2016
+
+\lx häl
+\ps n
+\ge story
+\gr история
+\dt 19/Jul/2011
+
+\lx häm
+\ps conj
+\ge and
+\gr и
+\dt 19/Jul/2011
+
+\lx här
+\ps adj
+\ge every
+\gr каждый
+\dt 11/Jul/2011
+
+\lx -hə
+\a -he
+\u -he
+\a -ho
+\u -ho
+\a -hö
+\u -hö
+\a -ə
+\u -ə
+\a -e
+\u -e
+\a -o
+\u -o
+\a -ö
+\u -ö
+\ps nsuf
+\ge P.3
+\gr P.3
+\dt 05/Jul/2011
+
+\lx həbaj
+\ps adv
+\ge astride
+\gr верхом
+\dt 16/Jul/2017
+
+\lx heð
+\ps pron
+\ge you
+\gr вы
+\dt 07/Jul/2011
+
+\lx -həð
+\a -heð
+\u -heð
+\a -hoð
+\u -hoð
+\a -höð
+\u -höð
+\ps nsuf
+\ge CAR
+\gr CAR
+\dt 09/Jul/2011
+
+\lx həðər
+\ps v
+\ge strip
+\gr сдирать
+\dt 01/Jan/2012
+
+\lx həðla
+\ps v
+\ge ache
+\gr ныть
+\dt 11/Jul/2011
+
+\lx -həɣəð
+\a -hegeð
+\u -hegeð
+\a -hoɣoð
+\u -hoɣoð
+\a -högöð
+\u -högöð
+\ps suf
+\ge 2PL
+\gr 2PL
+\dt 26/Jan/2012
+
+\lx həjər
+\ps n
+\ge cow
+\gr корова
+\dt 07/Jul/2011
+
+\lx həjpa
+\ps v
+\ge stroke
+\gr гладить
+\dt 19/Jul/2012
+
+\lx helket
+\ps v
+\ge shake
+\gr трясти
+\dt 22/Jul/2011
+
+\lx heltä
+\ps v
+\ge wave
+\gr махать
+\dt 15/Jul/2011
+
+\lx həmaq
+\ps post
+\ge like
+\gr словно
+\dt 10/Jul/2011
+
+\lx hən
+\ps v
+\ge break(vi)
+\gr ломаться
+\dt 18/Jul/2011
+
+\lx -hən
+\a -hen
+\u -hen
+\a -hon
+\u -hon
+\a -hön
+\u -hön
+\ps vsuf
+\ge JUSS
+\gr JUSS
+\dt 14/Jul/2011
+
+\lx -həŋ
+\a -heŋ
+\u -heŋ
+\a -hoŋ
+\u -hoŋ
+\a -höŋ
+\u -höŋ
+\ps suf
+\ge 2SG
+\gr 2SG
+\dt 26/Jan/2012
+
+\lx həŋar
+\ps adj
+\ge paired
+\gr парный
+\dt 08/Jul/2014
+
+\lx heŋle
+\ps n
+\ge younger.sister
+\gr младшая.сестра
+\dt 18/Jul/2011
+
+\lx hər
+\ps n
+\ge wrinckle
+\gr морщина
+\dt 15/Jul/2015
+
+\lx həra
+\ps n
+\ge beer
+\gr пиво
+\dt 13/Jul/2011
+
+\lx heräj
+\ps v
+\ge stick.out
+\gr торчать
+\dt 27/Jan/2012
+
+\lx hərɣa
+\ps n
+\ge earring
+\gr серьга
+\dt 12/Jul/2011
+
+\lx hərt
+\ps n
+\ge back
+\gr спина
+\dt 22/Sep/2013
+
+\lx hətqə
+\ps n
+\ge comedo
+\gr угорь
+\dt 06/Aug/2011
+
+\lx həw
+\ps n
+\ge water
+\gr вода
+\dt 06/Jul/2011
+
+\lx həwəq
+\ps n
+\ge cold
+\gr холод
+\dt 17/Jul/2011
+
+\lx həwlan
+\ps v
+\ge get.wet
+\gr мокнуть
+\dt 16/Jul/2013
+
+\lx hið
+\ps v
+\ge feel
+\gr чувствовать
+\dt 23/Jul/2015
+
+\lx higeð
+\ps num
+\ge eight
+\gr восемь
+\dt 27/Jan/2012
+
+\lx hiker
+\ps v
+\ge jump
+\gr прыгать
+\dt 15/Jul/2011
+
+\lx hikerges
+\ps n
+\ge skipping.rope
+\gr скакалка
+\dt 17/Jul/2017
+
+\lx hikhän
+\ps num
+\ge 80
+\dt 08/May/2014
+
+\lx hin
+\ps pron
+\ge thou
+\gr ты
+\dt 07/Jul/2011
+
+\lx hinän
+\ps pron
+\ge thou.ABL
+\gr ты.ABL
+\dt 07/Jul/2011
+
+\lx hindä
+\ps pron
+\ge thou.LOC
+\gr ты.LOC
+\dt 07/Jul/2011
+
+\lx hine
+\ps pron
+\ge thou.ACC
+\gr ты.ACC
+\dt 07/Jul/2011
+
+\lx hineke
+\ps pron
+\ge thou.POSS.SUBST
+\gr ты.POSS.SUBST
+\dt 22/Jul/2011
+
+\lx hineŋ
+\ps pron
+\ge thou.GEN
+\gr ты.GEN
+\dt 07/Jul/2011
+
+\lx hiŋä
+\ps pron
+\ge thou.DAT
+\gr ты.DAT
+\dt 07/Jul/2011
+
+\lx hipkel
+\ps n
+\ge wreckles
+\gr веснушки
+\dt 08/Jul/2015
+
+\lx hiräk
+\ps adj
+\ge rare
+\gr редкий
+\dt 07/Jul/2011
+
+\lx his
+\ps part
+\ge none
+\gr ни
+\dt 08/Jul/2011
+
+\lx holo
+\ps n
+\ge oat
+\gr овёс
+\dt 16/Jul/2017
+
+\lx hon
+\ps v
+\ge stretch
+\gr протягивать
+\dt 06/Sep/2011
+
+\lx Hontaj
+\ps n
+\ge Suntaj
+\gr Сунтай
+\dt 06/Sep/2011
+
+\lx hoqlan
+\ps v
+\ge be.charmed
+\gr восхищаться
+\dt 15/Jul/2011
+
+\lx hora
+\ps v
+\ge ask
+\gr просить
+\dt 12/Jul/2011
+
+\lx horo
+\ps adj
+\ge grey
+\gr серый
+\dt 11/Jul/2012
+
+\lx höð
+\ps v
+\ge strain
+\gr цедить
+\dt 13/Jul/2017
+
+\lx höj
+\ps v
+\ge love
+\gr любить
+\dt 12/Jul/2011
+
+\lx höjä
+\ps v
+\ge lean
+\gr прислонить
+\dt 06/Jul/2013
+
+\lx höjäk
+\a höjäg
+\u höjäg
+\ps n
+\ge stone
+\gr кость
+\dt 11/Jul/2011
+
+\lx höjlä
+\ps v
+\ge speak
+\gr говорить
+\dt 06/Jul/2011
+
+\lx höjläm
+\ps n
+\ge sentence
+\gr предложение
+\dt 22/Nov/2013
+
+\lx höŋär
+\ps n
+\ge craft
+\gr ремесло
+\dt 15/Jul/2017
+
+\lx höŋgö
+\ps n
+\ge lance
+\gr копьё
+\dt 15/Jul/2017
+
+\lx hör
+\ps v
+\ge plough
+\gr пахать
+\dt 12/Jul/2011
+
+\lx höt
+\ps n
+\ge milk
+\gr молоко
+\dt 06/Jul/2011
+
+\lx höžüm
+\ps n
+\ge attack
+\gr нападение
+\dt 12/Jul/2011
+
+\lx huð
+\ps v
+\ge drag
+\gr тянуть
+\dt 14/Jul/2011
+
+\lx huɣ
+\a huq
+\u huq
+\ps v
+\ge hit
+\gr ударить
+\dt 25/Aug/2011
+
+\lx huɣan
+\ps n
+\ge onion
+\gr лук.головка
+\dt 20/Jul/2015
+
+\lx huɣəl
+\ps v
+\ge call.on.the.way
+\gr заехать
+\dt 18/Jul/2011
+
+\lx huɣəš
+\ps n
+\ge war
+\gr война
+\dt 27/Jan/2012
+
+\lx huj
+\ps v
+\ge cut
+\gr резать
+\dt 01/Jan/2012
+
+\lx hul
+\ps adj
+\ge left
+\gr левый
+\dt 01/Aug/2011
+
+\lx hulaqaj
+\ps adj
+\ge left
+\gr левый
+\dt 22/Sep/2013
+
+\lx hum
+\ps n
+\ge rouble
+\gr рубль
+\dt 19/Jul/2011
+
+\lx hunar
+\ps n
+\ge hunting
+\gr охота
+\dt 09/Jul/2011
+
+\lx hunla
+\ps v
+\ge be.late
+\gr опаздывать
+\dt 15/Jul/2011
+
+\lx huŋ
+\ps post
+\ge after
+\gr после
+\dt 09/Jul/2011
+
+\lx huŋla
+\ps v
+\ge be.late
+\gr опоздать
+\dt 15/Jul/2013
+
+\lx huqər
+\ps adj
+\ge blind
+\gr слепой
+\dt 27/Jan/2012
+
+\lx huqəraj
+\ps v
+\ge become.blind
+\gr ослепнуть
+\dt 02/Aug/2011
+
+\lx hur
+\ps v
+\ge extract
+\gr вынуть
+\dt 19/Jul/2012
+
+\lx hurpa
+\ps n
+\ge soup
+\gr суп
+\dt 13/Jul/2011
+
+\lx hušlaš
+\ps v
+\ge bid.farewell
+\gr проститься
+\dt 16/Jul/2017
+
+\lx hüð
+\ps n
+\ge word
+\gr слово
+\dt 07/Jul/2011
+
+\lx hün
+\ps v
+\ge go.out
+\gr гаснуть
+\dt 13/Mar/2012
+
+\lx hürät
+\ps n
+\ge picture
+\gr рисунок
+\dt 09/Jul/2011
+
+\lx iðän
+\ps n
+\ge floor
+\gr пол
+\dt 13/Jul/2011
+
+\lx iðmä
+\ps n
+\ge puree
+\gr пюре
+\dt 06/Jul/2011
+
+\lx iɣtibar
+\ps n
+\ge attention
+\gr внимание
+\dt 17/Jul/2011
+
+\lx ijul
+\ps n
+\ge July
+\gr июль
+\dt 14/Jul/2012
+
+\lx ikän
+\ps v
+\ge be.PC.PST
+\gr быть.PC.PST
+\dt 13/Jun/2012
+
+\lx ikän
+\ps word
+\ge as.if
+\gr будто
+\dt 22/Jul/2011
+
+\lx ike
+\a ik
+\u ik
+\ps num
+\ge two
+\gr два
+\dt 06/Sep/2011
+
+\lx ikelätä
+\ps adj
+\ge double
+\gr двойной
+\dt 20/Nov/2013
+
+\lx ikešärläp
+\ps adv
+\ge by.two
+\gr по.двое
+\dt 15/Jul/2017
+
+\lx ikmäk
+\a ikmäg
+\u ikmäg
+\ps n
+\ge bread
+\gr хлеб
+\dt 11/Jul/2011
+
+\lx il
+\ps n
+\ge country
+\gr страна
+\dt 05/Sep/2011
+
+\lx ila
+\ps v
+\ge cry
+\gr плакать
+\dt 05/Aug/2011
+
+\lx Ildar
+\ps n
+\ge Ildar
+\gr Ильдар
+\dt 07/Jul/2013
+
+\lx ille
+\ps num
+\ge fifty
+\gr пятьдесят
+\dt 27/Jan/2012
+
+\lx Ilnara
+\ps n
+\ge Ilnara
+\gr Ильнара
+\dt 30/Jul/2011
+
+\lx Ilnur
+\ps n
+\ge Ilnur
+\gr Ильнур
+\dt 10/Jul/2011
+
+\lx Ilsur
+\ps n
+\ge Ilsur
+\gr Ильсур
+\dt 14/Jul/2011
+
+\lx Ilšat
+\ps n
+\ge Ilshat
+\gr Ильшат
+\dt 14/Jul/2013
+
+\lx Ilüzä
+\ps n
+\ge Iluza
+\gr Илюза
+\dt 05/Aug/2011
+
+\lx im
+\ps v
+\ge suck
+\gr сосать
+\dt 22/Sep/2013
+
+\lx imän
+\ps n
+\ge oak
+\gr дуб
+\dt 13/Jul/2011
+
+\lx imtixan
+\ps n
+\ge exam
+\gr экзамен
+\dt 21/Jul/2011
+
+\lx in
+\ps v
+\ge enter
+\gr входить
+\dt 13/Jul/2011
+
+\lx inde
+\ps adv
+\ge yet
+\gr уже
+\dt 30/Jul/2011
+
+\lx ine
+\ps v
+\ge be.PST
+\gr быть.PST
+\dt 08/Jul/2011
+
+\lx institut
+\ps n
+\ge institute
+\gr институт
+\dt 18/Jul/2011
+
+\lx instrument
+\ps n
+\ge insrument
+\gr инструмент
+\dt 16/Jul/2017
+
+\lx internat
+\ps n
+\ge boarding.school
+\gr интернат
+\dt 12/Jul/2011
+
+\lx internet
+\ps n
+\ge Internet
+\gr Интернет
+\dt 13/Jul/2012
+
+\lx iŋ
+\ps adj
+\ge most
+\gr самый
+\dt 10/Jul/2011
+
+\lx iŋbaš
+\ps n
+\ge arm
+\gr плечо
+\dt 06/Jul/2014
+
+\lx iptäš
+\ps n
+\ge comrade
+\gr товарищ
+\dt 20/Jul/2011
+
+\lx ir
+\ps n
+\ge man
+\gr мужчина
+\dt 06/Jul/2011
+
+\lx Irändek
+\ps n
+\ge Irendyk
+\gr Ирендык
+\dt 27/Jan/2012
+
+\lx ire
+\ps v
+\ge melt
+\gr таять
+\dt 13/Mar/2012
+
+\lx Irek
+\ps n
+\ge Irek
+\gr Ирек
+\dt 13/Jul/2011
+
+\lx iren
+\ps n
+\ge lip
+\gr губа
+\dt 05/Sep/2011
+
+\lx ireš
+\ps v
+\ge quarrel
+\gr ссориться
+\dt 27/Jan/2012
+
+\lx irken
+\ps adj
+\ge spacious
+\gr просторный
+\dt 18/Jul/2011
+
+\lx irtä
+\ps n
+\ge morning
+\gr утро
+\dt 19/Jul/2011
+
+\lx irtägä
+\ps adv
+\ge tomorrow
+\gr завтра
+\dt 14/Jul/2011
+
+\lx irtänsäk
+\a irtänsaq
+\u irtänsaq
+\ps n
+\ge morning
+\gr утро
+\dt 18/Jul/2011
+
+\lx isem
+\ps n
+\ge name
+\gr имя
+\dt 26/Aug/2011
+
+\lx Islam
+\ps n
+\ge Islam
+\gr Ислам
+\dt 16/Jul/2011
+
+\lx ismaham
+\ps word
+\ge even
+\gr хоть
+\dt 23/Jul/2011
+
+\lx Israfil
+\ps n
+\ge Israfil
+\gr Исрафил
+\dt 18/Jul/2011
+
+\lx iš
+\ps v
+\ge twist
+\gr вить
+\dt 18/Jul/2017
+
+\lx išan
+\ps v
+\ge believe
+\gr верить
+\dt 22/Jul/2011
+
+\lx išek
+\ps n
+\ge door
+\gr дверь
+\dt 05/Sep/2011
+
+\lx išet
+\ps v
+\ge hear
+\gr слышать
+\dt 07/Jul/2011
+
+\lx išew
+\ps word
+\ge also
+\gr ещё
+\dt 16/Aug/2017
+
+\lx Išmöhämät
+\ps n
+\ge Ishmohammet
+\gr Ишмохаммет
+\dt 22/Jul/2011
+
+\lx it
+\ps n
+\ge meat
+\gr мясо
+\dt 06/Jul/2011
+
+\lx it
+\ps v
+\ge do
+\gr делать
+\dt 10/Jul/2011
+
+\lx iθ
+\ps n
+\ge mind
+\gr сознание
+\dt 10/Jul/2011
+
+\lx iθä
+\ps v
+\ge blow
+\gr дуть
+\dt 15/Jul/2011
+
+\lx itäk
+\a itäg
+\u itäg
+\ps n
+\ge foot
+\gr подошва.горы
+\dt 20/Jul/2011
+
+\lx itäk
+\a itäg
+\u itäg
+\ps n
+\ge hem
+\gr подол
+\dt 14/Jul/2013
+
+\lx iθän
+\ps adj
+\ge intact
+\gr здоровый
+\dt 02/Aug/2011
+
+\lx itek
+\ps n
+\ge boot
+\gr сапог
+\dt 14/Jul/2011
+
+\lx iθkärt
+\ps v
+\ge warn
+\gr предупреждать
+\dt 03/Dec/2013
+
+\lx iθke
+\ps adj
+\ge old
+\gr старый
+\dt 12/Jul/2011
+
+\lx iθker
+\ps v
+\ge get.old
+\gr постареть
+\dt 20/Jul/2011
+
+\lx iθlä
+\ps v
+\ge remember
+\gr помнить
+\dt 13/Jul/2011
+
+\lx ixata
+\ps n
+\ge fence
+\gr изгородь
+\dt 25/Jul/2014
+
+\lx ižaw
+\ps n
+\ge ladle
+\gr поварешка
+\dt 18/Oct/2011
+
+\lx jab
+\ps v
+\ge cover
+\gr покрывать
+\dt 20/Nov/2013
+
+\lx jabaj
+\ps adj
+\ge simple
+\gr простой
+\dt 23/Jul/2011
+
+\lx jað
+\ps n
+\ge spring
+\gr весна
+\dt 23/Jul/2011
+
+\lx jað
+\ps v
+\ge untuck
+\gr отгибать
+\dt 13/Jul/2017
+
+\lx jaða
+\ps adv
+\ge by
+\gr мимо
+\dt 16/Jul/2011
+
+\lx jaðə
+\ps v
+\ge write
+\gr писать
+\dt 15/Aug/2017
+
+\lx Jaðgöl
+\ps n
+\ge Jazghul
+\gr Язгуль
+\dt 15/Jul/2013
+
+\lx jaɣ
+\ps v
+\ge stoke
+\gr затопить
+\dt 17/Jul/2017
+
+\lx jaɣəmlə
+\ps adj
+\ge nice
+\gr приятный
+\dt 13/Jul/2011
+
+\lx jaha
+\ps v
+\ge do
+\gr делать
+\dt 18/Jul/2011
+
+\lx jaj
+\ps adj
+\ge slow
+\gr медленный
+\dt 15/Jul/2011
+
+\lx jaj
+\ps n
+\ge chance
+\gr удобный.случай
+\dt 18/Oct/2011
+
+\lx jajlap
+\ps adj
+\ge gradual
+\gr постепенный
+\dt 05/Sep/2011
+
+\lx Jajqar
+\ps n
+\ge Yajkarovo
+\gr Яйкарово
+\dt 12/Jul/2017
+
+\lx jal
+\ps n
+\ge rest
+\gr отдых
+\dt 12/Jul/2011
+
+\lx jalaɣajlan
+\ps v
+\ge flatter
+\gr льстить
+\dt 20/Jul/2011
+
+\lx jalan
+\ps n
+\ge field
+\gr поле
+\dt 22/Sep/2013
+
+\lx jalq
+\ps v
+\ge be.tired
+\gr утомиться
+\dt 19/Jul/2011
+
+\lx jalqaw
+\ps adj
+\ge lazy
+\gr ленивый
+\dt 13/Jul/2011
+
+\lx jalqən
+\ps n
+\ge flame
+\gr пламя
+\dt 22/Jul/2011
+
+\lx jalsə
+\ps n
+\ge labourer
+\gr работник
+\dt 18/Oct/2011
+
+\lx jaltəra
+\ps v
+\ge shine
+\gr блестеть
+\dt 14/Jul/2013
+
+\lx jama
+\ps v
+\ge mend
+\gr чинить
+\dt 09/Jul/2011
+
+\lx jamɣər
+\ps n
+\ge rain
+\gr дождь
+\dt 07/Jul/2011
+
+\lx jan
+\ps v
+\ge burn
+\gr гореть
+\dt 18/Jul/2011
+
+\lx jan
+\ps n
+\ge near
+\gr около
+\dt 23/Dec/2011
+
+\lx jaŋaq
+\ps n
+\ge cheek
+\gr щека
+\dt 08/Jul/2015
+
+\lx jaŋə
+\ps adj
+\ge new
+\gr новый
+\dt 01/Aug/2011
+
+\lx jaŋələš
+\ps v
+\ge be.mistaken
+\gr ошибаться
+\dt 06/Sep/2011
+
+\lx jaŋələš
+\ps adj
+\ge wrong
+\gr ошибочный
+\dt 20/Jul/2011
+
+\lx jaŋɣəð
+\ps adj
+\ge alone
+\gr одинокий
+\dt 06/Sep/2011
+
+\lx jaŋɣəra
+\ps v
+\ge sound
+\gr звучать
+\dt 23/Jul/2011
+
+\lx japraq
+\a japraɣ
+\u japraɣ
+\ps n
+\ge leaf
+\gr листок
+\dt 27/Jan/2012
+
+\lx jaq
+\a jaɣ
+\u jaɣ
+\ps n
+\ge side
+\gr сторона
+\dt 30/Jul/2011
+
+\lx jaqən
+\ps adj
+\ge close
+\gr близкий
+\dt 07/Jul/2011
+
+\lx jaqšə
+\ps adj
+\ge good
+\gr хороший
+\dt 10/Jul/2011
+
+\lx jaqtə
+\ps adj
+\ge light
+\gr светлый
+\dt 11/Jul/2011
+
+\lx jaqtər
+\ps v
+\ge lighten
+\gr светлеть
+\dt 10/Jul/2011
+
+\lx jar
+\ps n
+\ge bank
+\gr берег
+\dt 07/Jul/2011
+
+\lx jara
+\ps v
+\ge fit
+\gr годиться
+\dt 06/Jul/2011
+
+\lx jaraj
+\ps word
+\ge all.right
+\gr ладно
+\dt 18/Jul/2011
+
+\lx jaramhaqlan
+\ps v
+\ge fawn
+\gr заискивать
+\dt 20/Jul/2011
+
+\lx jarat
+\ps v
+\ge love
+\gr любить
+\dt 10/Jul/2011
+
+\lx jarðam
+\ps n
+\ge help
+\gr помощь
+\dt 14/Jul/2011
+
+\lx jarə
+\ps v
+\ge beat
+\gr колоть
+\dt 07/Jul/2014
+
+\lx jarəš
+\ps n
+\ge competition
+\gr соревнование
+\dt 15/Jul/2017
+
+\lx jarlə
+\ps adj
+\ge poor
+\gr бедный
+\dt 06/Sep/2011
+
+\lx jartə
+\ps n
+\ge half
+\gr половина
+\dt 08/Aug/2011
+
+\lx jat
+\ps v
+\ge lie
+\gr лежать
+\dt 13/Jul/2011
+
+\lx jaθtəq
+\ps n
+\ge pillow
+\gr подушка
+\dt 13/Jul/2011
+
+\lx jaw
+\ps v
+\ge rain
+\gr идти(осадки)
+\dt 07/Jul/2011
+
+\lx jawap
+\ps n
+\ge answer
+\gr ответ
+\dt 12/Jul/2011
+
+\lx jawəð
+\ps adj
+\ge insidious
+\gr коварный
+\dt 18/Jul/2017
+
+\lx jawləq
+\ps n
+\ge headscarf
+\gr платок
+\dt 13/Jul/2011
+
+\lx Jaxja
+\ps n
+\ge John
+\gr Иоанн
+\dt 17/Nov/2013
+
+\lx jazala
+\ps v
+\ge punish
+\gr наказать
+\dt 18/Jul/2011
+
+\lx jä
+\ps word
+\ge or
+\gr или
+\dt 03/Dec/2013
+
+\lx jäbeš
+\ps v
+\ge stick
+\gr прилипать
+\dt 13/Jul/2011
+
+\lx jähät
+\ps adv
+\ge swiftly
+\gr быстро
+\dt 18/Jul/2017
+
+\lx jäj
+\ps n
+\ge summer
+\gr лето
+\dt 09/Jul/2011
+
+\lx jäjä
+\ps v
+\ge walk
+\gr идти.пешком
+\dt 20/Jul/2011
+
+\lx jäjäw
+\ps adv
+\ge on.foot
+\gr пешком
+\dt 12/Jul/2017
+
+\lx jäjäwläp
+\ps adv
+\ge on.foot
+\gr пешком
+\dt 13/Jul/2017
+
+\lx jäki
+\ps word
+\ge or
+\gr или
+\dt 23/Jul/2015
+
+\lx jällä
+\ps v
+\ge pity
+\gr жалеть
+\dt 14/Jul/2011
+
+\lx jän
+\ps n
+\ge soul
+\gr душа
+\dt 20/Jul/2011
+
+\lx jänlek
+\ps n
+\ge animal
+\gr зверь
+\dt 26/Jan/2012
+
+\lx jäp
+\ps n
+\ge fork
+\gr развилка
+\dt 16/Jul/2013
+
+\lx järäxätlä
+\ps v
+\ge injure
+\gr ранить
+\dt 08/Jul/2012
+
+\lx jäš
+\ps adj
+\ge young
+\gr молодой
+\dt 07/Jul/2011
+
+\lx jäš
+\ps n
+\ge age
+\gr возраст
+\dt 09/Oct/2011
+
+\lx jäšä
+\ps v
+\ge live
+\gr жить
+\dt 07/Jul/2011
+
+\lx jäšel
+\ps adj
+\ge green
+\gr зеленый
+\dt 16/Jul/2013
+
+\lx jäšelsä
+\ps n
+\ge vegetable
+\gr овощ
+\dt 31/Aug/2011
+
+\lx jäšen
+\ps v
+\ge hide(vi)
+\gr прятаться
+\dt 28/Aug/2011
+
+\lx jäšen
+\ps n
+\ge lightning
+\gr молния
+\dt 13/Jul/2011
+
+\lx jäšlän
+\ps v
+\ge water
+\gr слезиться
+\dt 18/Jul/2012
+
+\lx jäteš
+\ps adj
+\ge comfortable
+\gr удобный
+\dt 14/Jul/2012
+
+\lx jebär
+\ps v
+\ge send
+\gr посылать
+\dt 05/Sep/2011
+
+\lx jeg
+\a jek
+\u jek
+\ps v
+\ge harness
+\gr запрягать
+\dt 22/Jul/2011
+
+\lx jəɣəl
+\ps v
+\ge fall
+\gr падать
+\dt 22/Jul/2011
+
+\lx jegerme
+\ps n
+\ge twenty
+\gr двадцать
+\dt 15/Jul/2017
+
+\lx jeget
+\ps n
+\ge lad
+\gr парень
+\dt 18/Jul/2011
+
+\lx jəj
+\ps v
+\ge collect
+\gr собирать
+\dt 12/Jul/2011
+
+\lx jejän
+\ps n
+\ge grandson
+\gr внук
+\dt 09/Jul/2011
+
+\lx jejänsär
+\ps n
+\ge granddaughter
+\gr внучка
+\dt 09/Jul/2011
+
+\lx jəjən
+\ps n
+\ge gathering
+\gr сбор
+\dt 20/Nov/2013
+
+\lx jəjərsəq
+\ps n
+\ge wrinkle
+\gr морщина
+\dt 05/Aug/2011
+
+\lx jekhet
+\ps v
+\ge bore
+\gr надоесть
+\dt 18/Oct/2011
+
+\lx jel
+\ps v
+\ge rush
+\gr мчаться
+\dt 17/Jul/2017
+
+\lx jəl
+\ps n
+\ge year
+\gr год
+\dt 12/Jul/2011
+
+\lx jəlan
+\ps n
+\ge snake
+\gr змея
+\dt 17/Jul/2011
+
+\lx jeläk
+\ps n
+\ge berry
+\gr ягода
+\dt 09/Jul/2011
+
+\lx jələ
+\ps adj
+\ge hot
+\gr тёплый
+\dt 14/Jul/2011
+
+\lx jəlɣa
+\ps n
+\ge river
+\gr река
+\dt 07/Jul/2011
+
+\lx jəlɣər
+\ps adj
+\ge fast
+\gr быстрый
+\dt 17/Jul/2011
+
+\lx jelkä
+\ps n
+\ge back.of.the.head
+\gr затылок
+\dt 16/Jul/2017
+
+\lx jemer
+\ps v
+\ge destroy
+\gr разрушать
+\dt 24/Jul/2011
+
+\lx jeŋ
+\ps v
+\ge win
+\gr побеждать
+\dt 05/Sep/2011
+
+\lx jeŋel
+\ps adj
+\ge light
+\gr легкий
+\dt 13/Jul/2011
+
+\lx jeŋeše
+\ps v
+\ge dispute
+\gr спорить
+\dt 16/Jul/2017
+
+\lx jep
+\ps n
+\ge thread
+\gr нить
+\dt 19/Jul/2012
+
+\lx jer
+\ps n
+\ge earth
+\gr земля
+\dt 09/Jul/2011
+
+\lx jər
+\ps n
+\ge song
+\gr песня
+\dt 15/Jul/2011
+
+\lx jər
+\ps v
+\ge tear
+\gr рвать
+\dt 19/Jul/2012
+
+\lx jəraq
+\ps adj
+\ge far
+\gr далекий
+\dt 20/Jul/2011
+
+\lx jerän
+\ps v
+\ge be.fastidious
+\gr брезговать
+\dt 19/Jul/2011
+
+\lx jerhen
+\ps v
+\ge get.accustomed
+\gr привыкнуть
+\dt 22/Jul/2011
+
+\lx jərla
+\ps v
+\ge sing
+\gr петь
+\dt 10/Jul/2011
+
+\lx jerlä
+\ps v
+\ge bury
+\gr хоронить
+\dt 23/Jul/2011
+
+\lx jərt
+\ps v
+\ge tear
+\gr рвать
+\dt 09/Jul/2011
+
+\lx jəš
+\ps adj
+\ge often
+\gr частый
+\dt 09/Jul/2011
+
+\lx jet
+\ps v
+\ge be.enough
+\gr хватать
+\dt 09/Jul/2011
+
+\lx jeθ
+\ps n
+\ge smell
+\gr запах
+\dt 12/Jul/2011
+
+\lx jetäklä
+\ps v
+\ge lead
+\gr водить
+\dt 13/Jul/2011
+
+\lx jetäkse
+\ps n
+\ge head
+\gr руководитель
+\dt 19/Jul/2011
+
+\lx jete
+\ps num
+\ge seven
+\gr семь
+\dt 06/Sep/2011
+
+\lx jeteš
+\ps v
+\ge ripen
+\gr зреть
+\dt 09/Jul/2011
+
+\lx jetmähä
+\ps word
+\ge in.addition
+\gr вдобавок
+\dt 12/Jul/2017
+
+\lx jetmeš
+\ps num
+\ge seventy
+\gr семьдесят
+\dt 23/Jul/2011
+
+\lx jəw
+\ps v
+\ge wash
+\gr мыть
+\dt 06/Jul/2011
+
+\lx jəwa
+\ps n
+\ge onion
+\gr лук.перья
+\dt 20/Jul/2015
+
+\lx jeweš
+\ps adj
+\ge wet
+\gr сырой
+\dt 16/Jul/2013
+
+\lx joðaq
+\ps n
+\ge lock
+\gr замок
+\dt 19/Jul/2012
+
+\lx joɣonto
+\ps n
+\ge influence
+\gr влияние
+\dt 18/Jul/2011
+
+\lx jolq
+\ps v
+\ge pull
+\gr дергать
+\dt 19/Jul/2012
+
+\lx jom
+\ps v
+\ge close
+\gr закрывать
+\dt 08/Jul/2015
+
+\lx jomortqa
+\ps n
+\ge egg
+\gr яйцо
+\dt 08/Jul/2014
+
+\lx jomšaq
+\ps adj
+\ge soft
+\gr мягкий
+\dt 13/Jul/2011
+
+\lx jondoð
+\ps n
+\ge star
+\gr звезда
+\dt 17/Jul/2017
+
+\lx joqla
+\ps v
+\ge sleep
+\gr спать
+\dt 07/Jul/2011
+
+\lx joqo
+\ps n
+\ge sleep
+\gr сон
+\dt 11/Jul/2011
+
+\lx jort
+\ps n
+\ge house
+\gr дом
+\dt 13/Jul/2011
+
+\lx jöð
+\ps num
+\ge hundred
+\gr сто
+\dt 19/Jul/2011
+
+\lx jöð
+\ps v
+\ge swim
+\gr плавать
+\dt 05/Sep/2011
+
+\lx jöð
+\ps n
+\ge face
+\gr лицо
+\dt 05/Sep/2011
+
+\lx jök
+\ps n
+\ge load
+\gr груз
+\dt 29/Jul/2011
+
+\lx jön
+\ps n
+\ge hair
+\gr шерсть
+\com волос на теле
+\dt 07/Jul/2012
+
+\lx jöräk
+\a jöräg
+\u jöräg
+\ps n
+\ge heart
+\gr сердце
+\dt 18/Jul/2011
+
+\lx jörö
+\ps v
+\ge go
+\gr ходить
+\dt 09/Jul/2011
+
+\lx jöröt
+\ps v
+\ge call
+\gr называть
+\dt 16/Aug/2017
+
+\lx juɣal
+\ps v
+\ge get.lost
+\gr теряться
+\dt 19/Jul/2011
+
+\lx juɣarə
+\ps adj
+\ge high
+\gr высокий
+\dt 22/Sep/2013
+
+\lx jul
+\ps n
+\ge way
+\gr путь
+\dt 12/Jul/2011
+
+\lx jupka
+\ps n
+\ge skirt
+\gr юбка
+\dt 14/Jul/2011
+
+\lx juq
+\a jaq
+\u jaq
+\ps word
+\ge NEG.COP
+\gr NEG.COP
+\dt 30/Jul/2011
+
+\lx jügän
+\ps n
+\ge curb
+\gr узда
+\dt 05/Sep/2011
+
+\lx jüger
+\ps v
+\ge run
+\gr бежать
+\dt 19/Jul/2011
+
+\lx jükä
+\ps n
+\ge lime
+\gr липа
+\dt 16/Jul/2017
+
+\lx kajɣə
+\ps n
+\ge grief
+\gr горе
+\dt 06/Dec/2011
+
+\lx kalbasa
+\ps n
+\ge ham
+\gr калбаса
+\dt 05/Jul/2015
+
+\lx kaləm
+\ps n
+\ge money.made.on.the.side
+\gr калым
+\dt 06/Dec/2011
+
+\lx kanton
+\ps n
+\ge canton
+\gr кантон
+\dt 22/Jul/2011
+
+\lx kartina
+\ps n
+\ge picture
+\gr картина
+\dt 06/Jul/2013
+
+\lx kartuf
+\ps n
+\ge potato
+\gr картофель
+\dt 17/Jul/2013
+
+\lx kasaɣor
+\ps n
+\ge slope
+\gr косогор
+\dt 12/Jul/2017
+
+\lx kazak
+\ps n
+\ge Cossack
+\gr казак
+\dt 05/Dec/2013
+
+\lx Kazanka
+\ps n
+\ge Kazanka
+\gr Казанка
+\dt 18/Jul/2011
+
+\lx kazjonyj
+\ps adj
+\ge belonging.to.state
+\gr казенный
+\dt 18/Jul/2011
+
+\lx käbän
+\ps n
+\ge stack
+\gr стог
+\dt 06/Dec/2011
+
+\lx käber
+\ps n
+\ge tomb
+\gr могила
+\dt 06/Dec/2011
+
+\lx käläš
+\ps n
+\ge bride
+\gr невеста
+\dt 06/Dec/2011
+
+\lx känfit
+\ps n
+\ge candy
+\gr конфета
+\dt 06/Dec/2011
+
+\lx käräk
+\ps word
+\ge necessary
+\gr надо
+\dt 06/Dec/2011
+
+\lx Kärim
+\ps n
+\ge Karim
+\gr Карим
+\dt 06/Dec/2011
+
+\lx kärtä
+\ps n
+\ge fence
+\gr изгородь
+\dt 06/Dec/2011
+
+\lx kärtäl
+\ps v
+\ge fence
+\gr огородить
+\dt 15/Jul/2017
+
+\lx käštä
+\ps n
+\ge shelf
+\gr полка
+\dt 06/Dec/2011
+
+\lx Kätä
+\ps n
+\ge Yajkarovo
+\gr Яйкарово
+\dt 06/Dec/2011
+
+\lx käwðä
+\ps n
+\ge body
+\gr тело
+\dt 06/Dec/2011
+
+\lx käzä
+\ps n
+\ge goat
+\gr коза
+\dt 06/Dec/2011
+
+\lx Kečkemet
+\ps n
+\ge Kecskemét
+\gr Кечкемет
+\dt 15/Jul/2017
+
+\lx kej
+\ps v
+\ge put.on
+\gr надевать
+\dt 07/Jul/2011
+
+\lx kejäw
+\ps n
+\ge groom
+\gr жених
+\dt 06/Dec/2011
+
+\lx kejem
+\ps n
+\ge clothes
+\gr одежда
+\dt 07/Jul/2011
+
+\lx keläm
+\ps n
+\ge carpet
+\gr ковер
+\dt 06/Dec/2011
+
+\lx kem
+\ps pron
+\ge who
+\gr кто
+\dt 06/Jul/2011
+
+\lx kəme
+\ps v
+\ge decrease
+\gr уменьшаться
+\dt 08/Jul/2012
+
+\lx ker
+\ps v
+\ge enter
+\gr входить
+\dt 13/Jul/2011
+
+\lx kerpek
+\ps n
+\ge eyelash
+\gr ресница
+\dt 14/Jul/2011
+
+\lx kese
+\ps adj
+\ge younger
+\gr младший
+\dt 18/Jul/2011
+
+\lx kesertkän
+\ps n
+\ge nettles
+\gr крапива
+\dt 06/Dec/2011
+
+\lx keše
+\ps n
+\ge person
+\gr человек
+\dt 06/Dec/2011
+
+\lx keθä
+\ps n
+\ge pocket
+\gr карман
+\dt 06/Dec/2011
+
+\lx kewek
+\ps post
+\ge like
+\gr словно
+\dt 10/Jul/2011
+
+\lx kibet
+\ps n
+\ge shop
+\gr лавка
+\dt 16/Jul/2011
+
+\lx kiðew
+\ps n
+\ge contagious.disease
+\gr повальная.болезнь
+\dt 06/Dec/2011
+
+\lx kil
+\ps v
+\ge come
+\gr приходить
+\dt 06/Jul/2011
+
+\lx kilen
+\ps n
+\ge daughter-in-law
+\gr сноха
+\dt 19/Jul/2017
+
+\lx Kilmäk
+\ps n
+\ge Kilmyak
+\gr Кильмяк
+\dt 06/Dec/2011
+
+\lx kilometr
+\ps n
+\ge kilometer
+\gr километр
+\dt 14/Jul/2013
+
+\lx kinän
+\ps v
+\ge enjoy
+\gr наслаждаться
+\dt 06/Dec/2011
+
+\lx kinjä
+\ps adj
+\ge youngest
+\gr младший
+\dt 06/Dec/2011
+
+\lx kiŋäj
+\ps v
+\ge widen
+\gr расшириться
+\dt 14/Jul/2012
+
+\lx kipter
+\ps v
+\ge dry
+\gr сушить
+\dt 13/Jul/2017
+
+\lx kirbis
+\ps n
+\ge brick
+\gr кирпич
+\dt 10/Jul/2013
+
+\lx kire
+\ps adj
+\ge return
+\gr обратный
+\dt 19/Jul/2011
+
+\lx kis
+\ps n
+\ge evening
+\gr вечер
+\dt 06/Jul/2011
+
+\lx kis
+\ps v
+\ge pass
+\gr переходить
+\dt 06/Sep/2011
+
+\lx kisä
+\ps adv
+\ge yesterday
+\gr вчера
+\dt 06/Dec/2011
+
+\lx kiskehen
+\ps adv
+\ge in.the.evening
+\gr вечером
+\dt 06/Jul/2011
+
+\lx kit
+\ps v
+\ge go.away
+\gr уходить
+\dt 06/Jul/2011
+
+\lx kiθ
+\ps v
+\ge cut
+\gr резать
+\dt 06/Dec/2011
+
+\lx kitap
+\a kitab
+\u kitab
+\ps n
+\ge book
+\gr книга
+\dt 14/Jul/2011
+
+\lx klass
+\ps n
+\ge class
+\gr класс
+\dt 10/Jul/2011
+
+\lx klimat
+\ps n
+\ge climat
+\gr климат
+\dt 14/Jul/2011
+
+\lx klub
+\a klup
+\u klup
+\a kluv
+\u kluv
+\ps n
+\ge club
+\gr клуб
+\dt 17/Jul/2017
+
+\lx kojka
+\ps n
+\ge bunk
+\gr койка
+\dt 07/Jul/2011
+
+\lx kolxoz
+\ps n
+\ge collective.farm
+\gr колхоз
+\dt 18/Jul/2011
+
+\lx komandir
+\ps n
+\ge commander
+\gr командир
+\dt 06/Sep/2011
+
+\lx kombajn
+\ps n
+\ge combine
+\gr комбайн
+\dt 18/Jul/2011
+
+\lx komissar
+\ps n
+\ge comissar
+\gr комиссар
+\dt 03/Dec/2013
+
+\lx komissija
+\ps n
+\ge committee
+\gr комиссия
+\dt 22/Jul/2011
+
+\lx kompas
+\ps n
+\ge compass
+\gr компас
+\dt 12/Jul/2011
+
+\lx komputer
+\ps n
+\ge computer
+\gr компьютер
+\dt 14/Jul/2014
+
+\lx koncert
+\ps n
+\ge show
+\gr концерт
+\dt 15/Jul/2017
+
+\lx koridor
+\ps n
+\ge entrance.hall
+\gr коридор
+\dt 25/Aug/2011
+
+\lx kostjor
+\ps n
+\ge bonfire
+\gr костёр
+\dt 16/Jul/2017
+
+\lx köð
+\ps n
+\ge autumn
+\gr осень
+\dt 06/Dec/2011
+
+\lx köðgö
+\ps n
+\ge mirror
+\gr зеркало
+\dt 06/Dec/2011
+
+\lx köj
+\ps n
+\ge tune
+\gr мелодия
+\dt 06/Dec/2011
+
+\lx köj
+\ps v
+\ge sadden
+\gr печалиться
+\dt 06/Dec/2011
+
+\lx köjäntä
+\ps n
+\ge yoke
+\gr коромысло
+\dt 19/Jul/2017
+
+\lx köl
+\ps v
+\ge laugh
+\gr смеяться
+\dt 06/Dec/2011
+
+\lx kön
+\ps n
+\ge day
+\gr день
+\dt 06/Dec/2011
+
+\lx könbaɣəš
+\ps n
+\ge sunflower
+\gr подсолнух
+\dt 06/Dec/2011
+
+\lx köndälek
+\ps n
+\ge school.record.book
+\gr дневник
+\dt 06/Jul/2013
+
+\lx köndöð
+\ps adv
+\ge in.the.afternoon
+\gr днем
+\dt 06/Dec/2011
+
+\lx könjaq
+\ps n
+\ge south
+\gr юг
+\dt 25/Jul/2014
+
+\lx könlä
+\ps v
+\ge be jealous
+\gr ревновать
+\dt 06/Dec/2011
+
+\lx köräš
+\ps v
+\ge fight
+\gr бороться
+\dt 05/Dec/2013
+
+\lx kös
+\ps n
+\ge might
+\gr сила
+\dt 06/Dec/2011
+
+\lx kösäj
+\ps v
+\ge strengthen
+\gr усиливаться
+\dt 18/Jul/2012
+
+\lx kösläp
+\ps adv
+\ge by.force
+\gr насильно
+\dt 18/Jul/2017
+
+\lx kösök
+\a kösög
+\u kösög
+\ps n
+\ge puppy
+\gr щенок
+\dt 07/Jul/2012
+
+\lx köt
+\ps v
+\ge wait
+\gr ждать
+\dt 06/Dec/2011
+
+\lx kötöw
+\ps n
+\ge herd
+\gr стадо
+\dt 06/Dec/2011
+
+\lx kötöwlek
+\a kötölök
+\u kötölök
+\ps n
+\ge pasture
+\gr пастбище
+\dt 06/Dec/2011
+
+\lx krästiän
+\ps n
+\ge peasant
+\gr крестьянин
+\dt 06/Dec/2011
+
+\lx kreslo
+\ps n
+\ge armchair
+\gr кресло
+\dt 23/Jul/2011
+
+\lx krossovki
+\ps n
+\ge trainers
+\gr кроссовки
+\dt 14/Jul/2011
+
+\lx kserokopija
+\a kopija
+\u kopija
+\ps n
+\ge copy
+\gr ксерокопия
+\dt 30/Jul/2011
+
+\lx kurtka
+\ps n
+\ge jacket
+\gr куртка
+\dt 15/Jul/2011
+
+\lx kübergän
+\ps adv
+\ge basically
+\gr в.основном
+\dt 06/Dec/2011
+
+\lx küð
+\ps n
+\ge eye
+\gr глаз
+\dt 06/Dec/2011
+
+\lx küðlek
+\ps n
+\ge glasses
+\gr очки
+\dt 07/Jul/2014
+
+\lx kügäwen
+\ps n
+\ge gadfly
+\gr слепень
+\dt 06/Jul/2013
+
+\lx kük
+\ps n
+\ge sky
+\gr небо
+\dt 06/Dec/2011
+
+\lx kül
+\ps n
+\ge lake
+\gr озеро
+\dt 06/Dec/2011
+
+\lx küldäk
+\a küldäg
+\u küldäg
+\a külmäk
+\u külmäk
+\a külmäg
+\u külmäg
+\ps n
+\ge dress
+\gr платье
+\dt 06/Dec/2011
+
+\lx kümäkläp
+\ps adv
+\ge together
+\gr вместе
+\dt 17/Jul/2017
+
+\lx kümer
+\ps n
+\ge coal
+\gr уголь
+\dt 08/Jul/2014
+
+\lx Kümertaw
+\ps n
+\ge Kumertau
+\gr Кумертау
+\dt 15/Jul/2017
+
+\lx kün
+\ps v
+\ge consent
+\gr соглашаться
+\dt 06/Dec/2011
+
+\lx künäk
+\ps n
+\ge pail
+\gr ведро
+\dt 13/May/2014
+
+\lx küneg
+\ps v
+\ge get.used
+\gr привыкать
+\dt 06/Dec/2011
+
+\lx küŋel
+\ps n
+\ge soul
+\gr душа
+\dt 06/Dec/2011
+
+\lx küŋelheð
+\ps adv
+\ge sad
+\gr грустно
+\dt 07/Jul/2014
+
+\lx küp
+\a küb
+\u küb
+\ps adv
+\ge much
+\gr много
+\dt 06/Dec/2011
+
+\lx küpselek
+\ps n
+\ge majority
+\gr большинство
+\dt 06/Dec/2011
+
+\lx küptänän
+\a küptän
+\u küptän
+\ps adv
+\ge long.ago
+\gr давно
+\dt 06/Dec/2011
+
+\lx kür
+\ps v
+\ge see
+\gr видеть
+\dt 06/Dec/2011
+
+\lx küreneš
+\ps n
+\ge view
+\gr вид
+\dt 13/Jul/2013
+
+\lx kürše
+\ps n
+\ge neighbour
+\gr сосед
+\dt 06/Dec/2011
+
+\lx küs
+\ps v
+\ge move
+\gr переселяться
+\dt 06/Dec/2011
+
+\lx kütär
+\ps v
+\ge lift
+\gr поднять
+\dt 17/Jul/2017
+
+\lx kvartira
+\ps n
+\ge flat
+\gr квартира
+\dt 19/Jul/2011
+
+\lx -l
+\a -əl
+\u -əl
+\a -el
+\u -el
+\a -ol
+\u -ol
+\a -öl
+\u -öl
+\a -n
+\u -n
+\a -ən
+\u -ən
+\a -en
+\u -en
+\a -on
+\u -on
+\a -ön
+\u -ön
+\ps vsuf
+\ge PASS
+\gr PASS
+\dt 06/Dec/2011
+
+\lx -la
+\a -lä
+\u -lä
+\a -da
+\u -da
+\a -dä
+\u -dä
+\a -ðä
+\u -ðä
+\a -ða
+\u -ða
+\a -ta
+\u -ta
+\a -tä
+\u -tä
+\a -nda
+\u -nda
+\a -ndä
+\u -ndä
+\ps nsuf
+\ge LOC
+\gr LOC
+\dt 06/Dec/2011
+
+\lx =la
+\a =lä
+\u =lä
+\a =da
+\u =da
+\a =dä
+\u =dä
+\a =ta
+\u =ta
+\a =tä
+\u =tä
+\a =ðä
+\u =ðä
+\a =ða
+\u =ða
+\ps part
+\ge also
+\gr же
+\dt 06/Dec/2011
+
+\lx =laha
+\a =daha
+\u =taha
+\u =ðaha
+\a =lähä
+\a =däha
+\u =tähä
+\a =ðähä
+\u
+\a
+\u
+\a
+\ps part
+\ge PTCL.ADMIR
+\gr PTCL.ADMIR
+\dt 12/Jul/2015
+
+\lx lajəq
+\ps adj
+\ge worthy
+\gr достойный
+\dt 03/Dec/2013
+
+\lx lampa
+\ps n
+\ge lamp
+\gr лампа
+\dt 12/Jul/2011
+
+\lx -lar
+\a -lär
+\u -lär
+\a -dar
+\u -dar
+\a -där
+\u -där
+\a -ðar
+\u -ðar
+\a -ðär
+\u -ðär
+\a -tar
+\u -tar
+\a -tär
+\u -tär
+\ps suf
+\ge PL
+\gr PL
+\dt 26/Jan/2012
+
+\lx Läjsän
+\ps n
+\ge Leysan
+\gr Лейсан
+\dt 06/Dec/2011
+
+\lx läkin
+\ps conj
+\ge but
+\gr но
+\dt 06/Dec/2011
+
+\lx -lə
+\a -le
+\u -le
+\a -lo
+\u -lo
+\a -lö
+\u -lö
+\ps suf
+\ge ADJ
+\gr ADJ
+\dt 26/Jan/2012
+
+\lx -ləq
+\a -lek
+\u -lek
+\a -loq
+\u -loq
+\a -lök
+\u -lök
+\a -ləɣ
+\u -ləɣ
+\a -leg
+\u -leg
+\a -loɣ
+\u -loɣ
+\a -lög
+\u -lög
+\ps suf
+\ge NMLZ
+\gr NMLZ
+\dt 26/Jan/2012
+
+\lx -lər
+\ps suf
+\ge 3
+\gr 3
+\dt 26/Jan/2012
+
+\lx -lər
+\a -ler
+\u -ler
+\a -dər
+\u -dər
+\a -der
+\u -der
+\a -ðər
+\u -ðər
+\a -ðer
+\u -ðer
+\a -tər
+\u -tər
+\a -ter
+\u -ter
+\ps suf
+\ge maybe
+\gr наверное
+\dt 26/Jan/2012
+
+\lx lom
+\ps n
+\ge crow
+\gr лом
+\dt 20/Jul/2011
+
+\lx -m
+\a -əm
+\u -əm
+\a -em
+\u -em
+\a -om
+\u -om
+\a -öm
+\u -öm
+\ps nsuf
+\ge P.1SG
+\gr P.1SG
+\dt 06/Dec/2011
+
+\lx -m
+\a -əm
+\u -əm
+\a -em
+\u -em
+\a -om
+\u -om
+\a -öm
+\u -öm
+\ps vsuf
+\ge 1SG
+\gr 1SG
+\dt 06/Dec/2011
+
+\lx -ma
+\a -mä
+\u -mä
+\ps vsuf
+\ge NEG
+\gr NEG
+\dt 06/Dec/2011
+
+\lx -mabəð
+\a -mäbeð
+\u -mäbeð
+\ps vsuf
+\ge NEG.POT.1PL
+\gr NEG.POT.1PL
+\dt 08/Jul/2012
+
+\lx madjar
+\ps n
+\ge Magyar
+\gr мадьяр
+\dt 15/Jul/2017
+
+\lx magazin
+\a maɣazin
+\u maɣazin
+\ps n
+\ge shop
+\gr магазин
+\dt 22/Sep/2013
+
+\lx magistratura
+\ps n
+\ge master
+\gr магистратура
+\dt 19/Jul/2015
+
+\lx Magnitogorsk
+\a Magnit
+\u Magnit
+\a Magnitogorski
+\u Magnitogorski
+\ps n
+\ge Magnitogorsk
+\gr Магнитогорск
+\com Второй вариант, ясное дело, не алломорф.
+\dt 15/Aug/2017
+
+\lx magnitola
+\ps n
+\ge radio-recorder
+\gr магнитола
+\dt 17/Jul/2017
+
+\lx maj
+\ps n
+\ge butter
+\gr масло
+\dt 14/Jul/2011
+
+\lx maj
+\ps n
+\ge may
+\gr май
+\dt 05/Jul/2015
+
+\lx -majənsa
+\a -mäjensä
+\u -mäjensä
+\ps vsuf
+\ge NEG.CV.ATT
+\gr NEG.СV.ATT
+\dt 03/Sep/2012
+
+\lx Maksim
+\ps n
+\ge Maksim
+\gr Максим
+\dt 23/Jul/2011
+
+\lx mal
+\ps n
+\ge cattle
+\gr скот
+\dt 18/Jul/2011
+
+\lx malaj
+\ps n
+\ge boy
+\gr мальчик
+\dt 07/Jul/2011
+
+\lx -mam
+\a -mäm
+\u -mäm
+\ps vsuf
+\ge NEG.POT.1SG
+\gr NEG.POT.1SG
+\dt 08/Jul/2012
+
+\lx Mansur
+\ps n
+\ge Mansur
+\gr Мансур
+\dt 19/Jul/2011
+
+\lx maŋlaj
+\ps n
+\ge forehead
+\gr лоб
+\dt 19/Jul/2012
+
+\lx -maqsə
+\a -mäkse
+\u -mäkse
+\a -masqə
+\u -masqə
+\a -mäske
+\u -mäske
+\ps vsuf
+\ge DESID
+\gr DESID
+\dt 06/Dec/2011
+
+\lx maqta
+\ps v
+\ge praise
+\gr хвалить
+\dt 09/Jul/2011
+
+\lx massaž
+\ps n
+\ge massage
+\gr массаж
+\dt 07/Jul/2013
+
+\lx mašina
+\ps n
+\ge car
+\gr машина
+\dt 06/Dec/2011
+
+\lx -maθ
+\a -mäθ
+\u -mäθ
+\ps vsuf
+\ge NEG.POT
+\gr NEG.POT
+\dt 06/Dec/2011
+
+\lx matematika
+\ps n
+\ge maths
+\gr математика
+\dt 23/Jul/2011
+
+\lx matur
+\ps adj
+\ge beautiful
+\gr красивый
+\dt 07/Jul/2011
+
+\lx mazol
+\ps n
+\ge coarn
+\gr мазоль
+\dt 08/Jul/2015
+
+\lx mä
+\ps part
+\ge here
+\gr на
+\dt 11/Jul/2017
+
+\lx mäðäk
+\ps adj
+\ge funny
+\gr забавный
+\dt 06/Dec/2011
+
+\lx mäɣlümät
+\ps n
+\ge knowledges
+\gr знания
+\dt 17/Jul/2017
+
+\lx mäjtäm
+\ps v
+\ge I.say.PRS.1SG
+\gr я.говорить.PRS.1SG
+\dt 12/Jul/2017
+
+\lx mäke
+\ps n
+\ge ice.hole
+\gr прорубь
+\dt 06/Dec/2011
+
+\lx mäktäp
+\ps n
+\ge school
+\gr школа
+\dt 06/Dec/2011
+
+\lx mäl
+\ps n
+\ge time
+\gr время
+\dt 23/Jul/2015
+
+\lx märtäbä
+\ps n
+\ge time
+\gr раз
+\dt 18/Aug/2016
+
+\lx mäset
+\ps n
+\ge mosque
+\gr мечеть
+\dt 22/Sep/2013
+
+\lx Mäskäw
+\ps n
+\ge Moscow
+\gr Москва
+\dt 06/Dec/2011
+
+\lx mäsxärälä
+\ps v
+\ge jeer
+\gr издеваться
+\dt 06/Dec/2011
+
+\lx mäsʔälä
+\ps n
+\ge problem
+\gr задача
+\dt 06/Dec/2011
+
+\lx mäθälän
+\ps word
+\ge for.example
+\gr например
+\dt 06/Dec/2011
+
+\lx mätrüškä
+\ps n
+\ge oregan
+\gr душица
+\dt 05/Jul/2015
+
+\lx -mə
+\a -me
+\u -me
+\a -mö
+\u -mö
+\a -mo
+\u -mo
+\ps part
+\ge Q
+\gr Q
+\dt 06/Dec/2011
+
+\lx Med
+\ps n
+\ge medical.college
+\gr медицинский.институт
+\dt 13/Jul/2012
+
+\lx medal
+\ps n
+\ge medal
+\gr медаль
+\dt 19/Jul/2012
+
+\lx məjawla
+\ps v
+\ge mew
+\gr мяукать
+\dt 06/Dec/2011
+
+\lx məjəq
+\a məjəɣ
+\u məjəɣ
+\ps n
+\ge moustache
+\gr усы
+\dt 06/Dec/2011
+
+\lx mejes
+\ps n
+\ge stove
+\gr печь
+\dt 14/Jul/2011
+
+\lx məltəq
+\a məltəɣ
+\u məltəɣ
+\ps n
+\ge gun
+\gr ружье
+\dt 06/Dec/2011
+
+\lx men
+\ps v
+\ge ascend
+\gr взбираться
+\dt 15/Jul/2013
+
+\lx -mən
+\a -men
+\u -men
+\a -mon
+\u -mon
+\a -mön
+\u -mön
+\ps suf
+\ge 1SG
+\gr 1SG
+\dt 26/Jan/2012
+
+\lx menän
+\ps post
+\ge with
+\gr с
+\dt 06/Dec/2011
+
+\lx meŋ
+\ps num
+\ge thousand
+\gr тысяча
+\dt 06/Dec/2011
+
+\lx məqtə
+\ps adj
+\ge powerful
+\gr сильный
+\dt 06/Dec/2011
+
+\lx məθqəl
+\ps n
+\ge mockery
+\gr насмешка
+\dt 06/Dec/2011
+
+\lx metr
+\ps n
+\ge meter
+\gr метр
+\dt 12/Jul/2011
+
+\lx mexanizator
+\ps n
+\ge machine.operator
+\gr механизатор
+\dt 18/Jul/2011
+
+\lx -mikän
+\ps suf
+\ge Q.be.PC.PST
+\gr Q.быть.PC.PST
+\dt 15/Jul/2017
+
+\lx milicija
+\ps n
+\ge police
+\gr милиция
+\dt 12/Jul/2011
+
+\lx milli
+\ps adj
+\ge national
+\gr национальный
+\dt 15/Jul/2017
+
+\lx min
+\ps pron
+\ge I
+\gr я
+\dt 07/Jul/2011
+
+\lx minän
+\ps pron
+\ge I.ABL
+\gr я.ABL
+\dt 06/Dec/2011
+
+\lx mindä
+\ps pron
+\ge I.LOC
+\gr я.LOC
+\dt 06/Dec/2011
+
+\lx mine
+\ps pron
+\ge I.ACC
+\gr я.ACC
+\dt 07/Jul/2011
+
+\lx mineke
+\ps pron
+\ge I.POSS.SUBST
+\gr я.POSS.SUBST
+\dt 22/Jul/2011
+
+\lx mineŋ
+\ps pron
+\ge I.GEN
+\gr я.GEN
+\dt 06/Dec/2011
+
+\lx minut
+\ps n
+\ge minute
+\gr минута
+\dt 15/Jul/2011
+
+\lx miŋ
+\ps n
+\ge mole
+\gr родинка
+\dt 15/Jul/2013
+
+\lx miŋä
+\ps pron
+\ge I.DAT
+\gr я.DAT
+\dt 06/Dec/2011
+
+\lx miskä
+\ps n
+\ge bowl
+\gr миска
+\dt 13/Jul/2017
+
+\lx moɣajən
+\ps word
+\ge probably
+\gr наверное
+\dt 13/Jul/2012
+
+\lx Monasip
+\ps n
+\ge Monasip
+\gr Монасип
+\dt 05/Sep/2011
+
+\lx Morat
+\ps n
+\ge Murat
+\gr Мурат
+\dt 01/Aug/2011
+
+\lx More
+\ps n
+\ge More
+\gr More
+\dt 23/Jul/2011
+
+\lx moxtaž
+\ps adj
+\ge indigent
+\gr нуждающийся
+\dt 06/Dec/2011
+
+\lx mögöð
+\ps n
+\ge horn
+\gr рог
+\dt 07/Jul/2012
+
+\lx möɣžizä
+\ps n
+\ge wonder
+\gr чудо
+\dt 03/Dec/2013
+
+\lx möjöš
+\ps n
+\ge corner
+\gr угол
+\dt 06/Dec/2011
+
+\lx möläjem
+\ps adj
+\ge sweet
+\gr милый
+\com о человеке
+\dt 12/Jul/2012
+
+\lx mömkin
+\ps word
+\ge possible
+\gr возможно
+\dt 06/Dec/2011
+
+\lx mönäsäbät
+\ps n
+\ge relation
+\gr отношение
+\dt 06/Dec/2011
+
+\lx möräžägät
+\ps n
+\ge address
+\gr обращение
+\dt 06/Dec/2011
+
+\lx Mujnaq
+\a Mujnaɣ
+\u Mujnaɣ
+\ps n
+\ge Mujnak
+\gr Муйнак
+\dt 06/Dec/2011
+
+\lx mulla
+\ps n
+\ge mullah
+\gr мулла
+\dt 17/Jul/2011
+
+\lx Mullajän
+\ps n
+\ge Mullajan
+\gr Муллаян
+\dt 06/Dec/2011
+
+\lx munsa
+\ps n
+\ge bathhouse
+\gr баня
+\dt 17/Jul/2011
+
+\lx Murat
+\ps n
+\ge Murat
+\gr Мурат
+\dt 08/Jul/2015
+
+\lx murða
+\ps n
+\ge fishing.basket
+\gr верша
+\dt 06/Dec/2011
+
+\lx Musa
+\ps n
+\ge Musa
+\gr Муса
+\dt 17/Jul/2013
+
+\lx musər
+\ps n
+\ge waste
+\gr мусор
+\dt 13/Jul/2017
+
+\lx muzəka
+\ps n
+\ge music
+\gr музыка
+\dt 06/Dec/2011
+
+\lx muzəkal
+\ps adj
+\ge musical
+\gr музыкальный
+\dt 16/Jul/2017
+
+\lx -n
+\a -ən
+\u -ən
+\a -en
+\u -en
+\a -on
+\u -on
+\a -ön
+\u -ön
+\ps vsuf
+\ge REFL
+\gr REFL
+\dt 06/Dec/2011
+
+\lx načalnik
+\ps n
+\ge chief
+\gr начальник
+\dt 06/Dec/2011
+
+\lx nakazat
+\ps v
+\ge punish
+\gr наказать
+\dt 18/Jul/2011
+
+\lx namað
+\ps n
+\ge Muslim.prayer
+\gr намаз
+\dt 17/Aug/2016
+
+\lx naməθ
+\ps n
+\ge conscience
+\gr совесть
+\dt 17/Jul/2017
+
+\lx -nan
+\a -nän
+\u -nän
+\a -dan
+\u -dan
+\a -dän
+\u -dän
+\a -tan
+\u -tan
+\a -tän
+\u -tän
+\a -ðan
+\u -ðan
+\a -ðän
+\u -ðän
+\ps nsuf
+\ge ABL
+\gr ABL
+\dt 06/Dec/2011
+
+\lx nasar
+\ps adj
+\ge bad
+\gr плохой
+\dt 11/Jul/2011
+
+\lx nasos
+\ps n
+\ge pump
+\gr насос
+\dt 13/Jul/2011
+
+\lx näðek
+\ps adj
+\ge fine
+\gr тонкий
+\dt 08/Jul/2015
+
+\lx nämä
+\ps n
+\ge thing
+\gr вещь
+\dt 06/Dec/2011
+
+\lx Näsip
+\ps n
+\ge Nesip
+\gr Несип
+\dt 18/Jul/2017
+
+\lx -nə
+\a -ne
+\u -ne
+\a -no
+\u -no
+\a -nö
+\u -nö
+\a -də
+\u -də
+\a -de
+\u -de
+\a -do
+\u -do
+\a -dö
+\u -dö
+\a -ðə
+\u -ðə
+\a -ðe
+\u -ðe
+\a -ðo
+\u -ðo
+\a -ðö
+\u -ðö
+\a -tə
+\u -tə
+\a -te
+\u -te
+\a -to
+\u -to
+\a -tö
+\u -tö
+\a -n
+\u -n
+\ps nsuf
+\ge ACC
+\gr ACC
+\dt 06/Dec/2011
+
+\lx -nə
+\a -ne
+\u -ne
+\a -tə
+\u -tə
+\a -te
+\u -te
+\a -no
+\u -no
+\a -nö
+\u -nö
+\a -to
+\u -to
+\a -tö
+\u -tö
+\a -ðə
+\u -ðə
+\a -ðe
+\u -ðe
+\a -ðo
+\u -ðo
+\a -ðö
+\u -ðö
+\a -də
+\u -də
+\a -de
+\u -de
+\a -do
+\u -do
+\a -dö
+\u -dö
+\ps vsuf
+\ge PST
+\gr PST
+\dt 06/Dec/2011
+
+\lx nəɣə
+\ps v
+\ge strengthen
+\gr укрепляться
+\dt 01/Jan/2012
+
+\lx nej
+\ps word
+\ge this
+\gr это
+\com Словозаместитель, сочетается и с именной, и с глагольной
+морфологией.
+\dt 13/Jul/2012
+
+\lx Nejlä
+\ps n
+\ge Nejla
+\gr Нейля
+\dt 18/Jul/2017
+
+\lx nejt
+\ps v
+\ge do.so
+\gr делать.так
+\dt 18/Jul/2017
+
+\lx -nəŋ
+\a -neŋ
+\u -neŋ
+\a -dəŋ
+\u -dəŋ
+\a -deŋ
+\u -deŋ
+\a -ðəŋ
+\u -ðəŋ
+\a -ðeŋ
+\u -ðeŋ
+\a -təŋ
+\u -təŋ
+\a -teŋ
+\u -teŋ
+\a -noŋ
+\u -noŋ
+\a -nöŋ
+\u -nöŋ
+\a -doŋ
+\u -doŋ
+\a -döŋ
+\u -döŋ
+\a -ðoŋ
+\u -ðoŋ
+\a -ðöŋ
+\u -ðöŋ
+\a -toŋ
+\u -toŋ
+\a -töŋ
+\u -töŋ
+\ps nsuf
+\ge GEN
+\gr GEN
+\dt 06/Dec/2011
+
+\lx nəq
+\ps adv
+\ge very
+\gr очень
+\dt 06/Dec/2011
+
+\lx nəq
+\ps adj
+\ge strong
+\gr крепкий
+\dt 13/Jul/2012
+
+\lx -nəqə
+\a -neke
+\u -neke
+\a -noqo
+\u -noqo
+\a -nökö
+\u -nökö
+\a -təqə
+\u -təqə
+\a -teke
+\u -teke
+\a -toqo
+\u -toqo
+\a -tökö
+\u -tökö
+\a -dəqə
+\u -dəqə
+\a -deke
+\u -deke
+\a -doqo
+\u -doqo
+\a -dökö
+\u -dökö
+\a -ðəqə
+\u -ðəqə
+\a -ðeke
+\u -ðeke
+\a -ðoqo
+\u -ðoqo
+\a -ðökö
+\u -ðökö
+\ps nsuf
+\ge POSS.SUBST
+\gr POSS.SUBST
+\dt 06/Dec/2011
+
+\lx ni
+\ps pron
+\ge what
+\gr что
+\dt 08/Jul/2011
+
+\lx nigeðlä	
+\ps v
+\ge found
+\gr основать
+\dt 08/May/2014
+
+\lx -nihä
+\ps vsuf
+\ge PST.be.COND
+\gr PST.быть.COND
+\dt 17/Jul/2017
+
+\lx Nijað
+\ps n
+\ge Nijaz
+\gr Нияз
+\dt 06/Dec/2011
+
+\lx nimä
+\ps pron
+\ge what
+\gr что
+\dt 06/Dec/2011
+
+\lx nimäštep
+\ps word
+\ge why
+\gr почему
+\dt 18/Jul/2017
+
+\lx nindäj
+\ps adj
+\ge what
+\gr какой
+\dt 06/Dec/2011
+
+\lx nindäjðer
+\ps adj
+\ge some
+\gr некий
+\dt 06/Dec/2011
+
+\lx niŋä
+\ps pron
+\ge why
+\gr почему
+\dt 07/Jul/2013
+
+\lx nisä
+\ps pron
+\ge how.many
+\gr сколько
+\dt 06/Dec/2011
+
+\lx nisek
+\ps adv
+\ge how
+\gr как
+\dt 18/Jul/2011
+
+\lx nišläp
+\ps pron
+\ge what
+\gr что
+\dt 06/Dec/2011
+
+\lx nomer
+\ps n
+\ge number
+\gr номер
+\dt 18/Jul/2011
+
+\lx notarius
+\ps n
+\ge notary
+\gr нотариус
+\dt 30/Jul/2011
+
+\lx -nsə
+\a -nse
+\u -nse
+\a -nso
+\u -nso
+\a -nsö
+\u -nsö
+\a -ənsə
+\u -ənsə
+\a -ense
+\u -ense
+\a -önsö
+\u -önsö
+\ps suf
+\ge ORD
+\gr ORD
+\dt 26/Jan/2012
+
+\lx nu
+\ps interj
+\ge well
+\gr ну
+\dt 13/Jul/2011
+
+\lx nu
+\ps conj
+\ge but
+\gr но
+\dt 20/Jul/2011
+
+\lx Nur
+\ps n
+\ge Nur
+\gr Нур
+\dt 18/Jul/2011
+
+\lx nur
+\ps n
+\ge shining
+\gr сияние
+\dt 05/Dec/2013
+
+\lx Nüra
+\ps n
+\ge Niura
+\gr Нюра
+\dt 06/Dec/2011
+
+\lx -ŋ
+\a -əŋ
+\u -əŋ
+\a -eŋ
+\u -eŋ
+\a -oŋ
+\u -oŋ
+\a -öŋ
+\u -öŋ
+\ps nsuf
+\ge P.2SG
+\gr P.2SG
+\dt 06/Dec/2011
+
+\lx -ŋ
+\a -əŋ
+\u -əŋ
+\a -eŋ
+\u -eŋ
+\a -oŋ
+\u -oŋ
+\a -öŋ
+\u -öŋ
+\ps vsuf
+\ge 2SG
+\gr 2SG
+\dt 06/Dec/2011
+
+\lx oblast
+\ps n
+\ge region
+\gr область
+\dt 18/Jul/2011
+
+\lx oboj
+\ps n
+\ge wallpaper
+\gr обои
+\dt 20/Jul/2013
+
+\lx očeret
+\ps n
+\ge queue
+\gr очередь
+\dt 13/Jul/2012
+
+\lx oðaq
+\ps adv
+\ge long
+\gr долго
+\dt 06/Dec/2011
+
+\lx oðat
+\ps v
+\ge see.off
+\gr провожать
+\dt 06/Dec/2011
+
+\lx oðon
+\ps adj
+\ge long
+\gr длинный
+\dt 06/Dec/2011
+
+\lx ojal
+\ps v
+\ge be.ashamed
+\gr стыдиться
+\dt 15/Jul/2011
+
+\lx ojat
+\ps n
+\ge shame
+\gr стыд
+\dt 06/Sep/2011
+
+\lx ojoš
+\ps v
+\ge stick.together
+\gr слепляться
+\dt 15/Jul/2017
+
+\lx olataj
+\a olata
+\u olata
+\ps n
+\ge grandfather
+\gr дед
+\dt 14/Jul/2013
+
+\lx olo
+\ps adj
+\ge elder
+\gr старший
+\dt 14/Aug/2017
+
+\lx Omorðaq
+\ps n
+\ge Omorzak
+\gr Оморзак
+\dt 06/Dec/2011
+
+\lx on
+\ps n
+\ge flour
+\gr мука
+\dt 12/Jul/2012
+
+\lx onot
+\ps v
+\ge forget
+\gr забывать
+\dt 26/Aug/2011
+
+\lx onta
+\ps v
+\ge pound
+\gr толочь
+\dt 12/Jul/2011
+
+\lx Optima
+\ps n
+\ge Optima
+\gr Оптима
+\dt 23/Jul/2011
+
+\lx oqša
+\ps v
+\ge look.like
+\gr быть.похожим
+\dt 06/Dec/2011
+
+\lx Orenbur
+\ps n
+\ge Orenburg
+\gr Оренбург
+\dt 05/Jul/2015
+
+\lx organ
+\ps n
+\ge organ
+\gr орган
+\dt 23/Jul/2015
+
+\lx os
+\ps v
+\ge fly
+\gr летать
+\dt 16/Jul/2011
+
+\lx osor
+\ps n
+\ge period
+\gr период
+\dt 18/Jul/2011
+
+\lx osra
+\ps v
+\ge turn.up
+\gr попасться
+\dt 10/Jul/2011
+
+\lx osraq
+\ps n
+\ge event
+\gr случай
+\dt 22/Nov/2013
+
+\lx ošo
+\ps adj
+\ge this
+\gr этот
+\dt 06/Dec/2011
+
+\lx ošojtəp
+\ps adv
+\ge such
+\gr так
+\dt 21/Jul/2015
+
+\lx ošolaj
+\ps adv
+\ge so
+\gr так
+\dt 13/Jul/2017
+
+\lx ot
+\ps v
+\ge win
+\gr выигрывать
+\dt 10/Jul/2011
+
+\lx otel
+\ps n
+\ge hotel
+\gr отель
+\dt 16/Jul/2017
+
+\lx otličnik
+\ps n
+\ge perfect.student
+\dt 23/Jun/2014
+
+\lx otlično
+\ps n
+\ge perfect
+\gr отлично
+\dt 17/Jul/2017
+
+\lx öð
+\ps v
+\ge tear
+\gr рвать
+\dt 07/Jul/2012
+
+\lx Öfö
+\a Ufa
+\u Ufa
+\ps n
+\ge Ufa
+\gr Уфа
+\dt 06/Dec/2011
+
+\lx öj
+\ps n
+\ge house
+\gr дом
+\dt 06/Dec/2011
+
+\lx öjlän
+\ps v
+\ge get.married
+\gr жениться
+\dt 06/Dec/2011
+
+\lx öjör
+\ps n
+\ge herd
+\gr табун
+\dt 06/Dec/2011
+
+\lx öjräk
+\ps n
+\ge duck
+\gr утка
+\dt 14/Jul/2014
+
+\lx öjrän
+\ps v
+\ge learn
+\gr учиться
+\dt 23/Dec/2011
+
+\lx öjrät
+\ps v
+\ge teach
+\gr учить
+\dt 01/Jan/2012
+
+\lx öläsä
+\ps n
+\ge grandmother
+\gr бабушка
+\dt 06/Dec/2011
+
+\lx öläsäj
+\ps n
+\ge grandmother
+\gr бабушка
+\dt 06/Dec/2011
+
+\lx öläš
+\ps v
+\ge give.out
+\gr раздавать
+\dt 17/Jul/2017
+
+\lx ölgör
+\ps v
+\ge have.time
+\gr успевать
+\dt 06/Dec/2011
+
+\lx ölkän
+\ps adj
+\ge large
+\gr большой
+\dt 06/Dec/2011
+
+\lx ölöš
+\ps n
+\ge part
+\gr часть
+\dt 13/Jul/2013
+
+\lx ömöt
+\ps n
+\ge hope
+\gr надежда
+\dt 13/Jul/2012
+
+\lx öndäš
+\ps v
+\ge call
+\gr звать
+\dt 18/Jul/2017
+
+\lx ös
+\ps num
+\ge three
+\gr три
+\dt 06/Dec/2011
+
+\lx Ösköl
+\a ösköl
+\u ösköl
+\ps n
+\ge Aslay
+\gr Аслай
+\dt 16/Aug/2017
+
+\lx ösön
+\ps post
+\ge for
+\gr для
+\dt 06/Dec/2011
+
+\lx öšö
+\ps v
+\ge freeze
+\gr зябнуть
+\dt 06/Dec/2011
+
+\lx öθ
+\a öθt
+\u öθt
+\ps n
+\ge surface
+\gr поверхность
+\dt 06/Dec/2011
+
+\lx öθtä
+\ps v
+\ge add
+\gr добавить
+\dt 06/Dec/2011
+
+\lx öθtäl
+\ps n
+\ge table
+\gr стол
+\dt 06/Dec/2011
+
+\lx -p
+\a -b
+\u -b
+\a -əp
+\u -əp
+\a -əb
+\u -əb
+\a -ep
+\u -ep
+\a -eb
+\u -eb
+\a -op
+\u -op
+\a -ob
+\u -ob
+\a -öp
+\u -öp
+\a -öb
+\u -öb
+\ps vsuf
+\ge CV
+\gr CV
+\dt 03/Dec/2013
+
+\lx palatka
+\ps n
+\ge tent
+\gr палатка
+\dt 15/Jul/2017
+
+\lx par
+\ps n
+\ge pair
+\gr пара
+\dt 08/Jul/2014
+
+\lx parad
+\ps n
+\ge parade
+\gr парад
+\dt 15/Jul/2017
+
+\lx parta
+\ps n
+\ge school.desk
+\gr парта
+\dt 06/Jul/2013
+
+\lx pasport
+\ps n
+\ge passport
+\gr паспорт
+\dt 30/Jul/2011
+
+\lx pedagogija
+\ps n
+\ge pedagogy
+\gr педагогика
+\dt 21/Jul/2011
+
+\lx pedagogik
+\ps adj
+\ge educational
+\gr педагогический
+\dt 12/Jul/2011
+
+\lx Perm
+\ps n
+\ge Perm
+\gr Пермь
+\dt 15/Jul/2017
+
+\lx Peterburg
+\a Sankt-Peterburg
+\u Sankt-Peterburg
+\ps n
+\ge Saint-Petersburg
+\gr Петербург
+\dt 14/Jul/2012
+
+\lx piknik
+\ps n
+\ge picnic
+\gr пикник
+\dt 11/Jul/2017
+
+\lx pivo
+\ps n
+\ge beer
+\gr пиво
+\dt 15/Jul/2011
+
+\lx plastyr
+\ps n
+\ge plaster
+\gr пластырь
+\dt 10/Jul/2013
+
+\lx platnyj
+\ps adj
+\ge paid
+\gr платный
+\dt 13/Jul/2012
+
+\lx plita
+\ps n
+\ge cooker
+\gr плита
+\dt 06/Jul/2013
+
+\lx počta
+\ps n
+\ge post.office
+\gr почта
+\dt 17/Jul/2017
+
+\lx poduška
+\ps n
+\ge pillow
+\gr подушка
+\dt 09/Jul/2013
+
+\lx pojas
+\ps n
+\ge belt
+\gr пояс
+\dt 19/Jul/2011
+
+\lx polk
+\ps n
+\ge regiment
+\gr полк
+\dt 05/Sep/2011
+
+\lx polka
+\ps n
+\ge shelf
+\gr полка
+\dt 10/Jul/2011
+
+\lx pomidor
+\ps n
+\ge tomato
+\gr помидор
+\dt 23/Jul/2015
+
+\lx ponedelnik
+\ps n
+\ge Monday
+\gr понедельник
+\dt 21/Jul/2012
+
+\lx populjar
+\ps adj
+\ge popular
+\gr популярный
+\dt 22/Jul/2011
+
+\lx posjolok
+\ps n
+\ge village
+\gr поселок
+\dt 13/Jul/2013
+
+\lx posuda
+\ps n
+\ge tableware
+\gr посуда
+\dt 14/Jul/2011
+
+\lx povar
+\ps n
+\ge cook
+\gr повар
+\dt 18/Jul/2011
+
+\lx predmet
+\ps n
+\ge object
+\gr предмет
+\dt 18/Jul/2011
+
+\lx pričoska
+\ps n
+\ge heardress
+\gr прическа
+\dt 05/Aug/2011
+
+\lx produkty
+\ps n
+\ge food
+\gr продукты
+\dt 13/Jul/2012
+
+\lx professor
+\ps n
+\ge professor
+\gr профессор
+\dt 15/Jul/2017
+
+\lx proizvodstvo
+\ps n
+\ge production
+\gr производство
+\dt 05/Sep/2011
+
+\lx -q
+\a -k
+\u -k
+\a -əq
+\u -əq
+\a -ek
+\u -ek
+\ps vsuf
+\ge 1PL
+\gr 1PL
+\dt 07/Jul/2011
+
+\lx qabatla
+\ps v
+\ge repeat
+\gr повторять
+\dt 02/Aug/2011
+
+\lx qabəð
+\ps v
+\ge lighten
+\gr зажигать
+\dt 17/Nov/2013
+
+\lx qabərɣa
+\ps n
+\ge rib
+\gr бок
+\dt 19/Jul/2012
+
+\lx qað
+\ps n
+\ge goose
+\gr гусь
+\dt 18/Sep/2013
+
+\lx qaðan
+\ps n
+\ge cauldron
+\gr котел
+\dt 14/Jul/2013
+
+\lx qaɣ
+\a qaq
+\u qaq
+\ps v
+\ge drive.in
+\gr забивать
+\dt 31/Aug/2011
+
+\lx qaɣəl
+\ps v
+\ge touch
+\gr трогать
+\dt 20/Jul/2011
+
+\lx qaj
+\ps pron
+\ge where
+\gr где
+\dt 23/Dec/2011
+
+\lx qajən
+\ps n
+\ge birch
+\gr береза
+\dt 06/Sep/2011
+
+\lx qajɣə
+\ps n
+\ge sorrow
+\gr горе
+\dt 20/Jul/2015
+
+\lx qajɣər
+\ps v
+\ge sadden
+\gr печалиться
+\dt 23/Jul/2015
+
+\lx qajhə
+\ps pron
+\ge which
+\gr который
+\dt 20/Jul/2011
+
+\lx qajmaq
+\ps n
+\ge sour.cream
+\gr сметана
+\dt 10/Jul/2017
+
+\lx qajna
+\ps v
+\ge boil
+\gr кипеть
+\dt 21/Jul/2011
+
+\lx qajnə
+\ps n
+\ge father.in.law
+\gr свёкор
+\dt 18/Jul/2017
+
+\lx qajsə
+\ps n
+\ge scissors
+\gr ножницы
+\dt 07/Aug/2011
+
+\lx qajt
+\ps v
+\ge come
+\gr приходить
+\dt 06/Jul/2011
+
+\lx qajtəš
+\ps adj
+\ge worse
+\gr хуже
+\dt 11/Jul/2012
+
+\lx qal
+\ps v
+\ge stay
+\gr оставаться
+\dt 07/Jul/2011
+
+\lx qala
+\ps n
+\ge town
+\gr город
+\dt 12/Jul/2011
+
+\lx qalaq
+\ps n
+\ge spoon
+\gr ложка
+\dt 18/Oct/2011
+
+\lx qalən
+\ps adj
+\ge thik
+\gr густой
+\dt 08/Jul/2015
+
+\lx qaltəra
+\ps v
+\ge tremble
+\gr дрожать
+\dt 30/Aug/2011
+
+\lx qaməš
+\ps n
+\ge cane
+\gr камыш
+\dt 15/Jul/2017
+
+\lx qanat
+\ps n
+\ge wing
+\gr крыло
+\dt 30/Aug/2011
+
+\lx qap
+\ps n
+\ge box
+\gr коробка
+\dt 20/Jul/2014
+
+\lx qapəl
+\ps adv
+\ge suddenly
+\gr внезапно
+\dt 16/Jul/2011
+
+\lx qapla
+\ps v
+\ge cover
+\gr покрывать
+\dt 30/Aug/2011
+
+\lx qapqa
+\ps n
+\ge gate
+\gr ворота
+\dt 15/Jul/2011
+
+\lx qar
+\ps n
+\ge snow
+\gr снег
+\dt 09/Jul/2011
+
+\lx qara
+\ps v
+\ge watch
+\gr смотреть
+\dt 07/Jul/2011
+
+\lx qara
+\ps adj
+\ge black
+\gr черный
+\dt 14/Jul/2011
+
+\lx qaraɣaj
+\ps n
+\ge coniferous.tree
+\gr сосна
+\dt 05/Jul/2015
+
+\lx qaraɣanda
+\ps post
+\ge against
+\gr против
+\dt 07/Jul/2011
+
+\lx qaraj
+\ps v
+\ge blacken
+\gr чернеть
+\dt 11/Jul/2012
+
+\lx qaraj
+\ps post
+\ge in.direction.of
+\gr в.сторону
+\dt 22/Sep/2013
+
+\lx qaraltə
+\ps n
+\ge building
+\gr постройка
+\dt 11/Jul/2012
+
+\lx qaraŋɣə
+\ps adj
+\ge dark
+\gr темный
+\dt 09/Jul/2011
+
+\lx qarar
+\ps n
+\ge decision
+\gr решение
+\dt 18/Oct/2011
+
+\lx qaraš
+\ps n
+\ge look
+\gr взгляд
+\dt 05/Dec/2013
+
+\lx qarawat
+\ps n
+\ge bed
+\gr кровать
+\dt 18/Jul/2013
+
+\lx qarawəl
+\ps n
+\ge watch
+\gr стража
+\dt 16/Jul/2011
+
+\lx qarɣa
+\ps v
+\ge curse
+\gr проклясть
+\dt 14/Jul/2017
+
+\lx qarmaqla
+\ps v
+\ge fish
+\gr удить
+\dt 17/Jul/2011
+
+\lx qarpəš
+\ps ad
+\ge lopeared
+\gr лопоухий
+\dt 08/Jul/2015
+
+\lx qarsəq
+\ps n
+\ge old.woman
+\gr старуха
+\dt 06/Sep/2011
+
+\lx qaršə
+\ps adv
+\ge opposite
+\gr напротив
+\dt 12/Jul/2011
+
+\lx qart
+\ps adj
+\ge old
+\gr старый
+\dt 06/Sep/2011
+
+\lx qas
+\ps v
+\ge run.away
+\gr убегать
+\dt 18/Jul/2011
+
+\lx qasan
+\ps pron
+\ge when
+\gr когда
+\dt 01/Mar/2012
+
+\lx qaš
+\ps n
+\ge eyebrow
+\gr бровь
+\dt 05/Aug/2011
+
+\lx qašəjaq
+\ps n
+\ge dishes
+\gr посуда
+\dt 17/Jul/2011
+
+\lx qat
+\ps n
+\ge floor
+\gr этаж
+\dt 22/Jul/2011
+
+\lx qatən
+\a xatən
+\u xatən
+\ps n
+\ge woman
+\gr женщина
+\dt 11/Jul/2011
+
+\lx qatəq
+\ps n
+\ge katyk
+\gr катык
+\dt 10/Jul/2017
+
+\lx qatəš
+\ps v
+\ge mix(vi)
+\gr смешиваться
+\dt 19/Jul/2011
+
+\lx qatnaš
+\ps v
+\ge take.part
+\gr участвовать
+\dt 15/Jul/2017
+
+\lx qawala
+\ps v
+\ge drive
+\gr гнать
+\dt 18/Jul/2011
+
+\lx qäber
+\ps n
+\ge grave
+\gr могила
+\dt 15/Jul/2017
+
+\lx qäjnä
+\ps n
+\ge mother.in.law
+\gr свекровь
+\dt 18/Jul/2017
+
+\lx qänäɣät
+\ps adj
+\ge satisfied
+\gr довольный
+\dt 06/Sep/2011
+
+\lx qäzer
+\ps n
+\ge respect
+\gr уважение
+\dt 05/Sep/2011
+
+\lx qəbərða
+\a qəbərla
+\u qəbərla
+\ps v
+\ge move
+\gr шевелиться
+\dt 14/Jul/2011
+
+\lx qəð
+\ps n
+\ge girl
+\gr девочка
+\dt 15/Jul/2011
+
+\lx qəð
+\ps v
+\ge become.heated
+\gr накаляться
+\dt 11/Jul/2011
+
+\lx qəðar
+\ps v
+\ge redden
+\gr краснеть
+\dt 19/Jul/2011
+
+\lx qəðəɣ
+\ps v
+\ge be.interested
+\gr интересоваться
+\dt 18/Jul/2011
+
+\lx Qəðəl
+\ps n
+\ge Kizil
+\gr Кизил
+\dt 19/Jul/2017
+
+\lx qəðəl
+\ps adj
+\ge red
+\gr красный
+\dt 18/Oct/2011
+
+\lx qəðəq
+\a qəðəɣ
+\u qəðəɣ
+\ps n
+\ge interest
+\gr интерес
+\dt 12/Jul/2017
+
+\lx qəðəqaj
+\ps n
+\ge girl
+\gr девочка
+\dt 06/Jul/2011
+
+\lx qəjar
+\ps n
+\ge cucumber
+\gr огурец
+\dt 07/Jul/2014
+
+\lx qəjbat
+\ps adj
+\ge expensive
+\gr дорогой
+\dt 13/Jul/2012
+
+\lx qəjən
+\ps adj
+\ge hard
+\gr трудный
+\dt 13/Jul/2011
+
+\lx qəjəq
+\a qəjəɣ
+\u qəjəɣ
+\ps n
+\ge roof
+\gr крыша
+\dt 20/Nov/2013
+
+\lx qəl
+\ps v
+\ge perform
+\gr совершать
+\dt 17/Nov/2013
+
+\lx qəlɣan
+\ps n
+\ge feather.grass
+\gr ковыль
+\dt 05/Jul/2015
+
+\lx qəltaj
+\ps v
+\ge get.offended
+\gr обидеться
+\dt 19/Jul/2011
+
+\lx qəməð
+\ps n
+\ge koumiss
+\gr кумыс
+\dt 18/Jul/2017
+
+\lx qəməðnəj
+\ps n
+\ge koumiss
+\gr кумызный
+\dt 18/Jul/2017
+
+\lx qəŋɣəraw
+\ps n
+\ge bell
+\gr колокол
+\dt 09/Jul/2012
+
+\lx qər
+\ps n
+\ge field
+\gr поле
+\dt 31/Aug/2011
+
+\lx qər
+\ps v
+\ge shave
+\gr брить
+\dt 27/Jan/2012
+
+\lx qər
+\ps n
+\ge side
+\gr сторона
+\dt 06/Jul/2013
+
+\lx qəraɣaj
+\ps adj
+\ge wild
+\gr дикий
+\dt 27/Aug/2011
+
+\lx qərənɣəs
+\ps n
+\ge razor
+\gr бритва
+\dt 19/Jul/2011
+
+\lx qərq
+\ps v
+\ge cut
+\gr резать
+\dt 13/Jul/2011
+
+\lx Qərqtə
+\ps n
+\ge Krykty
+\gr Крыкты
+\dt 20/Jul/2011
+
+\lx qəsqa
+\ps adj
+\ge short
+\gr короткий
+\dt 13/Jul/2012
+
+\lx qəsqər
+\ps v
+\ge cry
+\gr кричать
+\dt 12/Jul/2017
+
+\lx qəš
+\ps n
+\ge winter
+\gr зима
+\dt 14/Jul/2011
+
+\lx qəθqa
+\ps adj
+\ge short
+\gr короткий
+\dt 11/Jul/2011
+
+\lx qəw
+\ps v
+\ge drive
+\gr гнать
+\dt 16/Jul/2011
+
+\lx qəwan
+\ps v
+\ge rejoice
+\gr радоваться
+\dt 13/Jul/2011
+
+\lx qəwanəs
+\ps n
+\ge joy
+\gr радость
+\dt 15/Jul/2011
+
+\lx qəwaq
+\ps n
+\ge bush
+\gr куст
+\dt 28/Aug/2011
+
+\lx qibla
+\ps n
+\ge direction.to.Caaba
+\gr направление.на.Каабу
+\dt 18/Aug/2016
+
+\lx qoða
+\ps n
+\ge father.of.son/daughter-in-law
+\gr сват
+\dt 18/Jul/2017
+
+\lx qoðasa
+\ps n
+\ge connection
+\gr свойственник
+\dt 18/Jul/2017
+
+\lx qoj
+\ps v
+\ge pour
+\gr лить
+\dt 05/Aug/2011
+
+\lx qojaš
+\ps n
+\ge sun
+\gr солнце
+\dt 07/Jul/2011
+
+\lx qojma
+\ps n
+\ge fence
+\gr забор
+\dt 19/Jul/2011
+
+\lx qojroq
+\a qojroɣ
+\u qojroɣ
+\ps n
+\ge tail
+\gr хвост
+\dt 22/Sep/2013
+
+\lx qola
+\ps v
+\ge fall
+\gr падать
+\dt 19/Jul/2011
+
+\lx qolaq
+\a qolaɣ
+\u qolaɣ
+\ps n
+\ge ear
+\gr ухо
+\dt 07/Jul/2012
+
+\lx qolom
+\ps n
+\ge colt
+\gr жеребенок
+\dt 12/Jul/2011
+
+\lx qom
+\ps n
+\ge sand
+\gr песок
+\dt 13/Jul/2011
+
+\lx qomalaq
+\ps n
+\ge hop
+\gr хмель
+\dt 13/Jul/2017
+
+\lx qomhoð
+\ps adj
+\ge greedy
+\gr жадный
+\dt 06/Sep/2011
+
+\lx qorban
+\ps n
+\ge sacrifice
+\gr жертва
+\dt 18/Aug/2016
+
+\lx qoro
+\ps adj
+\ge dry
+\gr сухой
+\dt 16/Jul/2013
+
+\lx qoro
+\ps v
+\ge dry
+\gr сохнуть
+\dt 18/Jul/2017
+
+\lx qorološ
+\ps n
+\ge structure
+\gr строение
+\dt 05/Sep/2011
+
+\lx qoroltaj
+\ps n
+\ge veche
+\gr вече
+\dt 15/Jul/2017
+
+\lx qoros
+\ps n
+\ge steel
+\gr сталь
+\dt 10/Jul/2017
+
+\lx qort
+\ps n
+\ge worm
+\gr червяк
+\dt 24/Jul/2011
+
+\lx qoš
+\ps n
+\ge bird
+\gr птица
+\dt 13/Jul/2011
+
+\lx qoštabaq
+\ps n
+\ge plate
+\gr тарелка
+\dt 18/Oct/2011
+
+\lx qoθ
+\ps v
+\ge vomit
+\gr блевать
+\dt 13/Jul/2011
+
+\lx qotor
+\ps v
+\ge rage
+\gr беситься
+\dt 19/Jul/2011
+
+\lx qotqar
+\ps v
+\ge save
+\gr спасать
+\dt 15/Jul/2011
+
+\lx Qörʔän
+\ps n
+\ge Koran
+\gr Коран
+\dt 13/Jul/2017
+
+\lx quðaqlə
+\ps n
+\ge beans
+\gr бобы
+\dt 07/Jul/2014
+
+\lx quðgal
+\ps v
+\ge start
+\gr трогаться.с.места
+\dt 12/Jul/2017
+
+\lx quj
+\ps v
+\ge put
+\gr ставить
+\dt 10/Jul/2017
+
+\lx qujan
+\ps n
+\ge hare
+\gr заяц
+\dt 18/Jul/2011
+
+\lx qujə
+\ps adj
+\ge thick
+\gr густой
+\dt 10/Jul/2017
+
+\lx qul
+\ps n
+\ge hand
+\gr рука
+\dt 06/Jul/2011
+
+\lx qunaq
+\ps n
+\ge guest
+\gr гость
+\dt 09/Jul/2011
+
+\lx qunaqxana
+\a qunaqxala
+\u qunaqxala
+\ps n
+\ge hotel
+\gr гостиница
+\dt 15/Jul/2017
+
+\lx quŋər
+\ps adj
+\ge brown
+\gr бурый
+\dt 20/Jul/2011
+
+\lx quraj
+\ps n
+\ge kuraj
+\gr курай
+\dt 20/Jul/2011
+
+\lx qurɣaš
+\ps n
+\ge lead
+\gr свинец
+\dt 13/Jul/2011
+
+\lx qurq
+\ps v
+\ge be.afraid
+\gr бояться
+\dt 19/Jul/2011
+
+\lx Qurqaq
+\ps n
+\ge Kurkak
+\gr Куркак
+\dt 20/Jul/2011
+
+\lx qurqəš
+\ps n
+\ge fright
+\gr испуг
+\dt 30/Aug/2011
+
+\lx qursala
+\ps v
+\ge protect
+\gr защищать
+\dt 03/Dec/2013
+
+\lx qustə
+\ps n
+\ge younger.brother
+\gr младший.брат
+\dt 23/Dec/2011
+
+\lx quš
+\ps v
+\ge order
+\gr приказывать
+\dt 09/Jul/2011
+
+\lx quš
+\ps v
+\ge connect
+\gr соединять
+\dt 20/Jul/2011
+
+\lx -r
+\a -ər
+\u -ər
+\a -er
+\u -er
+\a -or
+\u -or
+\a -ör
+\u -ör
+\ps vsuf
+\ge POT
+\gr POT
+\dt 07/Jul/2011
+
+\lx radio
+\ps n
+\ge radio
+\gr радио
+\dt 14/Jul/2011
+
+\lx Rajda
+\ps n
+\ge Rajda
+\gr Райда
+\dt 14/Jul/2011
+
+\lx rajon
+\ps n
+\ge district
+\gr район
+\dt 19/Jul/2011
+
+\lx -raq
+\a -räk
+\u -räk
+\a -əraq
+\u -əraq
+\a -eräk
+\u -eräk
+\a -oraq
+\u -oraq
+\a -öräk
+\u -öräk
+\a -eräg
+\u -eräg
+\ps suf
+\ge CMPR
+\gr CMPR
+\dt 17/Aug/2017
+
+\lx raθla
+\ps v
+\ge confirm
+\gr утверждать
+\dt 05/Sep/2011
+
+\lx Räisä
+\ps n
+\ge Raisa
+\gr Раиса
+\dt 19/Sep/2013
+
+\lx Rämilä
+\ps n
+\ge Ramilja
+\gr Рамиля
+\dt 22/Jul/2015
+
+\lx Rämzilä
+\a Rämzil
+\u Rämzil
+\ps n
+\ge Ramzilja
+\gr Рамзиля
+\dt 22/Sep/2013
+
+\lx räsem
+\ps n
+\ge painting
+\gr рисунок
+\dt 21/Jul/2015
+
+\lx rät
+\ps n
+\ge order
+\gr порядок
+\dt 20/Nov/2013
+
+\lx Räxmät
+\ps n
+\ge Raxmetovo
+\gr Рахметово
+\dt 09/Jul/2011
+
+\lx räxmät
+\ps word
+\ge thanks
+\gr спасибо
+\dt 16/Jul/2017
+
+\lx restoran
+\ps n
+\ge restaurant
+\gr ресторан
+\dt 15/Jul/2017
+
+\lx revizija
+\ps n
+\ge revision
+\gr ревизия
+\dt 08/May/2014
+
+\lx revolucionerka
+\ps n
+\ge revolutionary
+\gr революционерка
+\dt 23/Jul/2011
+
+\lx revolucionnəj
+\ps adj
+\ge revolutionary
+\gr революционный
+\dt 22/Jul/2011
+
+\lx Rifat
+\ps n
+\ge Rifat
+\gr Рифат
+\dt 09/Jul/2011
+
+\lx ris
+\ps n
+\ge rice
+\gr рис
+\dt 07/Jul/2014
+
+\lx riza
+\ps n
+\ge consent
+\gr согласие
+\dt 16/Jul/2017
+
+\lx rizalaš
+\ps v
+\ge agree
+\gr согласиться
+\dt 14/Jul/2011
+
+\lx Roza
+\ps n
+\ge Roza
+\gr Роза
+\dt 13/Jul/2011
+
+\lx ručka
+\ps n
+\ge pen
+\gr ручка
+\dt 18/Jul/2011
+
+\lx ručnik
+\ps n
+\ge bench.hammer
+\gr ручник
+\dt 11/Jul/2017
+
+\lx rus
+\ps adj
+\ge Russian
+\gr русский
+\dt 19/Jul/2011
+
+\lx ruskij
+\ps adj
+\ge Russian
+\gr русский
+\dt 18/Jul/2011
+
+\lx rux
+\ps n
+\ge spirit
+\gr дух
+\dt 17/Aug/2016
+
+
+\lx rül
+\ps n
+\ge steering.wheel
+\gr руль
+\dt 12/Jul/2017
+
+\lx -sa
+\a -sä
+\u -sä
+\a -nsa
+\u -nsa
+\a -nsä
+\u -nsä
+\ps suf
+\ge ADV
+\gr ADV
+\dt 01/Mar/2012
+
+\lx sab
+\ps v
+\ge mow
+\gr косить
+\dt 18/Jul/2011
+
+\lx sab
+\ps v
+\ge gallop
+\gr скакать
+\dt 19/Jul/2011
+
+\lx saðaq
+\ps n
+\ge charity
+\gr милостыня
+\dt 19/Aug/2016
+
+\lx sadik
+\ps n
+\ge kindergarten
+\gr детский.сад
+\dt 18/Jul/2011
+
+\lx saɣəl
+\ps n
+\ge hillside
+\gr косогор
+\dt 07/Nov/2013
+
+\lx sal
+\ps v
+\ge cut.throat
+\gr зарезать
+\dt 27/Jan/2012
+
+\lx salat
+\ps n
+\ge salad
+\gr салат
+\dt 09/Jul/2013
+
+\lx Salawat
+\ps n
+\ge Salavat
+\gr Салават
+\dt 20/Nov/2013
+
+\lx salbar
+\ps n
+\ge pants
+\gr штаны
+\dt 12/Jul/2011
+
+\lx Samat
+\ps n
+\ge Samat
+\gr Самат
+\dt 13/Jul/2011
+
+\lx samoljot
+\ps n
+\ge plane
+\gr самолёт
+\dt 15/Jul/2017
+
+\lx sana
+\ps n
+\ge sleigh
+\gr сани
+\dt 22/Jul/2011
+
+\lx santimetr
+\ps n
+\ge centimetre
+\gr сантиметр
+\dt 21/Jul/2011
+
+\lx Saŋdüðäk
+\ps n
+\ge Sanduzyak
+\gr Сандузяк
+\dt 16/Aug/2017
+
+\lx Saq
+\ps n
+\ge Sak
+\gr Сак
+\dt 14/Jul/2017
+
+\lx saq
+\a saɣ
+\u saɣ
+\ps n
+\ge time
+\gr время
+\dt 26/Aug/2011
+
+\lx saqər
+\ps v
+\ge call
+\gr звать
+\dt 09/Jul/2011
+
+\lx saqlə
+\ps post
+\ge to
+\gr до
+\dt 30/Jul/2011
+
+\lx saqrəm
+\ps n
+\ge verst
+\gr верста
+\dt 12/Jul/2017
+
+\lx sawap
+\a hawəp
+\ps n
+\ge fidelity
+\gr правильность
+\dt 19/Aug/2016
+
+\lx sawðagär
+\ps n
+\ge merchant
+\gr купец
+\dt 06/Sep/2011
+
+\lx säɣät
+\ps n
+\ge hour
+\gr час
+\dt 13/Jul/2011
+
+\lx säj
+\ps n
+\ge tea
+\gr чай
+\dt 10/Jul/2011
+
+\lx säjnük
+\ps n
+\ge kettle
+\gr чайник
+\dt 14/Jul/2011
+
+\lx sälämät
+\ps adj
+\ge healthy
+\gr здоровый
+\dt 20/Jul/2011
+
+\lx säns
+\ps v
+\ge prick
+\gr укалывать
+\dt 19/Jul/2011
+
+\lx säpsim
+\ps adv
+\ge at.all
+\gr совсем
+\dt 13/Jul/2017
+
+\lx säs
+\ps v
+\ge sow
+\gr сеять
+\dt 20/Jul/2011
+
+\lx säs
+\ps n
+\ge hair
+\gr волосы
+\dt 14/Jul/2011
+
+\lx säsän
+\ps n
+\ge author
+\gr сочинитель
+\dt 22/Jul/2011
+
+\lx säskä
+\ps n
+\ge flower
+\gr цветок
+\dt 12/Jul/2011
+
+\lx -sə
+\a -so
+\u -so
+\u -sö
+\a -sö
+\a -se
+\u -se
+\a
+\ps suf
+\ge AG
+\gr AG
+\dt 08/Jul/2014
+
+\lx -sə
+\a -se
+\u -se
+\a -so
+\u -so
+\a -sö
+\u -sö
+\ps vsuf
+\ge IMP.EMPH
+\gr IMP.EMPH
+\dt 19/Jul/2012
+
+\lx seben
+\ps n
+\ge fly
+\gr муха
+\dt 04/Jul/2015
+
+\lx səbərtqə
+\ps n
+\ge whip
+\gr кнут
+\dt 15/Jul/2017
+
+\lx sebeš
+\ps n
+\ge chiken
+\gr цыпленок
+\dt 22/Sep/2013
+
+\lx səɣ
+\a səq
+\u səq
+\ps v
+\ge go.out
+\gr выходить
+\dt 18/Jul/2011
+
+\lx səɣanaq
+\ps n
+\ge spring
+\gr источник
+\dt 17/Jul/2017
+
+\lx sejä
+\ps n
+\ge cherry
+\gr вишня
+\dt 11/Jul/2011
+
+\lx səlbər
+\ps n
+\ge chain
+\gr цепочка
+\dt 09/Jul/2012
+
+\lx selsovet
+\ps n
+\ge district.administration
+\gr сельсовет
+\dt 13/Jul/2011
+
+\lx semja
+\ps n
+\ge family
+\gr семья
+\dt 11/Jul/2011
+
+\lx sənajaq
+\ps n
+\ge cup
+\gr чашка
+\dt 14/Jul/2011
+
+\lx sənjər
+\ps n
+\ge chain
+\gr цепь
+\dt 07/Jul/2012
+
+\lx separat
+\ps n
+\ge separator
+\gr сепаратор
+\dt 10/Jul/2017
+
+\lx sepräk
+\ps n
+\ge cloth
+\gr тряпка
+\dt 08/Jul/2013
+
+\lx Serbija
+\ps n
+\ge Serbia
+\gr Сербия
+\dt 15/Jul/2017
+
+\lx sere
+\ps v
+\ge rote
+\gr гнить
+\dt 21/Jul/2014
+
+\lx serekäj
+\ps n
+\ge mosquito
+\gr комар
+\dt 07/Jul/2013
+
+\lx sertifikat
+\ps n
+\ge certificate
+\gr сертификат
+\dt 29/Jul/2011
+
+\lx səsqan
+\ps n
+\ge mouse
+\gr мышь
+\dt 20/Jul/2011
+
+\lx səwal
+\ps n
+\ge stove
+\gr печь
+\dt 18/Oct/2011
+
+\lx Sibaj
+\ps n
+\ge Sibay
+\gr Сибай
+\dt 22/Jul/2011
+
+\lx sibek
+\ps adj
+\ge weak
+\gr слабый
+\dt 16/Jul/2011
+
+\lx sifat
+\ps n
+\ge quality
+\gr качество
+\dt 15/Jul/2017
+
+\lx sigäret
+\ps n
+\ge cigarette
+\gr сигарета
+\dt 23/Jul/2011
+
+\lx sikän
+\ps v
+\ge loathe
+\gr чувствовать.отвращение
+\dt 19/Jul/2011
+
+\lx sinəf
+\ps n
+\ge class
+\gr класс
+\dt 31/Aug/2011
+
+\lx sinəftaš
+\ps n
+\ge classmate
+\gr одноклассник
+\dt 31/Aug/2011
+
+\lx sirat
+\ps n
+\ge queue
+\gr очередь
+\dt 15/Jul/2013
+
+\lx sis
+\ps v
+\ge take.off
+\gr снимать
+\dt 14/Jul/2011
+
+\lx sit
+\ps adj
+\ge strange
+\gr чужой
+\dt 18/Oct/2011
+
+\lx sitlek
+\ps n
+\ge cage
+\gr клетка
+\dt 03/Dec/2013
+
+\lx skakalka
+\ps n
+\ge skipping.rope
+\gr скакалка
+\dt 15/Jul/2011
+
+\lx skatert
+\ps n
+\ge tablecloth
+\gr скатерть
+\dt 11/Jul/2011
+
+\lx socialistik
+\ps adj
+\ge socialist
+\gr соцалистический
+\dt 05/Sep/2011
+
+\lx solan
+\a solaŋ
+\u solaŋ
+\ps n
+\ge entrance.hall
+\gr сени
+\dt 17/Jul/2011
+
+\lx soqor
+\ps n
+\ge pit
+\gr яма
+\dt 19/Jul/2011
+
+\lx sos
+\ps adj
+\ge agile
+\gr ловкий
+\dt 16/Jul/2017
+
+\lx sovxoz
+\ps n
+\ge sovhoz
+\gr совхоз
+\dt 18/Jul/2011
+
+\lx söj
+\ps n
+\ge nail
+\gr гвоздь
+\dt 06/Jul/2013
+
+\lx sönki
+\ps conj
+\ge because
+\gr потому.что
+\dt 21/Jul/2011
+
+\lx stakan
+\ps n
+\ge glass
+\gr стакан
+\dt 16/Jul/2011
+
+\lx stancija
+\ps n
+\ge station
+\gr станция
+\dt 11/Jun/2015
+
+
+\lx stena
+\ps n
+\ge wall
+\gr стена
+\dt 07/Jul/2011
+
+\lx Sterlitamak
+\ps n
+\ge Sterlitamak
+\gr Стерлитамак
+\dt 15/Jul/2017
+
+\lx student
+\ps n
+\ge student
+\gr студент
+\dt 18/Jul/2014
+
+\lx sum
+\ps v
+\ge plunge
+\gr окунаться
+\dt 22/Jul/2011
+
+\lx sumka
+\ps n
+\ge bag
+\gr сумка
+\dt 18/Jul/2011
+
+\lx sup
+\ps n
+\ge soup
+\gr суп
+\dt 09/Jul/2013
+
+\lx Suq
+\ps n
+\ge Suk
+\gr Сук
+\dt 14/Jul/2017
+
+\lx susqa
+\ps n
+\ge pig
+\gr свинья
+\dt 31/Aug/2011
+
+\lx sül
+\ps n
+\ge desert
+\gr пустыня
+\dt 14/Jul/2011
+
+\lx sviter
+\ps n
+\ge sweater
+\gr свитер
+\dt 14/Jul/2011
+
+\lx -š
+\a -əš
+\u -əš
+\a -eš
+\u -eš
+\a -oš
+\u -oš
+\a -öš
+\u -öš
+\ps vsuf
+\ge RECP
+\gr RECP
+\dt 05/Jul/2011
+
+\lx šaðra
+\ps adj
+\ge pock.marked
+\gr щербатый
+\dt 05/Sep/2011
+
+\lx šahit
+\ps n
+\ge witness
+\gr свидетель
+\dt 17/Nov/2013
+
+\lx šajan
+\ps adj
+\ge playful
+\gr шаловливый
+\dt 08/Jul/2013
+
+\lx šajar
+\ps v
+\ge joke
+\gr шутить
+\dt 22/Jul/2011
+
+\lx šal
+\ps n
+\ge paint
+\gr краска
+\dt 15/Jul/2011
+
+\lx šalda
+\ps v
+\ge paint
+\gr красить
+\dt 14/Jul/2011
+
+\lx šalqan
+\ps n
+\ge turnip
+\gr репа
+\dt 20/Jul/2011
+
+\lx šaltəra
+\ps v
+\ge ring
+\gr звенеть
+\dt 17/Jul/2017
+
+\lx šaman
+\ps n
+\ge shaman
+\gr шаман
+\dt 16/Jul/2017
+
+\lx šapka
+\ps n
+\ge hat
+\gr шапка
+\dt 14/Jul/2011
+
+\lx Šariq
+\ps n
+\ge Sharick
+\gr Шарик
+\dt 13/Jul/2015
+
+\lx šart
+\ps onomat
+\ge boom
+\gr бах
+\dt 12/May/2014
+
+\lx šart
+\ps n
+\ge condition
+\gr условие
+\dt 16/Jul/2017
+
+\lx šartlat
+\ps v
+\ge explode
+\gr взрывать
+\dt 15/Jul/2017
+
+\lx šaš
+\ps v
+\ge overdo
+\gr перейти.меру
+\dt 19/Jul/2017
+
+\lx šat
+\ps adj
+\ge merry
+\gr веселый
+\dt 26/Jan/2012
+
+\lx šatlan
+\ps v
+\ge be.happy
+\gr радоваться
+\dt 26/Aug/2011
+
+\lx šaw
+\ps n
+\ge noise
+\gr шум
+\dt 19/Jul/2013
+
+\lx šawla
+\ps v
+\ge make.noise
+\gr шуметь
+\dt 11/Jul/2011
+
+\lx šaxmat
+\ps n
+\ge chess
+\gr шахматы
+\dt 10/Jul/2011
+
+\lx šähär
+\ps n
+\ge town
+\gr город
+\dt 13/Jul/2011
+
+\lx Šäjäxmät
+\ps n
+\ge Shayakhmet
+\gr Шайахмет
+\dt 16/Aug/2017
+
+\lx šäkär
+\ps n
+\ge sugar
+\gr сахар
+\dt 10/Jul/2011
+
+\lx šäl
+\ps n
+\ge shawl
+\gr шаль
+\dt 13/Jul/2017
+
+\lx šäp
+\ps adj
+\ge fast
+\gr быстрый
+\dt 17/Jul/2011
+
+\lx šäške
+\ps n
+\ge cup
+\gr чашка
+\dt 12/Jul/2011
+
+\lx šəjəq
+\ps adj
+\ge liquid
+\gr жидкий
+\dt 17/Jul/2017
+
+\lx šəltəra
+\ps v
+\ge ring(vi)
+\gr звенеть
+\dt 25/Aug/2011
+
+\lx šəm
+\ps adj
+\ge quiet
+\gr тихий
+\dt 11/Jul/2011
+
+\lx šəp
+\ps v
+\ge stop.roughly
+\gr резко.останавливаться
+\dt 11/Jul/2017
+
+\lx šərpə
+\ps n
+\ge match
+\gr спичка
+\dt 14/Jul/2011
+
+\lx šeš
+\ps v
+\ge swell
+\gr опухать
+\dt 05/Sep/2011
+
+\lx šešä
+\ps n
+\ge bottle
+\gr бутылка
+\dt 17/Jul/2011
+
+\lx šət
+\ps v
+\ge sprout
+\gr прорастать
+\dt 12/Jul/2011
+
+\lx šiɣər
+\ps n
+\ge verse
+\gr стихотворение
+\dt 15/Jul/2011
+
+\lx šikelle
+\ps adv
+\ge like
+\gr подобно
+\dt 13/Jul/2011
+
+\lx šismä
+\ps n
+\ge small.river
+\gr речка
+\dt 20/Jul/2014
+
+\lx škaf
+\ps n
+\ge cupboard
+\gr шкаф
+\dt 12/Jul/2011
+
+\lx šöɣöllän
+\ps v
+\ge be.busy
+\gr заниматься
+\dt 15/Jul/2011
+
+\lx šökör
+\ps n
+\ge praise
+\gr хвала
+\dt 30/Nov/2013
+
+\lx šuɣa
+\a Šuɣa
+\u Šuɣa
+\ps word
+\ge because
+\gr потому.что
+\dt 16/Aug/2017
+
+\lx šuɣa
+\ps pron
+\ge that.DAT
+\gr тот.DAT
+\dt 17/Jul/2017
+
+\lx šul
+\a Šul
+\u Šul
+\ps pron
+\ge that
+\gr тот
+\dt 16/Aug/2017
+
+\lx šulaj
+\a Šulaj
+\u Šulaj
+\ps adv
+\ge so
+\gr так
+\dt 14/Aug/2017
+
+\lx šular
+\ps pron
+\ge that.PL
+\gr тот.PL
+\dt 18/Jul/2017
+
+\lx šunan
+\a han
+\u han
+\a šan
+\u šan
+\a Šunan
+\ps pron
+\ge that.ABL
+\gr тот.ABL
+\dt 11/Jul/2017
+
+\lx šunda
+\ps pron
+\ge that.LOC
+\gr тот.LOC
+\dt 23/Dec/2011
+
+\lx šunda
+\a Šunda
+\u Šunda
+\ps adv
+\ge there
+\gr там
+\dt 16/Aug/2017
+
+\lx šundaj
+\ps adv
+\ge such
+\gr такой
+\dt 19/Jul/2015
+
+\lx šunə
+\ps pron
+\ge that.ACC
+\gr тот.ACC
+\dt 23/Jul/2011
+
+\lx šunəŋ
+\ps pron
+\ge that.GEN
+\gr тот.GEN
+\dt 21/Jul/2015
+
+\lx šunsa
+\ps pron
+\ge that.ADV
+\gr тот.ADV
+\dt 23/Jul/2015
+
+\lx šutla
+\ps v
+\ge count
+\gr считать
+\dt 13/Jul/2011
+
+\lx -t
+\a -ət
+\u -ət
+\a -et
+\u -et
+\a -ot
+\u -ot
+\a -öt
+\u -öt
+\a -dər
+\u -dər
+\a -der
+\u -der
+\a -tər
+\u -tər
+\a -ter
+\u -ter
+\a -dor
+\u -dor
+\a -dör
+\u -dör
+\a -tor
+\u -tor
+\a -tör
+\u -tör
+\a -ðər
+\u -ðər
+\a -ðer
+\u -ðer
+\a -r
+\u -r
+\a -ər
+\u -ər
+\a -er
+\u -er
+\a -or
+\u -or
+\a -ör
+\u -ör
+\a -ar
+\u -ar
+\a -är
+\u -är
+\a -qər
+\u -qər
+\a -ker
+\u -ker
+\a -qar
+\u -qar
+\a -kär
+\u -kär
+\a -qor
+\u -qor
+\a -kör
+\u -kör
+\a -qað
+\u -qað
+\a -käð
+\u -käð
+\a -qəð
+\u -qəð
+\a -keð
+\u -keð
+\a -ɣəð
+\u -ɣəð
+\a -geð
+\u -geð
+\a -ɣoð
+\u -ɣoð
+\a -göð
+\u -göð
+\a -əð
+\u -əð
+\a -eð
+\u -eð
+\a -oð
+\u -oð
+\a -öð
+\u -öð
+\a -hat
+\u -hat
+\a -hät
+\u -hät
+\ps vsuf
+\ge CAUS
+\gr CAUS
+\dt 20/Jul/2011
+
+\lx tab
+\a tap
+\u tap
+\ps v
+\ge find
+\gr найти
+\dt 12/Jul/2011
+
+\lx taban
+\ps n
+\ge feet
+\gr ступни
+\dt 08/Jul/2015
+
+\lx tabip
+\ps n
+\ge doctor
+\gr врач
+\dt 13/Jul/2011
+
+\lx taða
+\ps adj
+\ge clean
+\gr чистый
+\dt 17/Jul/2011
+
+\lx taðar
+\ps v
+\ge become.clean
+\gr становиться.чистым
+\dt 06/Mar/2012
+
+\lx taɣ
+\a taq
+\u taq
+\ps v
+\ge hitch
+\gr прицепить
+\dt 17/Jul/2017
+
+\lx taɣə
+\ps adv
+\ge again
+\gr еще
+\dt 23/Dec/2011
+
+\lx tajaq
+\a tajaɣ
+\u tajaɣ
+\ps n
+\ge stick
+\gr палка
+\dt 14/Jul/2011
+
+\lx tajɣaq
+\ps adj
+\ge slippery
+\gr скользкий
+\dt 13/Jul/2011
+
+\lx tala
+\ps v
+\ge rob
+\gr разбойничать
+\dt 14/Jul/2017
+
+\lx tamamla
+\ps v
+\ge finish
+\gr кончать
+\dt 21/Jul/2011
+
+\lx tamaqla
+\ps v
+\ge kill
+\gr задрать
+\dt 03/Dec/2013
+
+\lx tamsə
+\ps n
+\ge drop
+\gr капля
+\dt 10/Jul/2013
+
+\lx tanaw
+\ps n
+\ge nose
+\gr нос
+\dt 08/Jul/2015
+
+\lx tandər
+\ps adj
+\ge moderate
+\gr умеренный
+\dt 13/Jul/2017
+
+\lx tanə
+\ps v
+\ge know
+\gr знать
+\dt 27/Jan/2012
+
+\lx taŋ
+\ps n
+\ge sunrise
+\gr рассвет
+\dt 16/Dec/2013
+
+\lx tap
+\ps adv
+\ge right
+\gr как.раз
+\dt 13/Jul/2011
+
+\lx tap
+\ps n
+\ge mark
+\gr пятно
+\dt 13/Jul/2015
+
+\lx tapərða
+\ps v
+\ge stamp
+\gr топать
+\dt 21/Jul/2011
+
+\lx tapqər
+\ps n
+\ge time
+\gr раз
+\dt 14/Jul/2011
+
+\lx tapšər
+\ps v
+\ge charge
+\gr поручать
+\dt 27/Jan/2012
+
+\lx taqta
+\ps n
+\ge board
+\gr доска
+\dt 09/Oct/2011
+
+\lx taraf
+\ps n
+\ge side
+\gr сторона
+\dt 17/Jul/2011
+
+\lx taral
+\ps v
+\ge spread
+\gr распространяться
+\dt 06/Sep/2011
+
+\lx tarat
+\ps v
+\ge spread
+\gr распространить
+\dt 29/Jul/2011
+
+\lx tarə
+\ps n
+\ge millet
+\gr пшено
+\dt 17/Jul/2017
+
+\lx tarelka
+\a tärilkä
+\u tärilkä
+\ps n
+\ge plate
+\gr тарелка
+\dt 09/Jul/2013
+
+\lx tarix
+\ps n
+\ge history
+\gr история
+\dt 20/Jul/2011
+
+\lx tart
+\ps v
+\ge pull
+\gr тянуть
+\dt 20/Jul/2011
+
+\lx tas
+\ps n
+\ge basin
+\gr таз
+\dt 17/Jul/2013
+
+\lx taš
+\ps n
+\ge stone
+\gr камень
+\dt 15/Jul/2011
+
+\lx Tašbulatovo
+\ps n
+\ge Tashbulatovo
+\gr Ташбулатово
+\dt 17/Jul/2017
+
+
+\lx tašla
+\ps v
+\ge throw
+\gr бросать
+\dt 23/Jul/2011
+
+\lx tatar
+\ps adj
+\ge Tatar
+\gr татарский
+\dt 22/Jul/2011
+
+\lx taw
+\ps n
+\ge hill
+\gr гора
+\dt 07/Jul/2011
+
+\lx tawəq
+\ps n
+\ge chicken
+\gr курица
+\dt 12/Jul/2011
+
+\lx tawəš
+\ps n
+\ge voice
+\gr голос
+\dt 06/Sep/2011
+
+\lx taxi
+\ps n
+\ge taxi
+\gr такси
+\dt 11/Jun/2015
+
+\lx täbiɣät
+\ps n
+\ge nature
+\gr природа
+\dt 20/Nov/2013
+
+\lx täðrä
+\ps n
+\ge window
+\gr окно
+\dt 07/Jul/2011
+
+\lx tägärä
+\ps v
+\ge roll
+\gr катиться
+\dt 23/Jul/2011
+
+\lx täkbir
+\ps n
+\ge takbir
+\gr такбир
+\dt 18/Aug/2016
+
+\lx täm
+\ps n
+\ge taste
+\gr вкус
+\dt 08/Aug/2011
+
+\lx tämäke
+\ps n
+\ge tobacco
+\gr табак
+\dt 08/Aug/2011
+
+\lx täŋkä
+\ps n
+\ge coin
+\gr монета
+\dt 14/Jul/2013
+
+\lx tärbiä
+\ps n
+\ge upbringing
+\gr воспитание
+\dt 26/Jan/2012
+
+\lx täržemäse
+\ps n
+\ge interpreter
+\gr переводчик
+\dt 15/Jul/2017
+
+\lx tätäj
+\ps n
+\ge toy
+\gr игрушка
+\dt 20/Jul/2015
+
+\lx täw
+\ps adv
+\ge first
+\gr первый
+\dt 16/Jul/2011
+
+\lx täʔθir
+\ps n
+\ge influence
+\gr влияние
+\dt 10/Jul/2011
+
+\lx teatr
+\ps n
+\ge theatre
+\gr театр
+\dt 10/Jul/2011
+
+\lx teg
+\ps v
+\ge sew
+\gr шить
+\dt 11/Jul/2011
+
+\lx təɣ
+\ps v
+\ge put
+\gr засунуть
+\dt 08/Jul/2015
+
+\lx tege
+\ps pron
+\ge that
+\gr тот
+\dt 14/Jul/2011
+
+\lx təɣəð
+\ps adj
+\ge crowded
+\gr тесный
+\dt 14/Jul/2012
+
+\lx tegeläj
+\ps adv
+\ge there
+\gr туда
+\dt 27/Jan/2012
+
+\lx tegenej
+\ps adv
+\ge so
+\gr так
+\dt 27/Jan/2012
+
+\lx tej
+\ps v
+\ge touch
+\gr касаться
+\dt 15/Jul/2011
+
+\lx tej
+\ps word
+\ge there
+\gr ну
+\dt 23/Jul/2011
+
+\lx teješ
+\ps word
+\ge must
+\gr должен
+\dt 07/Jul/2011
+
+\lx tekmä
+\ps n
+\ge fence
+\gr ограда
+\dt 22/Jul/2015
+
+\lx tel
+\ps n
+\ge language
+\gr язык
+\dt 19/Jul/2011
+
+\lx təl
+\ps n
+\ge rear
+\gr тыл
+\dt 06/Sep/2011
+
+\lx telä
+\ps v
+\ge want
+\gr хотеть
+\dt 07/Jul/2011
+
+\lx teläk
+\a teläg
+\u teläg
+\ps n
+\ge wish
+\gr желание
+\dt 07/Jul/2012
+
+\lx telefon
+\ps n
+\ge phone
+\gr телефон
+\dt 14/Jul/2011
+
+\lx tən
+\ps n
+\ge breath
+\gr дыхание
+\dt 06/Sep/2011
+
+\lx tənəs
+\ps adj
+\ge quiet
+\gr тихий
+\dt 19/Jul/2013
+
+\lx tənsəw
+\ps adj
+\ge stuffy
+\gr душный
+\dt 13/Jul/2011
+
+\lx təŋla
+\ps v
+\ge listen
+\gr слушать
+\dt 07/Jul/2011
+
+\lx terä
+\ps v
+\ge prop.up
+\gr подпирать
+\dt 22/Jul/2011
+
+\lx tərəš
+\ps v
+\ge endeavour
+\gr стараться
+\dt 13/Jul/2011
+
+\lx terhäq
+\ps n
+\ge elbow
+\gr локоть
+\dt 08/Jul/2015
+
+\lx terkä
+\ps v
+\ge join
+\gr присоединять
+\dt 08/May/2014
+
+\lx tərnaq
+\ps n
+\ge nail
+\gr ноготь
+\dt 08/Jul/2015
+
+\lx teš
+\ps n
+\ge tooth
+\gr зуб
+\dt 15/Jul/2011
+
+\lx teš
+\ps v
+\ge fall
+\gr выпадать
+\dt 27/Jul/2014
+
+\lx təš
+\ps n
+\ge outer.side
+\gr внешняя.сторона
+\dt 26/Jan/2012
+
+\lx tešlä
+\ps v
+\ge bite
+\gr кусать
+\dt 12/Jul/2011
+
+\lx tešle
+\ps v
+\ge bite
+\gr кусать
+\dt 17/Jul/2014
+
+\lx təw
+\ps v
+\ge be.born
+\gr родиться
+\dt 19/Jul/2011
+
+\lx texnička
+\ps n
+\ge charwoman
+\gr техничка
+\dt 18/Jul/2011
+
+\lx texnika
+\ps n
+\ge equipment
+\gr техника
+\dt 18/Jul/2011
+
+\lx texnikum
+\ps n
+\ge technical.school
+\gr техникум
+\dt 13/Jul/2011
+
+\lx ti
+\a tej
+\u tej
+\ps v
+\ge say.PRS
+\gr сказать.PRS
+\dt 18/Jul/2011
+
+\lx ti
+\ps v
+\ge say
+\gr сказать
+\dt 21/Jul/2015
+
+\lx tið
+\ps adj
+\ge fast
+\gr быстрый
+\dt 20/Jul/2011
+
+\lx tierlek
+\ps adv
+\ge almost
+\gr почти
+\dt 14/Jul/2011
+
+\lx tigäð
+\ps adj
+\ge plain
+\gr ровный
+\dt 12/Jul/2017
+
+\lx tigändäj
+\ps word
+\ge so.to.say
+\gr как.говорится
+\dt 12/Jul/2017
+
+\lx tigeð
+\ps v
+\ge straighten
+\gr расправить
+\dt 17/Jul/2017
+
+\lx tik
+\ps part
+\ge only
+\gr только
+\dt 09/Jul/2011
+
+\lx tiklem
+\a tikle
+\u tikle
+\ps post
+\ge up.to
+\gr до
+\dt 06/Sep/2011
+
+\lx timäk
+\ps adv
+\ge therefore
+\gr следовательно
+\dt 14/Jul/2011
+
+\lx Timur
+\ps n
+\ge Timur
+\gr Тимур
+\dt 12/Jul/2011
+
+\lx tin
+\ps n
+\ge copeck
+\gr копейка
+\dt 12/Jul/2012
+
+\lx tip
+\ps v
+\ge say.CV
+\gr говорить.CV
+\dt 14/Aug/2017
+
+\lx tirä
+\ps n
+\ge vicinity
+\gr окрестность
+\dt 22/Jul/2011
+
+\lx tirähendä
+\ps pp
+\ge near
+\gr около
+\dt 11/Jun/2015
+
+\lx tire
+\ps n
+\ge skin
+\gr шкура
+\dt 18/Oct/2011
+
+\lx tiš
+\ps v
+\ge pirce
+\gr прокалывать
+\dt 08/Jul/2015
+
+\lx tišek
+\ps n
+\ge hole
+\gr дыра
+\dt 21/Jul/2012
+
+\lx tiθter
+\ps adj
+\ge peer
+\gr равный
+\com Равный по возрасту, росту и т.п.
+\dt 14/Jul/2012
+
+\lx toð
+\ps n
+\ge salt
+\gr соль
+\dt 09/Jul/2011
+
+\lx toman
+\ps n
+\ge fog
+\gr туман
+\dt 22/Jul/2011
+
+\lx tomra
+\ps n
+\ge hotness
+\gr зной
+\dt 14/Jul/2011
+
+\lx toq
+\a toɣ
+\u toɣ
+\ps n
+\ge sack
+\gr мешок
+\dt 11/Jul/2011
+
+\lx toqan
+\ps v
+\ge catch.fire
+\gr загореться
+\dt 27/Jan/2012
+
+\lx toqsaj
+\ps n
+\ge small.bag
+\gr мешочек
+\dt 13/Jul/2017
+
+\lx tor
+\ps v
+\ge stand
+\gr стоять
+\dt 07/Jul/2011
+
+\lx tormoš
+\ps n
+\ge life
+\gr жизнь
+\dt 15/Jul/2017
+
+\lx tot
+\ps v
+\ge keep
+\gr держать
+\dt 11/Jul/2011
+
+\lx totqa
+\ps n
+\ge handle
+\gr ручка
+\dt 20/Jul/2011
+
+\lx töb
+\ps n
+\ge near
+\gr у
+\dt 01/Mar/2012
+
+\lx töb
+\ps n
+\ge bottom
+\gr дно
+\dt 17/Jul/2017
+
+\lx töð
+\ps adj
+\ge straight
+\gr прямой
+\dt 13/Jul/2011
+
+\lx töðät
+\ps v
+\ge amend
+\gr исправить
+\dt 22/Sep/2013
+
+\lx töðö
+\ps v
+\ge build
+\gr строить
+\dt 01/Aug/2011
+
+\lx tökör
+\ps v
+\ge spit
+\gr плевать
+\dt 11/Jul/2011
+
+\lx tölkö
+\ps n
+\ge fox
+\gr лиса
+\dt 30/Aug/2011
+
+\lx tön
+\ps n
+\ge night
+\gr ночь
+\dt 07/Jul/2011
+
+\lx tör
+\ps n
+\ge variety
+\gr разновидность
+\dt 26/Jan/2012
+
+\lx tört
+\ps v
+\ge poke
+\gr тыкать
+\dt 19/Jul/2012
+
+\lx töš
+\ps v
+\ge descend
+\gr спускаться
+\dt 15/Jul/2011
+
+\lx töš
+\ps n
+\ge noon
+\gr полдень
+\dt 31/Aug/2011
+
+\lx töš
+\ps n
+\ge dream
+\gr сон
+\dt 14/Jul/2011
+
+\lx töθ
+\ps n
+\ge colour
+\gr цвет
+\dt 13/Jul/2013
+
+\lx tötön
+\ps n
+\ge smoke
+\gr дым
+\dt 18/Jul/2012
+
+\lx traktor
+\ps n
+\ge tractor
+\gr трактор
+\dt 18/Jul/2011
+
+\lx tubəq
+\ps n
+\ge knee
+\gr колено
+\dt 06/Jul/2014
+
+\lx tuɣan
+\ps n
+\ge relative
+\gr родственник
+\dt 18/Jul/2011
+
+\lx tuɣəð
+\ps num
+\ge nine
+\gr девять
+\dt 13/Jul/2011
+
+\lx tuj
+\ps n
+\ge wedding
+\gr свадьба
+\dt 18/Jul/2017
+
+\lx tul
+\ps v
+\ge fill(vi)
+\gr наполняться
+\dt 12/Jul/2011
+
+\lx tuŋ
+\ps v
+\ge get.frozen
+\gr замерзнуть
+\dt 09/Jul/2011
+
+\lx tup
+\ps n
+\ge ball
+\gr мяч
+\dt 12/Jul/2011
+
+\lx tuq
+\ps adj
+\ge not.hangry
+\gr сытый
+\dt 15/Jul/2015
+
+\lx tuqhan
+\ps num
+\ge ninety
+\gr девяносто
+\dt 13/Jul/2012
+
+\lx tuqlan
+\ps v
+\ge eat
+\gr питаться
+\dt 15/Jul/2017
+
+\lx tuqma
+\ps v
+\ge beat
+\gr бить
+\dt 25/Aug/2011
+
+\lx tuqra
+\ps v
+\ge stop
+\gr остановиться
+\dt 18/Jul/2011
+
+\lx tuqta
+\ps v
+\ge stop
+\gr останавливать
+\dt 11/Jul/2017
+
+\lx tuqtaləš
+\ps n
+\ge station
+\gr остановка
+\dt 26/Aug/2011
+
+\lx tura
+\ps n
+\ge about
+\gr о
+\dt 06/Jul/2011
+
+\lx tura
+\ps v
+\ge chop
+\gr крошить
+\dt 17/Jul/2011
+
+\lx tura
+\ps adj
+\ge direct
+\gr прямой
+\dt 16/Aug/2017
+
+\lx tuθtaq
+\ps n
+\ge cup
+\gr чашка
+\dt 18/Oct/2011
+
+\lx tuwəq
+\ps n
+\ge knee
+\gr колено
+\dt 08/Jul/2015
+
+\lx tübä
+\ps n
+\ge roof
+\gr крыша
+\dt 15/Jul/2013
+
+\lx tübän
+\ps adj
+\ge low
+\gr низкий
+\dt 07/Jul/2011
+
+\lx tügel
+\ps word
+\ge NEG.AUX
+\gr NEG.AUX
+\dt 09/Jul/2011
+
+\lx tülä
+\ps v
+\ge pay
+\gr платить
+\dt 18/Jul/2011
+
+\lx tümer
+\ps n
+\ge billet
+\gr чурбан
+\dt 14/Jul/2011
+
+\lx tüŋäräk
+\ps adj
+\ge round
+\gr круглый
+\dt 08/Jul/2015
+
+\lx tüŋäräklä
+\ps v
+\ge make.sth.round
+\gr округлять
+\dt 17/Jul/2011
+
+\lx türä
+\ps n
+\ge boss
+\gr начальник
+\dt 03/Dec/2013
+
+\lx tüšäk
+\ps n
+\ge mattress
+\gr тюфяк
+\dt 08/Jul/2013
+
+\lx Učalə
+\ps n
+\ge Uchaly
+\gr Учалы
+\dt 20/Jul/2011
+
+\lx učilišče
+\ps n
+\ge college
+\gr училище
+\dt 21/Jul/2011
+
+\lx uð
+\ps v
+\ge pass
+\gr проходить
+\dt 05/Sep/2011
+
+\lx uɣa
+\ps pron
+\ge that.DAT
+\gr тот.DAT
+\dt 07/Jul/2011
+
+\lx uj
+\ps v
+\ge cut
+\gr вырезать
+\dt 19/Jul/2011
+
+\lx ujan
+\ps v
+\ge wake.up
+\gr просыпаться
+\dt 17/Jul/2017
+
+\lx ujən
+\ps n
+\ge game
+\gr игра
+\dt 15/Jul/2017
+
+\lx ujənsəq
+\ps n
+\ge toy
+\gr игрушка
+\dt 09/Jul/2011
+
+\lx ujla
+\ps v
+\ge think
+\gr думать
+\dt 17/Jul/2011
+
+\lx ujna
+\ps v
+\ge play
+\gr играть
+\dt 10/Jul/2011
+
+\lx ukol
+\ps n
+\ge injection
+\gr укол
+\dt 19/Jul/2011
+
+\lx ukrop
+\ps n
+\ge percil
+\gr укроп
+\dt 23/Jul/2015
+
+\lx ul
+\ps pron
+\ge that
+\gr тот
+\dt 07/Jul/2011
+
+\lx ul
+\ps n
+\ge son
+\gr сын
+\dt 09/Jul/2011
+
+\lx ulaj
+\ps adv
+\ge so
+\gr так
+\dt 12/Jul/2011
+
+\lx ular
+\ps pron
+\ge that.PL
+\gr тот.PL
+\dt 07/Jul/2011
+
+\lx ultər
+\ps v
+\ge sit
+\gr сидеть
+\dt 07/Jul/2011
+
+\lx ultərɣəs
+\ps n
+\ge chair
+\gr стул
+\dt 07/Jul/2011
+
+\lx un
+\ps num
+\ge ten
+\gr десять
+\dt 18/Jul/2011
+
+\lx unan
+\ps pron
+\ge that.ABL
+\gr тот.ABL
+\dt 07/Jul/2011
+
+\lx unda
+\ps pron
+\ge that.LOC
+\gr тот.LOC
+\dt 07/Jul/2011
+
+\lx unə
+\ps pron
+\ge that.ACC
+\gr тот.ACC
+\dt 07/Jul/2011
+
+\lx unəɣa
+\ps pron
+\ge that.DAT
+\gr тот.DAT
+\dt 23/Jul/2015
+
+\lx unəhə
+\ps pron
+\ge that.P.3
+\gr тот.P.3
+\dt 20/Jul/2011
+
+\lx unəŋ
+\ps pron
+\ge that.GEN
+\gr тот.GEN
+\dt 07/Jul/2011
+
+\lx unəqə
+\ps pron
+\ge that.POSS.SUBST
+\gr тот.POSS.SUBST
+\dt 10/Jun/2012
+
+\lx universitet
+\ps n
+\ge university
+\gr университет
+\dt 23/Jul/2015
+
+\lx uŋ
+\ps adj
+\ge right
+\gr правый
+\dt 22/Sep/2013
+
+\lx uŋəš
+\ps n
+\ge success
+\gr успех
+\dt 26/Jan/2012
+
+\lx uŋɣaj
+\ps adj
+\ge comfortable
+\gr удобный
+\dt 15/Jul/2017
+
+\lx uq
+\a ük
+\u ük
+\ps part
+\ge rather
+\gr весьма
+\dt 09/Jul/2012
+
+\lx =uq
+\a =ük
+\u =ük
+\ps part
+\ge same
+\gr же
+\dt 05/Sep/2011
+
+\lx uqə
+\ps v
+\ge read
+\gr читать
+\dt 07/Jul/2011
+
+\lx ura
+\ps v
+\ge wind
+\gr мотать
+\dt 18/Jul/2011
+
+\lx Ural
+\ps n
+\ge Ural
+\gr Урал
+\dt 18/Oct/2011
+
+\lx urala
+\ps v
+\ge curl
+\gr виться
+\dt 14/Jul/2011
+
+\lx uram
+\ps n
+\ge street
+\gr улица
+\dt 14/Jul/2011
+
+\lx urən
+\ps n
+\ge place
+\gr место
+\dt 28/Aug/2011
+
+\lx urənlaš
+\ps v
+\ge be.located
+\gr устраиваться
+\dt 21/Jul/2015
+
+\lx urəθ
+\a rus
+\u rus
+\ps n
+\ge Russian
+\gr русский
+\dt 08/Aug/2011
+
+\lx urla
+\ps v
+\ge steal
+\gr похитить
+\dt 03/Dec/2013
+
+\lx urman
+\ps n
+\ge wood
+\gr лес
+\dt 16/Jul/2011
+
+\lx us
+\ps n
+\ge palm
+\gr ладонь
+\dt 14/Jul/2012
+
+\lx usaq
+\ps n
+\ge fire
+\gr костер
+\dt 15/Jul/2011
+
+\lx ut
+\ps n
+\ge fire
+\gr огонь
+\dt 15/Jul/2011
+
+\lx utəð
+\ps num
+\ge thirty
+\gr тридцать
+\dt 18/Jul/2011
+
+\lx utən
+\ps n
+\ge firewood
+\gr дрова
+\dt 29/Jul/2011
+
+\lx üb
+\a üp
+\u üp
+\ps v
+\ge kiss
+\gr целовать
+\dt 17/Jul/2011
+
+\lx üð
+\ps pron
+\ge self
+\gr сам
+\dt 08/Jul/2011
+
+\lx üðäg
+\ps n
+\ge center
+\gr центр
+\dt 22/Jul/2011
+
+\lx ügeð
+\ps n
+\ge bull
+\gr бык
+\dt 07/Jul/2012
+
+\lx üksä
+\ps n
+\ge hil
+\gr пятка
+\dt 17/Jul/2014
+
+\lx ül
+\ps v
+\ge die
+\gr умирать
+\dt 07/Jul/2011
+
+\lx ülän
+\ps n
+\ge grass
+\gr трава
+\dt 07/Jul/2011
+
+\lx üpkälä
+\ps v
+\ge get.offended
+\gr обидеться
+\dt 01/Jan/2012
+
+\lx üsege
+\ps v
+\ge be.insulted
+\gr обижаться
+\dt 20/Jul/2015
+
+\lx üt
+\ps v
+\ge pass
+\gr проходить
+\dt 10/Jul/2011
+
+\lx üθ
+\ps v
+\ge grow
+\gr расти
+\dt 13/Jul/2011
+
+\lx üten
+\ps v
+\ge ask
+\gr просить
+\dt 11/Jul/2017
+
+\lx ütkär
+\ps v
+\ge pass
+\gr проводить
+\dt 20/Nov/2013
+
+\lx üθmer
+\ps n
+\ge teenager
+\gr подросток
+\dt 15/Nov/2013
+
+\lx Vadim
+\ps n
+\ge Vadim
+\gr Вадим
+\dt 14/Jul/2011
+
+\lx Varjag
+\ps n
+\ge Varangian
+\gr Варяг
+\dt 22/Jul/2011
+
+\lx velisaped
+\ps n
+\ge bycicle
+\gr велосипед
+\dt 06/Jul/2013
+
+\lx Vengrija
+\ps n
+\ge Hungary
+\gr Венгрия
+\dt 15/Jul/2017
+
+\lx Verxnural
+\ps n
+\ge Verkhneuralsk
+\gr Верхнеуральск
+\dt 22/Jul/2011
+
+\lx video
+\ps n
+\ge video
+\gr видео
+\dt 17/Nov/2013
+
+\lx vis
+\ps pron
+\ge all
+\gr весь
+\dt 17/Jul/2017
+
+\lx vit
+\ps word
+\ge but
+\gr ведь
+\dt 17/Jul/2017
+
+\lx vokzal
+\ps n
+\ge station
+\gr вокзал
+\dt 19/Jul/2017
+
+\lx vozmožnost
+\ps n
+\ge opportunity
+\gr возможность
+\dt 13/Jul/2012
+
+\lx vrač
+\ps n
+\ge doctor
+\gr врач
+\dt 19/Jul/2011
+
+\lx -w
+\a -əw
+\u -əw
+\a -ew
+\u -ew
+\a -ow
+\u -ow
+\a -öw
+\u -öw
+\ps vsuf
+\ge NMLZ
+\gr NMLZ
+\dt 06/Jul/2011
+
+\lx waqət
+\ps n
+\ge time
+\gr время
+\dt 11/Jul/2011
+
+\lx waqiɣa
+\ps n
+\ge event
+\gr событие
+\dt 26/Jan/2012
+
+\lx waqla
+\ps v
+\ge granulate
+\gr мельчить
+\dt 14/Jul/2017
+
+\lx watan
+\ps adj
+\ge patriotic
+\gr отечественная
+\dt 15/Jul/2017
+
+\lx wäkil
+\ps n
+\ge representator
+\gr представитель
+\dt 15/Jul/2017
+
+\lx Wäxiðä
+\ps n
+\ge Wahida
+\gr Вахида
+\dt 18/Jul/2011
+
+\lx xajran
+\ps adj
+\ge surprised
+\gr удивленный
+\dt 19/Jul/2011
+
+\lx xaləq
+\ps n
+\ge people
+\gr народ
+\dt 03/Dec/2013
+
+\lx xan
+\ps n
+\ge khan
+\gr хан
+\dt 06/Sep/2011
+
+\lx xaq
+\ps adj
+\ge true
+\gr истинный
+\dt 18/Jul/2011
+
+\lx xaq
+\ps post
+\ge about
+\gr о
+\com Только форма LOC с посессивными показателями.
+\dt 17/Nov/2013
+
+\lx xarakter
+\ps n
+\ge temper
+\gr характер
+\dt 15/Jul/2011
+
+\lx xat
+\ps n
+\ge letter
+\gr письмо
+\dt 07/Jul/2011
+
+\lx xata
+\ps n
+\ge mistake
+\gr ошибка
+\dt 15/Jul/2011
+
+\lx xatta
+\ps word
+\ge very
+\gr очень
+\dt 30/Jul/2011
+
+\lx xazina
+\ps n
+\ge beared.tresure
+\gr клад
+\dt 21/Jul/2014
+
+\lx xäbär
+\ps n
+\ge news
+\gr известие
+\dt 17/Nov/2013
+
+\lx xäðer
+\ps adv
+\ge now
+\gr сейчас
+\dt 12/Jul/2011
+
+\lx xäl
+\ps n
+\ge state.of.affairs
+\gr положение
+\dt 20/Jul/2011
+
+\lx xärbi
+\ps adj
+\ge military
+\gr военный
+\dt 15/Jul/2017
+
+\lx xäsrät
+\ps n
+\ge grief
+\gr горе
+\dt 06/Sep/2011
+
+\lx xästär
+\ps n
+\ge care
+\gr забота
+\dt 12/Jul/2012
+
+\lx xätär
+\ps adv
+\ge awfully
+\gr здорово
+\com Значение и употребление этого слова не совсем ясны.
+\dt 13/Jul/2012
+
+\lx xäter
+\ps n
+\ge memory
+\gr память
+\dt 17/Jul/2011
+
+\lx xäterlä
+\ps v
+\ge remember
+\gr помнить
+\dt 17/Jul/2011
+
+\lx xätlem
+\ps post
+\ge before
+\gr до
+\dt 14/Jul/2013
+
+\lx xäwef
+\ps n
+\ge danger
+\gr опасность
+\dt 12/Jul/2011
+
+\lx xəjal
+\ps n
+\ge dream
+\gr мечта
+\dt 21/Jul/2011
+
+\lx xəjallan
+\ps v
+\ge dream
+\gr мечтать
+\dt 18/Jul/2011
+
+\lx xikäjä
+\ps n
+\ge story
+\gr рассказ
+\dt 09/Jul/2011
+
+\lx xoðaj
+\ps n
+\ge God
+\gr Бог
+\dt 11/Jul/2017
+
+\lx xökümät
+\ps n
+\ge government
+\gr правительство
+\dt 08/May/2014
+
+\lx xörmät
+\ps n
+\ge respect
+\gr уважение
+\dt 14/Jul/2011
+
+\lx xuža
+\ps n
+\ge owner
+\gr хозяин
+\dt 14/Jul/2011
+
+\lx zabor
+\ps n
+\ge fence
+\gr забор
+\dt 12/Jul/2011
+
+\lx Zahit
+\ps n
+\ge Zahit
+\gr Загит
+\dt 05/Sep/2011
+
+\lx zal
+\ps n
+\ge hall
+\gr зал
+\dt 14/Jul/2012
+
+\lx zaman
+\ps n
+\ge time
+\gr время
+\dt 20/Jul/2011
+
+\lx zaviset
+\ps v
+\ge depend
+\gr зависеть
+\dt 18/Jul/2011
+
+\lx zavod
+\ps n
+\ge factory
+\gr завод
+\dt 06/Jul/2011
+
+\lx zəjan
+\ps n
+\ge harm
+\gr вред
+\dt 13/Jul/2011
+
+\lx Zilä
+\ps n
+\ge Zilia
+\gr Зиля
+\dt 16/Jul/2011
+
+\lx zontik
+\ps n
+\ge umbrella
+\gr зонтик
+\dt 19/Jul/2012
+
+\lx Zöhrä
+\ps n
+\ge Zuhra
+\gr Зухра
+\dt 08/Jul/2015
+
+\lx Zölfiä
+\ps n
+\ge Zulfija
+\gr Зульфия
+\dt 10/Jul/2011
+
+\lx zvonit
+\ps word
+\ge call
+\gr звонить
+\dt 18/Jul/2011
+
+\lx -Ø
+\ps vsuf
+\ge IMP
+\gr IMP
+\dt 09/Jul/2011
+
+\lx Ɣäinetdin
+\ps n
+\ge Gainetdin
+\gr Гайнетдин
+\dt 22/Jul/2015

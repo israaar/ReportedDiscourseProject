@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-09-27T16:00:35+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-10-09T17:06:54+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="140706_iim_Dialektnye_razlichija.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b8d5c107-e591-4612-9deb-2b5fe1f06952</PROPERTY>
@@ -21,7 +21,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="43485"/>
         <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="50690"/>
     </TIME_ORDER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ref" PARTICIPANT="iim" TIER_ID="ref@iim">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ref" PARTICIPANT="SP1" TIER_ID="ref@SP1">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann0" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>140706_iim_Dialektnye_razlichija.001</ANNOTATION_VALUE>
@@ -58,7 +58,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@iim" PARTICIPANT="iim" TIER_ID="tx@iim">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@SP1" PARTICIPANT="iim" TIER_ID="tx@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann1" ANNOTATION_REF="ann0">
                 <ANNOTATION_VALUE>Beðgä    jaqən         =ɣəna      Učalə rajonənda             dialekt bötönläj... ä,  bötönläj  tügel  inde,  но ikenseräk.</ANNOTATION_VALUE>
@@ -95,7 +95,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="mot" PARENT_REF="tx@iim" PARTICIPANT="iim" TIER_ID="mot@iim">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="mot" PARENT_REF="tx@SP1" PARTICIPANT="iim" TIER_ID="mot@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann2" ANNOTATION_REF="ann1">
                 <ANNOTATION_VALUE>Beðgä</ANNOTATION_VALUE>
@@ -552,7 +552,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="mb" PARENT_REF="mot@iim" PARTICIPANT="iim" TIER_ID="mb@iim">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="mb" PARENT_REF="mot@SP1" PARTICIPANT="iim" TIER_ID="mb@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann3" ANNOTATION_REF="ann2">
                 <ANNOTATION_VALUE>beð</ANNOTATION_VALUE>
@@ -1304,7 +1304,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@iim" PARTICIPANT="iim" TIER_ID="ge@iim">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@SP1" PARTICIPANT="iim" TIER_ID="ge@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann4" ANNOTATION_REF="ann3">
                 <ANNOTATION_VALUE>we</ANNOTATION_VALUE>
@@ -2056,7 +2056,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@iim" PARTICIPANT="iim" TIER_ID="ps@iim">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@SP1" PARTICIPANT="iim" TIER_ID="ps@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann5" ANNOTATION_REF="ann3">
                 <ANNOTATION_VALUE>pron</ANNOTATION_VALUE>
@@ -2808,7 +2808,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="gr" PARENT_REF="mb@iim" PARTICIPANT="iim" TIER_ID="gr@iim">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="gr" PARENT_REF="mb@SP1" PARTICIPANT="iim" TIER_ID="gr@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann6" ANNOTATION_REF="ann3">
                 <ANNOTATION_VALUE>мы</ANNOTATION_VALUE>
@@ -3560,7 +3560,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@iim" PARTICIPANT="iim" TIER_ID="ft@iim">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@SP1" PARTICIPANT="iim" TIER_ID="ft@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann87" ANNOTATION_REF="ann0">
                 <ANNOTATION_VALUE>В близком к нам Учалинском районе диалект совсем... ну, не совсем, но немного другой.</ANNOTATION_VALUE>
@@ -3607,7 +3607,7 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="com" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="src" TIME_ALIGNABLE="false"/>
-    <LOCALE COUNTRY_CODE="EN" LANGUAGE_CODE="us"/>
+    <LOCALE COUNTRY_CODE="FR" LANGUAGE_CODE="fr"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
