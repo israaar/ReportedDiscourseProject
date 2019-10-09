@@ -54,7 +54,7 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>121080</Long>
+        <Long>68300</Long>
     </pref>
     <pref key="Interlinear.Tier.Parse">
         <String>mb</String>
@@ -63,7 +63,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>121080</Long>
+        <Long>68300</Long>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
@@ -130,9 +130,9 @@
         <String>ge</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>115295</Long>
+        <Long>0</Long>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>127100</Long>
+        <Long>72560</Long>
     </pref>
 </preferences>
