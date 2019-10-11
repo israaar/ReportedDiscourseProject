@@ -44,5 +44,5 @@ v n | granit_powder_r.eaf | ??
 v | AG_12r.eaf | VERB
 
 __NOTES__
-ps type is used, not wps
-word level POS annotation is needed
+- ps type is used, not wps
+- word level POS annotation is needed
