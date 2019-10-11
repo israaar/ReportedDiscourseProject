@@ -4,6 +4,7 @@ ready files must have
 - translations
 
 __POS correspondence table__
+
 Project POS | Meaning | Bashkir wps | comments
 -- | -- | -- | --
 ADJ | Adjectives | adj | 
