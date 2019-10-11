@@ -17,6 +17,7 @@ AUX | Auxilary | | don't have any
 COP | Copulae | | don't have any
 ADP | Adpositions | post |
 CONJ | Conjunctions | conj |
+DET | Determiner | | don't have any
 PART | Particles | part |
 INTRJ | Interjections | interj | 
 IDPH | Ideaphones | | don't have any
