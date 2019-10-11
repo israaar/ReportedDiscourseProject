@@ -1,9 +1,9 @@
 __POS tags__
 
 
-ps type | TranscriptionName | Katya's suggetions
--- | -- | --
-3ème | Elections_r.eaf | delete
+ps type | TranscriptionName | Katya's suggetions | comments
+-- | -- | -- | --
+3ème | Elections_r.eaf | delete | done
 adj | AG_12r.eaf | ADJ
 adv | AG_12r.eaf | ADV
 art | magic_plane_r.eaf | ??
