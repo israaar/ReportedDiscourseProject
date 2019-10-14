@@ -52,17 +52,17 @@
         <pref key="comm">
             <Object class="java.awt.Color">90,90,0</Object>
         </pref>
-        <pref key="rp@SP1">
-            <Object class="java.awt.Color">160,0,0</Object>
-        </pref>
         <pref key="ref@SP1">
             <Object class="java.awt.Color">0,0,90</Object>
         </pref>
-        <pref key="qt@SP1">
-            <Object class="java.awt.Color">160,0,160</Object>
+        <pref key="rp@SP1">
+            <Object class="java.awt.Color">160,0,0</Object>
         </pref>
         <pref key="ft@SP1">
             <Object class="java.awt.Color">90,0,0</Object>
+        </pref>
+        <pref key="qt@SP1">
+            <Object class="java.awt.Color">160,0,160</Object>
         </pref>
     </prefGroup>
     <prefList key="CommentViewer.Columns.Hidden">
@@ -76,7 +76,7 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>58095</Long>
+        <Long>43931</Long>
     </pref>
     <pref key="Interlinear.Tier.Parse">
         <String>mb@SP1</String>
@@ -91,7 +91,7 @@
         <String>mb</String>
     </pref>
     <pref key="MediaTime">
-        <Long>58095</Long>
+        <Long>43931</Long>
     </pref>
     <pref key="Interlinear.Tier.Word">
         <String>mot@SP1</String>
@@ -164,10 +164,10 @@
         <String>ge@SP1</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>56233</Long>
+        <Long>42767</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>60861</Long>
+        <Long>48095</Long>
     </pref>
 </preferences>
