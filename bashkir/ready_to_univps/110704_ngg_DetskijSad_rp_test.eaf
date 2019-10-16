@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-10-11T13:50:14+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2019-10-11T15:03:28+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="110704_ngg_Detskij_sad.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:94e411d4-ae98-49f1-a517-1384d969969a</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">1687</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1703</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="740"/>
@@ -114,7 +114,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1052" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts29">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="ann1052" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts30">
                 <ANNOTATION_VALUE>110704_ngg_Detskij_sad.012</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -7456,7 +7456,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@SP1" PARTICIPANT="SP1" TIER_ID="ft@SP1">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@SP1" PARTICIPANT="SP1" TIER_ID="ft_rus@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann171" ANNOTATION_REF="ann0">
                 <ANNOTATION_VALUE>Когда я была маленькой, было время войны, моя старшая сестра оставалась одна дома, ой, я одна дома оставалась, моя старшая сестра ходила в школу.</ANNOTATION_VALUE>
@@ -7540,7 +7540,7 @@
     </TIER>
     <TIER ANNOTATOR="08" DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="rp" PARTICIPANT="SP1" TIER_ID="rp@SP1">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1496" CVE_REF="cveid0" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1496" CVE_REF="cveid0" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts27">
                 <ANNOTATION_VALUE>Discourse Reporting Event</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -7567,7 +7567,7 @@
     </TIER>
     <TIER DEFAULT_LOCALE="fr" LANG_REF="eng" LINGUISTIC_TYPE_REF="ref" TIER_ID="comm">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1501" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts30">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1501" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts29">
                 <ANNOTATION_VALUE>speaker before quote</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -7579,7 +7579,7 @@
     </TIER>
     <TIER ANNOTATOR="10" DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="qt" PARTICIPANT="SP1" TIER_ID="qt@SP1">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1503" CVE_REF="cveid0" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts35">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1503" CVE_REF="cveid0" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts35">
                 <ANNOTATION_VALUE>Other</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -8510,6 +8510,89 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1687" ANNOTATION_REF="ann1489">
                 <ANNOTATION_VALUE>***</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@SP1" PARTICIPANT="SP1" TIER_ID="ft@SP1">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1688" ANNOTATION_REF="ann0">
+                <ANNOTATION_VALUE>When I was little, there was a time of war, my older sister stayed home alone, oh, I stayed home alone, my older sister went to school.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1689" ANNOTATION_REF="ann172">
+                <ANNOTATION_VALUE>Then a kindergarten for children was opened in the village.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1690" ANNOTATION_REF="ann221">
+                <ANNOTATION_VALUE>They opened a kindergarten for families starving, needy people ... children.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1691" ANNOTATION_REF="ann309">
+                <ANNOTATION_VALUE>Then they locked me up and left at home, I opened the window and ran away.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1692" ANNOTATION_REF="ann407">
+                <ANNOTATION_VALUE>I didn’t want to sit at home alone.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1693" ANNOTATION_REF="ann498">
+                <ANNOTATION_VALUE>Then then my mother began to drive me, my mother worked as a cook in kindergarten.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1694" ANNOTATION_REF="ann593">
+                <ANNOTATION_VALUE>
+Two women worked there. One teacher.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1695" ANNOTATION_REF="ann643">
+                <ANNOTATION_VALUE>There we lived in an apartment, came from another place and worked.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1696" ANNOTATION_REF="ann710">
+                <ANNOTATION_VALUE>Then I was tired of sitting, I didn’t want to play with these boys, they were already enough there, this ... the boys were older.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1697" ANNOTATION_REF="ann871">
+                <ANNOTATION_VALUE>I gathered them, girls, we fled to the mountains.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1698" ANNOTATION_REF="ann945">
+                <ANNOTATION_VALUE>We ran away, walked, walked, the doctors arrived, injected with injections, they say we ran away.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1699" ANNOTATION_REF="ann1052">
+                <ANNOTATION_VALUE>Then those children: "We are hungry, they came for you!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1700" ANNOTATION_REF="ann1123">
+                <ANNOTATION_VALUE>They said: “Come on, let's go back,” and they took me away.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1701" ANNOTATION_REF="ann1192">
+                <ANNOTATION_VALUE>We went - when we arrived, the doctors were sitting, waiting for us, hiding.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1702" ANNOTATION_REF="ann1281">
+                <ANNOTATION_VALUE>They say that I supposedly incited people, and they give me the first injection.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1703" ANNOTATION_REF="ann1417">
+                <ANNOTATION_VALUE>So behaved ... even though she was small, she was an instigator.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-07-25T12:02:18+05:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/katyaaplonova/Desktop/bashkir_tales/190721/kizgi/190721_RS_Tale1.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./bashkir_tales/190721/kizgi/190721_RS_Tale1.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4ed9323c-87bd-4bf0-a08c-e0fd2065db4e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">58</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="12560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="18060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="18590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="20370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="24850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="25370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="34985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="36022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="39512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="39937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="39937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="46317"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="46317"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="48547"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="53667"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="54427"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="58217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="60292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="62882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="63277"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="68787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="69262"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="70982"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="71522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="75032"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="75127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="85257"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="86212"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="90312"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="90592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="95712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="95752"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="102812"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="103482"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="108142"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="109162"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="114592"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ref" PARTICIPANT="SP" TIER_ID="ref@SP">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE> </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@SP" PARTICIPANT="SP" TIER_ID="tx@SP">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>борон заманда күктә ике ҡуяш булған</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>бик ныҡ ҡыҙҙырғандар</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ҡ... ул ике ҡояштан үҫәмләктәр...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>һайуандар кешеләр бик йонсогандар</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE> үҫәмләктәрғә һыу етмәгән, һайуандарға аҙыҡ етмәгән ә кешеләр ял итә алмағандар</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>шунан бер заман ҡор йыйылғандар кешеләр</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>бергә йыйылғандар-ҙа нисек был ҡояшты... ике ҡояштан ҡотолорға тип юл эҙләгәндәр </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>шунан бер батыр килеп сыҡҡан-да, кешеләр һөйләшкән арала </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>уғын алғанда бер ҡояшҡа атып ебергән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>бер кән оскан уҡ </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>ике кән оскан шул ваҡытта күк күкрәгән, ҡойоп ямғыр яуған</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>ешен ешнегән </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>һәм уҡ барып ҡояшҡа  тейғән бер ҡояшҡа</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>ҡояш ярлып киткән-дә, бер яртығы ерғә ҡолап төшкөн, яртыға күктә эленеп ҡалған</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>ярға төшкәне Урал тауҙары булып килеп сыҡҡан</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>ә күктә ҡалғаны ай булып ҡалған</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ай... шул ваҡытта... ай... ҡояшҡа тейгән ваҡытта халыҡ күреп ҡалған-да ай-ай-ай тип</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>хайран ҡайлып ҡысҡырһалар шулға күктәгә есем хәҙер ай тип атала</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>шунен бирле кешеләр, һайуандар, уҫемлектәр рәчәтләнеп ешеп ҡалғандар</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@SP" PARTICIPANT="SP" TIER_ID="ft@SP">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>давным-давно в небе было два солнцц</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>очень сильно греле</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>от этих солнц растения...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>животные, люди мучились</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>растениям не хватало воды, животным не хватало еды, а люди не могли отдыхать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>потом однажды люди собрались</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>собрались и обсудили, как избавить это солнце... от двух солнц искали путь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>потом появился один батыр и когда люди разговаривали</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>достал свой лук и выстрелил в одно солнце</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>один день летел</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>второй летел, в это время гром гремел, сильно шёл дождь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>молния появилась</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>и лук попал в солнце, в одно солнце</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>солнце лопнуло, одна половина упала на землю, другая повисла в небе</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>упавшая половина превратилась в Уральские горы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>а половина, оставшаяся в небе, осталась луной</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>луна... в это время... луна... увидев, как лук попал в солнце и как появилось две попловины, люди гворили ай-ай-ай</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>люди с удивлением кричали и поэтому теперь небесное тело назвали луной</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>после этого растения, животные, люди стали жить с удовольствием</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="mot" PARENT_REF="tx@SP" PARTICIPANT="SP" TIER_ID="mot@SP"/>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="mb" PARENT_REF="mot@SP" PARTICIPANT="SP" TIER_ID="mb@SP"/>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@SP" PARTICIPANT="SP" TIER_ID="ge@SP"/>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="rx" PARENT_REF="mb@SP" PARTICIPANT="SP" TIER_ID="rx@SP"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ref" TIER_ID="my_gr">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>вместо ике надо бер</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ref" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="tx" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mot" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ge" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="rx" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="FR" LANGUAGE_CODE="fr"/>
+    <LOCALE COUNTRY_CODE="EN" LANGUAGE_CODE="us"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
