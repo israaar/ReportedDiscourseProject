@@ -5308,10 +5308,11 @@
   </lexicalEntry>
   <lexicalEntry id="700" dt="05/Sep/2011">
     <Lexeme typ="lem">jebär</Lexeme>
-    <form />
     <sense>
       <Gloss lang="en" tierX="v">send</Gloss>
+      <Gloss lang="en" tierX="v">shoot</Gloss>
     </sense>
+    <form />
   </lexicalEntry>
   <lexicalEntry id="701" dt="22/Jul/2011">
     <Lexeme typ="lem">jeg</Lexeme>
@@ -13694,6 +13695,154 @@
     <form />
     <sense>
       <Gloss lang="en" tierX="n">happiness</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1770" dt="17/Oct/2019">
+    <Lexeme typ="lem">üθemlek</Lexeme>
+    <sense>
+      <Gloss lang="en" tierX="n">plant</Gloss>
+    </sense>
+    <form />
+  </lexicalEntry>
+  <lexicalEntry id="1771" dt="17/Oct/2019">
+    <Lexeme typ="lem">xajwan</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="n">animal</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1772" dt="17/Oct/2019">
+    <Lexeme typ="lem">jonso</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="suffer">v</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1773" dt="17/Oct/2019">
+    <Lexeme typ="lem">qor</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="n">meeting</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1774" dt="17/Oct/2019">
+    <Lexeme typ="lem">qotolo</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">get.rid.of</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1775" dt="17/Oct/2019">
+    <Lexeme typ="lem">kükrä</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">thunder</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1776" dt="17/Oct/2019">
+    <Lexeme typ="lem">jarələ</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">burst</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1777" dt="17/Oct/2019">
+    <Lexeme typ="lem">aj-aj-aj</Lexeme>
+    <sense>
+      <Gloss lang="en" der="RUS" tierX="intrj">intrj</Gloss>
+    </sense>
+    <form />
+  </lexicalEntry>
+  <lexicalEntry id="1778" dt="17/Oct/2019">
+    <Lexeme typ="lem">räxätläne</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">enjoy</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1779" dt="17/Oct/2019">
+    <Lexeme typ="lem">töjlögän</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="n">kite</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1780" dt="17/Oct/2019">
+    <Lexeme typ="lem">ätäs</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="n">cock</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1781" dt="17/Oct/2019">
+    <Lexeme typ="lem">həjla</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">treat.to</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1782" dt="17/Oct/2019">
+    <Lexeme typ="lem">taraɣ</Lexeme>
+    <form>
+      <altForm>
+        <WForm>taraq</WForm>
+      </altForm>
+    </form>
+    <sense>
+      <Gloss lang="en" tierX="n">comb</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1783" dt="17/Oct/2019">
+    <Lexeme typ="lem">mujənsaq</Lexeme>
+    <form>
+      <altForm>
+        <WForm>mujənsaɣ</WForm>
+      </altForm>
+    </form>
+    <sense>
+      <Gloss lang="en" tierX="n">beads</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1784" dt="17/Oct/2019">
+    <Lexeme typ="lem">mujən</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="n">neck</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1785" dt="17/Oct/2019">
+    <Lexeme typ="lem">märjen</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="n">bead</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1786" dt="17/Oct/2019">
+    <Lexeme typ="lem">soqono</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">dig.in</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1787" dt="17/Oct/2019">
+    <Lexeme typ="lem">tibene</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">dig.in</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1788" dt="17/Oct/2019">
+    <Lexeme typ="lem">šunləqtan</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="conj">because</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1789" dt="17/Oct/2019">
+    <Lexeme typ="lem">inogda</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" der="RUS" tierX="adv">sometimes</Gloss>
     </sense>
   </lexicalEntry>
 </lexicon>

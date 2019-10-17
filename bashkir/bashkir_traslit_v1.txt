@@ -1,3 +1,4 @@
+bash	lat
 /а/	a
 /б/	b
 /в/	v
