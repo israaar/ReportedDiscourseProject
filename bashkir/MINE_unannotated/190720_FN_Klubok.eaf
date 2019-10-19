@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-07-24T21:20:27+05:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-10-18T09:51:20+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/katyaaplonova/Desktop/bashkir_tales/190720/kyzgy/190720_FN_Klubok.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../190720/kyzgy/190720_FN_Klubok.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/kataaplonova/Documents/bashkir/sound/190720_FN_Klubok.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../bashkir/sound/190720_FN_Klubok.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1ae1d169-1fa5-4d68-af52-35dba965b5bc</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">230</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">303</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="8690"/>
@@ -1334,6 +1334,373 @@
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts122">
                 <ANNOTATION_VALUE>белән менән</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@SP" PARTICIPANT="SP" TIER_ID="tx@SP-cp">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>йоморой-йоморой йомғағымды күрмәнеңме, абыстай? тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>шунан китеп бара икән ҡыҙыҡай</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>хәҙер йоморой-йоморой йомғағымды күрмәнеңме абыстай тип теге ул нейҙә юлда булғаннар инде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>оло ағайҙар</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>юғ күрменем тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>шунан тағы киткән инде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>ошо яҡҡа тәгәрләне тигәнн(д)әр</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>хәҙер тағы барһа тағы юл(т)да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>йоморой-йоморой йомғағымды күрмәнеғеҙме тиһә</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>анауҙа бар бер өй бар төтөнө сығып тора</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>шунда барып керҙе тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>хәҙер ҡыҙыҡай барып кергән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>өйҙә бер яңғыҙ ғына әб(в)ей ултырған </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>кыҙым йоморо-йоморо... әй... эбей йомор-йоморо йомғағымды күрменеңме тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>килеп керҙе ҡыҙым тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>әй ҡыҙым тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>... келдең тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>сәй эсәйек тигән әбей яңғыҙы-ғына булған инде </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>хәзер әбейғә сәй ҡайнатҡан сәй ҡайнатған ҡыҙҙым тигән сәй ҡайнатған </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>әбейҙә мунса индергән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>сәй эскәндән һуң мунса яғып мунса индергән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>хәҙер әбейҙе (h)әйбет итеп мунса индереп алып ҡайтҡан</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>әбей хәҙер ... өйләрен таҙартҡан ҡыҙыҡай</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>әбейгә, инде мин ҡайтайым инде әбей тигән </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>рәхмәт тиген</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>ҡыҙым, ҡайтма бөгөнгә ҡун тиген</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>иртәгә ҡайтырһың тиген шунан</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>әбей инде мин ҡайтайым инде ҡыҙҙым тиген</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>өй башында тиген ошо өй башы тибеҙ инде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>өй башында һандыҡ бар шуны төшөр һиңе бүләк бирем тиген</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>шул һандыҡты тигән ҡыҙыҡайға һандыкты биргән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>биргән-дә ҡайтҡасҡына асырың тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>һ(x)әҙер ул йэтим ҡыҙыкай булған инде бахыр</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>ҡайтҡас-ҡына асыр(һ)ың тиһе. әй ҡыҙыҡай ҡайтҡан</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>шунан бының үгәй инәһе  был ҡыҙыҡайҙы туҡмап сығарып  ебәргән үгәй үгәй иней инде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>ике ҡыҙыҡай булгандар үгәй иней [был ҡыҙҙы] йоморо йомғағыңды эҙләп тап тип сығарып ебәргән  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>сығарып ебәрһә, шул әбейгә барған-да инде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>кер, йомро-йомро йомғағы барып кергән әбей мында тигән шунан</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>һәҙер әбейҙе һәйбет итеп тарбиәләгән инде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>оҙон инде ул</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>һәҙер ҡайтҡас-ҡына һандыҡты асыр(h)ың тигән </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>ҡайтҡас... ҡайтҡан...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>эй бының һандыҡтың эсендә шул төрлө матур әйберл(ҙ)әр </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>кейемн(д)әр-ҙә бу(л)ған инде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>һөйөнөп ҡайтып</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>инәһенә нейткән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>һәҙер был ҡыҙыҡай ҡайтһа теге үҙенең ҡыҙын сығарып ебәргән бар һин-дә байығып ҡайтып кил тип</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>теге ҡыҙыкайҙы сыгарып ебәргән </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>был ҡыҙыҡай  (h)әйбәт йөрөп ҡайтҡас</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>ҡыҙыҡай әләге йомро-йомро йомғағымды күрмәнеңме тип китеп ултыра икән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>кеше(не) осраһа телеһә ней белән әрләп киткән  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>гел насар һүҙ м(б)енән инде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>һәҙер.. әбей</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>йомро-йомро йомғағынды күрмәнек тигән инде тағы шунан берәүһенә </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>тағы үтеп китеп ултыра икән тағы һораған</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>анау әлеге өйгә барып кергән ҡыҙыҡай </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>йомғаҡ-та шунда барып кергән инде </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>әбейгә барып керһә,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>әбейҙән һораған тей йомро йомғағымды күрмәнеңме беҙҙә тигән әбей</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a112">
+                <ANNOTATION_VALUE>әбей әйткән инде сәй ҡайнат</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE>мине мунса индерер(h)ең ҡыҙым</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>тамаҡҡа әҙәрлә тиһә әбейҙә теләһә ней менән әрләп әбәҙе мунсаға һө(й)рөтеп  алып барған</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>һыуыҡ мунсаға</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>әбейҙе һө(й)рәтеп алып ҡайтҡан </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>һәҙер әбей әйткән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>насар булғас</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>бар ана өй башында һандыҡ бар</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE>ал-да ҡайт тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>ҡайтҡас-ҡына асыр(һ)ың тигән</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE>асһа йыланн(д)ар</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE>ҡыҙыҡайҙы-ла йотҡан инәһен-дә йотҡан ана шул бына</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>әкиәт</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>бына насарлыҡ ҡайҙа барып нейтә </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>

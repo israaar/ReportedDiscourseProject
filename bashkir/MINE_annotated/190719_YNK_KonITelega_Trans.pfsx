@@ -97,7 +97,7 @@
         <Float>271.0</Float>
     </pref>
     <pref key="LexiconFileDir">
-        <String>C:\Users\GestionERC\Desktop\ReportedDiscourseProject\bashkir</String>
+        <String>/Users/kataaplonova/Desktop</String>
     </pref>
     <pref key="SelectionBeginTime">
         <Long>43931</Long>
@@ -144,11 +144,11 @@
         <pref key="comm">
             <Object class="java.awt.Color">90,90,0</Object>
         </pref>
-        <pref key="rp@SP1">
-            <Object class="java.awt.Color">160,0,0</Object>
-        </pref>
         <pref key="qt@SP1">
             <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="rp@SP1">
+            <Object class="java.awt.Color">160,0,0</Object>
         </pref>
         <pref key="ref@SP1">
             <Object class="java.awt.Color">0,0,90</Object>

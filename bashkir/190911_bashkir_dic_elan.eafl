@@ -13845,5 +13845,37 @@
       <Gloss lang="en" der="RUS" tierX="adv">sometimes</Gloss>
     </sense>
   </lexicalEntry>
+  <lexicalEntry id="1790" dt="18/Oct/2019">
+    <Lexeme typ="lem">jomro</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="adj">round</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1791" dt="18/Oct/2019">
+    <Lexeme typ="lem">jomɣaq</Lexeme>
+    <form>
+      <altForm>
+        <WForm>jomɣaɣ</WForm>
+      </altForm>
+    </form>
+    <sense>
+      <Gloss lang="en" tierX="n">ball</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1792" dt="18/Oct/2019">
+    <Lexeme typ="lem">abəstaj</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="n">wife.of.mulla</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1793" dt="18/Oct/2019">
+    <Lexeme typ="lem">tägärlä</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">roll</Gloss>
+    </sense>
+  </lexicalEntry>
 </lexicon>
 
