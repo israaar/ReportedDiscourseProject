@@ -9216,10 +9216,10 @@
   </lexicalEntry>
   <lexicalEntry id="1165" dt="08/Jul/2015">
     <Lexeme typ="lem">qarpəš</Lexeme>
-    <form />
     <sense>
-      <Gloss lang="en" tierX="ad">lopeared</Gloss>
+      <Gloss lang="en" tierX="adj">lopeared</Gloss>
     </sense>
+    <form />
   </lexicalEntry>
   <lexicalEntry id="1166" dt="06/Sep/2011">
     <Lexeme typ="lem">qarsəq</Lexeme>
@@ -13875,6 +13875,13 @@
     <form />
     <sense>
       <Gloss lang="en" tierX="v">roll</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1795" dt="21/Oct/2019">
+    <Lexeme typ="lem">handəq</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="n">box</Gloss>
     </sense>
   </lexicalEntry>
 </lexicon>
