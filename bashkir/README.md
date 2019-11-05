@@ -1,3 +1,4 @@
+!__wolf: let's go__! DR Event (rp) + CS (par) 
 ready files must have
 - references
 - wps
