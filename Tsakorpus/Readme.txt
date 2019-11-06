@@ -1,0 +1,1 @@
+https://bitbucket.org/tsakorpus/tsakorpus/src/master/docs/pipeline.md

@@ -1,0 +1,31 @@
+{
+  "corpus_name": "joola_llacan",
+  "meta_filename": "meta.csv",
+  "languages": ["joola", "english", "english_note", "ref"],
+  "tier_languages": {"tx@.*": "joola", "ft@.*": "english", "not@.*": "english_note", "ref@.*": "ref"},
+  "main_tiers": ["ref@.*"],
+  "aligned_tiers": ["tx@.*", "ft@.*", "not@.*"],
+  "analysis_tiers": {
+    "mot@.*": "word",
+    "wps@.*": "pos",
+    "mb@.*": "parts",
+    "ge@.*": "gloss"
+  },
+  "one_morph_per_cell": true,
+  "meta_fields":
+  [
+    "filename",
+    "title",
+    "author",
+    "year_from",
+    "year_to",
+    "genre"
+  ],
+  "meta_files_ext": true,
+  "meta_files_dir": false,
+  "meta_files_case_sensitive": true,
+  "json_indent": 1,
+  "gzip": false,
+  "newline_ends_sent": true,
+  "abbreviations": []
+}
