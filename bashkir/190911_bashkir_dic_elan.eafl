@@ -4305,13 +4305,6 @@
       <Gloss lang="en" tierX="v">be.PC.PST</Gloss>
     </sense>
   </lexicalEntry>
-  <lexicalEntry id="561" dt="22/Jul/2011">
-    <Lexeme typ="lem">ikän</Lexeme>
-    <form />
-    <sense>
-      <Gloss lang="en" tierX="word">as.if</Gloss>
-    </sense>
-  </lexicalEntry>
   <lexicalEntry id="562" dt="06/Sep/2011">
     <Lexeme typ="lem">ike</Lexeme>
     <form>
@@ -13343,11 +13336,11 @@
     </sense>
   </lexicalEntry>
   <lexicalEntry id="1712" dt="10/Sep/2019">
-    <Lexeme typ="lem">asәulanə</Lexeme>
-    <form />
+    <Lexeme typ="lem">asәwlanə</Lexeme>
     <sense>
       <Gloss lang="en" tierX="v">become.angry</Gloss>
     </sense>
+    <form />
   </lexicalEntry>
   <lexicalEntry id="1713" dt="10/Sep/2019">
     <Lexeme typ="lem">talaš</Lexeme>
@@ -13882,6 +13875,55 @@
     <form />
     <sense>
       <Gloss lang="en" tierX="n">box</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1796" dt="04/Nov/2019">
+    <Lexeme typ="lem">täüge</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="adj">first</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1797" dt="04/Nov/2019">
+    <Lexeme typ="lem">tašə</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">carry</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1798" dt="04/Nov/2019">
+    <Lexeme typ="lem">fäžiɣäle</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="adj">tragic</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1799" dt="04/Nov/2019">
+    <Lexeme typ="lem">sum</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="v">dive</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1800" dt="04/Nov/2019">
+    <Lexeme typ="lem">keüek</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="part">like</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1804" dt="05/Nov/2019">
+    <Lexeme typ="suff">-qaj</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="nsuf">AFF</Gloss>
+    </sense>
+  </lexicalEntry>
+  <lexicalEntry id="1805" dt="05/Nov/2019">
+    <Lexeme typ="suff">-ðäš</Lexeme>
+    <form />
+    <sense>
+      <Gloss lang="en" tierX="suf">ACT</Gloss>
     </sense>
   </lexicalEntry>
 </lexicon>

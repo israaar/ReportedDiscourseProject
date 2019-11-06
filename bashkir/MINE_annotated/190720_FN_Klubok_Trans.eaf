@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-10-27T14:40:09+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-11-04T18:50:52+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/elenaperehvalskaa/Desktop/190720_FN_Klubok.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../190720_FN_Klubok.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/elenaperehvalskaa/Desktop/190720_FN_Klubok.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1ae1d169-1fa5-4d68-af52-35dba965b5bc</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">2851</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">2924</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="8690"/>
@@ -194,379 +194,379 @@
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ref" PARTICIPANT="SP" TIER_ID="ref@SP1">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_01</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_02</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_03</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_04</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_05</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_06</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_07</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_08</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_09</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_10</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_11</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_12</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_13</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_14</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_15</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_16</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_17</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_18</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_19</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_20</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts58">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_21</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_22</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts64">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_23</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_24</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_25</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_26</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts74">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_27</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_28</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_29</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_30</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_31</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_32</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_33</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_34</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_35</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_36</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_37</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_38</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_39</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_40</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_41</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts108">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_42</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_43</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_44</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_45</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_46</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_47</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts122">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_48</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_49</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_50</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts130">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_51</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts133">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_52</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_53</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_54</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts141">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_55</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_56</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts148">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_57</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_58</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_59</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_60</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_61</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_62</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts162">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_63</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_64</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_65</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_66</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_67</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_68</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_69</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_70</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_71</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_72</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_73</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>190720_FN_Klubok8_74</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@SP1" PARTICIPANT="SP" TIER_ID="tx@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>jomroj-jomroj jomɣaɣəmdə kürmäneŋme, abəstaj? tigän</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jomro-jomro jomɣaɣəmdə kürmäŋme abəstaj tigän</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -933,367 +933,367 @@
     <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@SP1" PARTICIPANT="SP" TIER_ID="ft@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>кругленький-кругленький клубок не виделели ли, добрые люди? говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>have you seen a round ball, kind people? she says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>идет девочка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a girl is walking</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>сейчас... кругленький-кругленький клубок не виделели ли, добрые люди спрашивает тех кто встретился на пути</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>now ... she is asking people who she meets on the way haven't you seen a rounf wool ball, kind people </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>пожилые люди</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>elderly people</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>нет, не видели </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>no, they did not seen</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a6">
-                <ANNOTATION_VALUE>потом дальше идёт</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>then she goes further</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE>в ту сторону покатился говорят</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>it rolled in that direction, they said</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a8">
-                <ANNOTATION_VALUE>теперь шла-шла по дороге, спрашивая</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>now she walked along the road asking</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>не виделе ли кругленького клубочка </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>have you seen a round wool ball</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>там есть дом, дым клубится</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>there is a house, smoke swirls</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>туда зашёл говорят</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>it rolled there they say</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a12">
-                <ANNOTATION_VALUE>вот зашла девочка </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>here came the girl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a13">
-                <ANNOTATION_VALUE>в дом (избушка) сидит одинокая старушка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a lonely old woman sits in the house (hut)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a14">
-                <ANNOTATION_VALUE>доченька, кругленький.... ой... бабушка кругленького клубочка не видела говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>daughter, round .... oh ... grandmother, have you seen a round little ball she says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a15">
-                <ANNOTATION_VALUE>закатился, доченька, говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>it rolled up here, daughter, she says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>ой доченька говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>oh daughter she says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>ты пришла говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>you came she says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a18">
-                <ANNOTATION_VALUE>давай чай попьём говорит жила она одна</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>let's drink tea, she said; she lived alone</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a19">
-                <ANNOTATION_VALUE>вот вскипятила чай бабушке, доченька, всипятила чай</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>so, she boiled a tea for a grandmother, daughter, she boiled tea</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>в бане бабушку искупала</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she bathed grandmother in the bath</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>после того, как напоила чаем, баню натопила, в бане искупала</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>after drinking tea, she heated the bath, she bathed her in the bath</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>затем помыла хорошенько в бане бабаушку</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>then she washed her grandmother thoroughly in the bath</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a74">
-                <ANNOTATION_VALUE>старушка потом... девочка убралась  </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>the old woman then ... the girl cleaned the house</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a76">
-                <ANNOTATION_VALUE>бабушке теперь я можно пойду домой, бабушка, говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>now, she says: grandma, can I go home? grandma says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a77">
-                <ANNOTATION_VALUE>поблагодарила</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she thanked her</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a78">
-                <ANNOTATION_VALUE>доченька, не уходи, останься на сегодня поспать говорит </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>daughter, don’t leave, stay and sleep tonight, she says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a79">
-                <ANNOTATION_VALUE>завтра уйдёшь говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>you will leave tomorrow</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a80">
-                <ANNOTATION_VALUE>бабушка, можно я пойду, девочка говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>grandma, can I go, the girl says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a81">
-                <ANNOTATION_VALUE>на чердаке говорит, чердак это называем </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>in the attic she says, we call it attic</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a82">
-                <ANNOTATION_VALUE>на чердаке есть сундук спусте его хочу одарить тебя</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>in the attic, there is a chest, bring it here I want to give you a gift</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a83">
-                <ANNOTATION_VALUE>этот сундук говорит отдала девочке сундук</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>this chest, she says, she gave the girl the chest</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a84">
-                <ANNOTATION_VALUE>отдавая сказала вернёшься откроешь</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>while giving, she said when you come back, open it</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a85">
-                <ANNOTATION_VALUE>... онв была бедняжка сиротой </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>... she, a poor little one, was an orphan</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a86">
-                <ANNOTATION_VALUE>и открой только по возвращении.  оой девочка вернулась</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and open only upon return, oh, girl is back</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a87">
-                <ANNOTATION_VALUE>а её мачеха побив выгнала мачеха </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and her step-mother beat her, step-mother kick her out</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a88">
-                <ANNOTATION_VALUE>деовчек было двое мачеха приказав найти круглый клубок выставила ту девочку</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>there were two girls overthere, stepmother ordered to find a round ball and chaced (another) girl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a89">
-                <ANNOTATION_VALUE>когда выгнала, к той бабушке пришла</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>when she kicked out the girl, she (the girl) came to that grandmother</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a90">
-                <ANNOTATION_VALUE>заходи, говорит бабушка, к которой прикатился круглый клубок, здесь (клубок) говоритт</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>come in, the grandmother says, to whom the round ball has rolled, here (the ball) says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a91">
-                <ANNOTATION_VALUE>вот ухаживала хорошо за бабушкой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she took good care of the grandmother</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a92">
-                <ANNOTATION_VALUE>много сделала</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she did a lot</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a93">
-                <ANNOTATION_VALUE>вот только когда вернёшься, сундук откроешь говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>only when you return, you open the chest she says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a94">
-                <ANNOTATION_VALUE>вернулась...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she came back</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a95">
-                <ANNOTATION_VALUE>в её сундуку столько разных красивых вещей оказалось</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>there were so many different beautiful things in her chest</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a96">
-                <ANNOTATION_VALUE>и одежда была</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>there were a lot of clothes</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a97">
-                <ANNOTATION_VALUE>обрадованная вернулась</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she returned very happy</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a98">
-                <ANNOTATION_VALUE>матери это самое...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mother hmmm</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a99">
-                <ANNOTATION_VALUE>когда эта девочка вернулась, та мачеха и свою дочь выгнала, сказав, иди, и ты богатой возвращайся </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>when that girl returned, the stepmother kicked out her own dayther, saying go and come back rich</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a100">
-                <ANNOTATION_VALUE>ту девочку выставила</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she kicked out that girl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a101">
-                <ANNOTATION_VALUE>после того как эта девочка вернулась с такой удачей</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>after this girl came back with such luck</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a102">
-                <ANNOTATION_VALUE>девочка идёт и спрашивает не видели ли тот же круглый клубок </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>the girl goes and asks whether they saw the same round ball</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a103">
-                <ANNOTATION_VALUE>встречных ругала рахными словами на ходу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she sweared oncoming with rash words on the go</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a104">
-                <ANNOTATION_VALUE>каждый раз плохими словами</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>every time bad words</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a105">
-                <ANNOTATION_VALUE>вот... бабушка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>here ... grandmother</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a106">
-                <ANNOTATION_VALUE>круглый клубочек не видели кто-то ответил  опять </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>have you seen a round ball?  someone answered again</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a107">
-                <ANNOTATION_VALUE>мимо проходит, опять спрашивает</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>passes by, she asks again</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a108">
-                <ANNOTATION_VALUE>в тот же дом зашла девочка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a girl came into the same house</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a109">
-                <ANNOTATION_VALUE>и клубок туда закатился</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and the ball rolled there</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a110">
-                <ANNOTATION_VALUE>когда зашла к бабушке,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>when she went to the grandmother,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a111">
-                <ANNOTATION_VALUE>спрашивает бабушку, не видела ли она клубок, у нас сказала бабушка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she asks grandmother if she saw a ball, the grandmother said that it is there</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a112">
-                <ANNOTATION_VALUE>бабушка говорит вскипяти чай</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>grandmother says: boil tea</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a113">
-                <ANNOTATION_VALUE>меня в бане помоешь, доченька</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>wash me in the bath, daughter</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a114">
-                <ANNOTATION_VALUE>приготовишь поесть когда сказала бабушку ругая разными словами поволкла в баню</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>prepare to eat; when grandmother said that, scolding in different words she drove into the bath</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a115">
-                <ANNOTATION_VALUE>в холдную баню</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>in a cold bath</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a116">
-                <ANNOTATION_VALUE>бабушку обратно приволокла</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she dragged back grandmother </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a117">
-                <ANNOTATION_VALUE>потом бабушка говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>then grandma says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a118">
-                <ANNOTATION_VALUE>узнав такое плохое поведение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>finding out such a bad behavior</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a119">
-                <ANNOTATION_VALUE>иди-ка на чердаке есть снудук</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>go in the attic there is a chest</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a120">
-                <ANNOTATION_VALUE>возьми и уходи говорит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>take and go says</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a121">
-                <ANNOTATION_VALUE>только когда вернёшься, откроешь</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>only when you return, you will open it</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a122">
-                <ANNOTATION_VALUE>открывает - змеи</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>she opens it - there are snakes there</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a123">
-                <ANNOTATION_VALUE>и девочку проглотила, и маму проглотила, вот такая</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and they swallowed the girl, and swallowed her mother, like this</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a124">
-                <ANNOTATION_VALUE>сказка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fairy tale</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a125">
-                <ANNOTATION_VALUE>вот зло к чему приводит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that's what evil leads to</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -14077,10 +14077,10 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@SP1" PARTICIPANT="SP" TIER_ID="tx@SP-cp">
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@SP1" PARTICIPANT="SP" TIER_ID="tx_bash@SP1">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>йомро-йомро йомғағымды күрмәнеңме, абыстай? тигән</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>йомро-йомро йомғағымды күрмәңме, абыстай? тигән</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -14444,6 +14444,380 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
+    <TIER ANNOTATOR="08" DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="rp" PARTICIPANT="SP1" TIER_ID="rp@SP1"/>
+    <TIER ANNOTATOR="10" DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="qt" PARTICIPANT="SP1" TIER_ID="qt@SP1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lit" PARENT_REF="ref@SP1" PARTICIPANT="SP1" TIER_ID="lit@SP1"/>
+    <TIER DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="not" PARENT_REF="ref@SP1" PARTICIPANT="SP1" TIER_ID="not@SP1"/>
+    <TIER ANNOTATOR="09" DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="typ" PARENT_REF="rp@SP1" PARTICIPANT="SP1" TIER_ID="typ@SP1"/>
+    <TIER ANNOTATOR="03" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rx" PARENT_REF="mb@SP1" PARTICIPANT="SP1" TIER_ID="ps@SP1"/>
+    <TIER ANNOTATOR="11" DEFAULT_LOCALE="en" LANG_REF="eng" LINGUISTIC_TYPE_REF="par" PARENT_REF="ge@SP1" PARTICIPANT="SP1" TIER_ID="par@SP1"/>
+    <TIER DEFAULT_LOCALE="fr" LINGUISTIC_TYPE_REF="ft" PARENT_REF="ref@SP1" PARTICIPANT="SP" TIER_ID="ft_rus@SP1">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2852" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>кругленький-кругленький клубок не виделели ли, добрые люди? говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2853" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>идет девочка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2854" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>сейчас... кругленький-кругленький клубок не виделели ли, добрые люди спрашивает тех кто встретился на пути</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2855" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>пожилые люди</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2856" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>нет, не видели </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2857" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>потом дальше идёт</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2858" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>в ту сторону покатился говорят</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2859" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>теперь шла-шла по дороге, спрашивая</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2860" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>не виделе ли кругленького клубочка </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2861" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>там есть дом, дым клубится</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2862" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>туда зашёл говорят</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2863" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>вот зашла девочка </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2864" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>в дом (избушка) сидит одинокая старушка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2865" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>доченька, кругленький.... ой... бабушка кругленького клубочка не видела говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2866" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>закатился, доченька, говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2867" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>ой доченька говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2868" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ты пришла говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2869" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>давай чай попьём говорит жила она одна</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2870" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>вот вскипятила чай бабушке, доченька, всипятила чай</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2871" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>в бане бабушку искупала</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2872" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>после того, как напоила чаем, баню натопила, в бане искупала</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2873" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>затем помыла хорошенько в бане бабаушку</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2874" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>старушка потом... девочка убралась  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2875" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>бабушке теперь я можно пойду домой, бабушка, говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2876" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>поблагодарила</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2877" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>доченька, не уходи, останься на сегодня поспать говорит </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2878" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>завтра уйдёшь говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2879" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>бабушка, можно я пойду, девочка говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2880" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>на чердаке говорит, чердак это называем </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2881" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>на чердаке есть сундук спусте его хочу одарить тебя</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2882" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>этот сундук говорит отдала девочке сундук</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2883" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>отдавая сказала вернёшься откроешь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2884" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>... онв была бедняжка сиротой </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2885" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>и открой только по возвращении.  оой девочка вернулась</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2886" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>а её мачеха побив выгнала мачеха </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2887" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>деовчек было двое мачеха приказав найти круглый клубок выставила ту девочку</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2888" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>когда выгнала, к той бабушке пришла</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2889" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>заходи, говорит бабушка, к которой прикатился круглый клубок, здесь (клубок) говоритт</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2890" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>вот ухаживала хорошо за бабушкой</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2891" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>много сделала</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2892" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>вот только когда вернёшься, сундук откроешь говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2893" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>вернулась...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2894" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>в её сундуку столько разных красивых вещей оказалось</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2895" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>и одежда была</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2896" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>обрадованная вернулась</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2897" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>матери это самое...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2898" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>когда эта девочка вернулась, та мачеха и свою дочь выгнала, сказав, иди, и ты богатой возвращайся </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2899" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>ту девочку выставила</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2900" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>после того как эта девочка вернулась с такой удачей</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2901" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>девочка идёт и спрашивает не видели ли тот же круглый клубок </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2902" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>встречных ругала рахными словами на ходу</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2903" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>каждый раз плохими словами</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2904" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>вот... бабушка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2905" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>круглый клубочек не видели кто-то ответил  опять </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2906" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>мимо проходит, опять спрашивает</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2907" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>в тот же дом зашла девочка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2908" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>и клубок туда закатился</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2909" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>когда зашла к бабушке,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2910" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>спрашивает бабушку, не видела ли она клубок, у нас сказала бабушка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2911" ANNOTATION_REF="a112">
+                <ANNOTATION_VALUE>бабушка говорит вскипяти чай</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2912" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE>меня в бане помоешь, доченька</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2913" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>приготовишь поесть когда сказала бабушку ругая разными словами поволкла в баню</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2914" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>в холдную баню</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2915" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>бабушку обратно приволокла</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2916" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>потом бабушка говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2917" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>узнав такое плохое поведение</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2918" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>иди-ка на чердаке есть снудук</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2919" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE>возьми и уходи говорит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2920" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>только когда вернёшься, откроешь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2921" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE>открывает - змеи</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2922" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE>и девочку проглотила, и маму проглотила, вот такая</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2923" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>сказка</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2924" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>вот зло к чему приводит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ref" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="tx" TIME_ALIGNABLE="false"/>
@@ -14452,10 +14826,113 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ge" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="rx" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="rp" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="rp" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="qt" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="qt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lit" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="not" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="typ" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="typ" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="par" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="par" TIME_ALIGNABLE="false"/>
     <LOCALE COUNTRY_CODE="FR" LANGUAGE_CODE="en"/>
     <LOCALE COUNTRY_CODE="FR" LANGUAGE_CODE="fr"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00138502-001" LANG_ID="eng" LANG_LABEL="English (eng)"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="rp">
+        <DESCRIPTION LANG_REF="eng">the reported phrase</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="&quot;she said&quot;, &quot;they told her&quot; etc." LANG_REF="eng">Discourse Reporting Event</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="Quotative Particle" LANG_REF="eng">Quotative</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="speech or thoughts that are being reported" LANG_REF="eng">Discourse Report</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="like, this, etc" LANG_REF="eng">Demonstrative</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="eng">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="qt">
+        <DESCRIPTION LANG_REF="eng">morphosyntactic type of discourse reporting construction</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="he said, I am here" LANG_REF="eng">DR Event + Quote</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="he said, I am here QUOT" LANG_REF="eng">DR Event + Quote + Quotative</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE LANG_REF="eng">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="eng">Bare Quote</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="I am here QUOT" LANG_REF="eng">Quotative + Quote</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="typ">
+        <DESCRIPTION LANG_REF="eng">type of reported discourse</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="hortative or imperative" LANG_REF="eng">Command</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid14">
+            <CVE_VALUE DESCRIPTION="yes, no, well, etc" LANG_REF="eng">Interjection</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid15">
+            <CVE_VALUE DESCRIPTION="hi, good morning, etc" LANG_REF="eng">Greeting or Address</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid13">
+            <CVE_VALUE DESCRIPTION="asking a question" LANG_REF="eng">Question</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid16">
+            <CVE_VALUE LANG_REF="eng">Statement</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="thought" LANG_REF="eng">Thought</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid11">
+            <CVE_VALUE DESCRIPTION="song" LANG_REF="eng">Song</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="feeling" LANG_REF="eng">Feeling</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="action" LANG_REF="eng">Action</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="portion of the story that the teller is recounting" LANG_REF="eng">Story</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="part of an utterance" LANG_REF="eng">Partial</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE DESCRIPTION="she said he said" LANG_REF="eng">Embedded</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="par">
+        <DESCRIPTION LANG_REF="eng">participant mentioned in reported speech event</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE DESCRIPTION="reported listener" LANG_REF="eng">RL</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE DESCRIPTION="reported speaker" LANG_REF="eng">RS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE DESCRIPTION="other" LANG_REF="eng">Other</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE DESCRIPTION="current speaker" LANG_REF="eng">CS</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE DESCRIPTION="current listener" LANG_REF="eng">CL</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE DESCRIPTION="vocatives, terms of address" LANG_REF="eng">Address</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
 </ANNOTATION_DOCUMENT>
