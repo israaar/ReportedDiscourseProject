@@ -104,7 +104,7 @@
         <String>-=</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>35</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
         <Long>0</Long>

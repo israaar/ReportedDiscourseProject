@@ -2,7 +2,11 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
+<<<<<<< Updated upstream
         <Object class="java.awt.Dimension">1537,808</Object>
+=======
+        <Object class="java.awt.Dimension">1440,900</Object>
+>>>>>>> Stashed changes
     </pref>
     <pref key="Interlinear.Tier.Word">
         <String>mot@SP1</String>
@@ -11,6 +15,7 @@
         <Int>1</Int>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
+<<<<<<< Updated upstream
         <Int>0</Int>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
@@ -21,11 +26,21 @@
     </pref>
     <pref key="TimeLineViewer.FontSize">
         <Int>14</Int>
+=======
+        <Int>4</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="Interlinear.Tier.Gloss">
+        <String>ge@SP1</String>
+>>>>>>> Stashed changes
     </pref>
     <pref key="Interlinear.Tier.Parse">
         <String>mb@SP1</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
+<<<<<<< Updated upstream
         <String>tx@SP-cp</String>
     </pref>
     <pref key="Annotate.Tier.Gloss">
@@ -33,6 +48,12 @@
     </pref>
     <pref key="TimeLineViewer.TickerMode">
         <Boolean>true</Boolean>
+=======
+        <String>ref@SP1</String>
+    </pref>
+    <pref key="Annotate.Tier.Gloss">
+        <String>ge</String>
+>>>>>>> Stashed changes
     </pref>
     <pref key="Annotate.Tier.Pos">
         <String>rx</String>
@@ -93,14 +114,12 @@
     <pref key="ActiveRecognizerName">
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
+<<<<<<< Updated upstream
     <pref key="GridViewer.TierName">
         <String>not@SP1</String>
-    </pref>
-    <pref key="Interlinear.LexiconSource">
-        <String>C:\Users\GestionERC\Desktop\ReportedDiscourseProject\bashkir\190911_bashkir_dic_elan.eafl</String>
-    </pref>
+=======
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,23</Object>
+        <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="Annotate.Tier.Parse">
         <String>mb</String>
@@ -128,10 +147,47 @@
     </pref>
     <pref key="MorphemeBreakCharacter.Transmit">
         <Int>0</Int>
+>>>>>>> Stashed changes
+    </pref>
+    <pref key="Interlinear.LexiconSource">
+        <String>C:\Users\GestionERC\Desktop\ReportedDiscourseProject\bashkir\190911_bashkir_dic_elan.eafl</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,23</Object>
+    </pref>
+    <pref key="Annotate.Tier.Parse">
+        <String>mb</String>
+    </pref>
+<<<<<<< Updated upstream
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>271.0</Float>
+    </pref>
+    <pref key="LexiconFileDir">
+        <String>C:\Users\GestionERC\Desktop\ReportedDiscourseProject\bashkir</String>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>58095</Long>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///Users/katyaaplonova/Desktop/bashkir_tales/190719/abzanovo/190719_YNK_KonITelega.wav</String>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <pref key="MorphemeBreakCharacter.Suffix">
+        <String>-=</String>
+    </pref>
+    <pref key="MorphemeBreakCharacter.Transmit">
+        <Int>0</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
         <Long>58036</Long>
     </pref>
+=======
+>>>>>>> Stashed changes
     <pref key="MediaTime">
         <Long>58095</Long>
     </pref>
@@ -141,18 +197,34 @@
         <String>mot@SP1</String>
         <String>mb@SP1</String>
         <String>ge@SP1</String>
+<<<<<<< Updated upstream
         <String>par@SP1</String>
         <String>ps@SP1</String>
         <String>ft_rus@SP1</String>
         <String>tx_bash@SP1</String>
+=======
+        <String>ps@SP1</String>
+        <String>ft_rus@SP1</String>
+        <String>tx@SP-cp</String>
+>>>>>>> Stashed changes
         <String>lit@SP1</String>
         <String>not@SP1</String>
         <String>ft@SP1</String>
         <String>rp@SP1</String>
         <String>typ@SP1</String>
+<<<<<<< Updated upstream
         <String>qt@SP1</String>
     </prefList>
     <prefGroup key="TierColors">
+=======
+        <String>comm</String>
+        <String>qt@SP1</String>
+    </prefList>
+    <prefGroup key="TierColors">
+        <pref key="comm">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+>>>>>>> Stashed changes
         <pref key="qt@SP1">
             <Object class="java.awt.Color">160,0,160</Object>
         </pref>
